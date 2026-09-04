@@ -34,7 +34,7 @@
 source(here("Scripts", "06_Community_analysis", "06_00_Setup.R"))
 
 # Output directory ------------------------------------------------------
-output <- here("Output", "03_Community_analysis", "02_Variation_partitioning", data_type)
+output <- here("Output", "06_Community_analysis", "02_Variation_partitioning", data_type)
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
 # ======================================================================

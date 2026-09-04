@@ -17,7 +17,7 @@
 # Input / Output
 #===========================================================
 
-input_dir="Output/05_Phylogenetic_analysis/Phylo_data"
+input_dir="Output/08_Phylogenetic_analysis/Phylo_data"
 
 
 #===========================================================

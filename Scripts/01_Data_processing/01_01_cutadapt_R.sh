@@ -1,27 +1,36 @@
 #!/bin/bash
+set -e
+timestamp=`date '+%F %R'`
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ##
+
+piplineID="02_Cutadaptor"
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ##
+
+cat <<EOF > log_and_script/script${piplineID}.sh
+#!/bin/bash
 
 ####################################################################
 ## 											
 ## ---------- 	  Check and cut sequence adaptor     ------------ ##
 ## 
+## Original script written by Hiroaki Fujita in 2022. 02. 28.
 ####################################################################
 
-inputdir=01_Demultiplexed_fastaq #- Please input download data from DDBJ
-outputdir=02_Cutadaptor_fastaq
-fseq=NNNNNNGTGYCAGCMGCCGCGGTAA #- 16S 515f Prokaryotes 
-rseq=NNNNNNGGACTACNVGGGTWTCTAAT #- 16S 806rB Prokaryotes
-
-fseq=NNNNNNCTHGGTCATTTAGAGGAASTAA　#- ITS1F_KYO1 Fungi 
-rseq=NNNNNNTTYRCTRCGTTCTTCATC　#- ITS2_KYO2 Fungi
-
-fseq=NNNNNNACBTRGTGTGAATTGCAGRATC　#- ITS_3p62plF1 Plant
-rseq=NNNNNNTCCTCCGCTTATTKATATGC　#- ITS_4unR1 Plant
-
-cutadaptpath=$(which cutadapt) #- Please set the path of Cutadapt
+inputdir=01_Demultiplexed_fastaq
+outputdir=${piplineID}_fastaq
+fseq=$1
+rseq=$2
+thread=$3
+cutadaptpath=$4
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ##
-piplineID=02_Cutadaptor
+piplineID=${piplineID}
 
 ####################################################################
+EOF
+
+cat <<'EOF' >> log_and_script/script${piplineID}.sh
 
 ## ============= Remove and Make directories ==================== ##
 
@@ -41,14 +50,13 @@ echo "cutadapt ${cv}" >> log_and_script/Version.txt
 cat <<RRR > log_and_script/script${piplineID}.R
 
 inputdir="${inputdir}"
-outputdir="${outputdir}"
+outputdir="${piplineID}_fastaq"
 primerf="${fseq}"
 primerr="${rseq}"
 thread=${thread}
 cutadaptpath="${cutadaptpath}"
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ##
-
 piplineID="${piplineID}"
 
 start <- Sys.time()
@@ -56,7 +64,9 @@ print(start); cat("\n")
 ########################################################################
 RRR
 
-cat <<'RRR' >> log_and_script/script02_Cutadaptor.R
+EOF
+cat <<EOF >> log_and_script/script${piplineID}.sh
+cat <<'RRR' >> log_and_script/script${piplineID}.R
 ## ===================== Definition of function =====================  ##
 primerHits <- function(primer, fn) {
    # Counts number of reads in which the primer is found
@@ -73,101 +83,82 @@ allOrients <- function(primer) {
     return(sapply(orients, toString))  # Convert back to character vector
 }
 
-Check.primer = function(fwd= fwd, rev,
+Check.primer = function(fwd= fwd, rev =rvs,
                         path=path, input.fastq=fnFs){
 
   FWD.orients <- allOrients(fwd)
   REV.orients <- allOrients(rev)
 
-  files <- list.files(path, full.names = TRUE)
-
-  tmp1 <- sapply(FWD.orients, function(p) {
-     sum(sapply(files, primerHits, primer = p))
-  })
+  tmp1 <- sapply(FWD.orients, primerHits, fn = list.files(path, full.names = TRUE))
   tmp2 = sapply(REV.orients, primerHits, fn = list.files(path, full.names = TRUE))
   rbind(tmp1,  tmp2)
   
 }
 
 ########################################################################
+
 ######  ====================== Main part ======================  #######
+
 ########################################################################
 
-# -- Create base output directory
-dir.create(outputdir, showWarnings = FALSE)
+# -- Create directory to save
+dir.create(outputdir, showWarnings = F) 
 
-# -- Load library
-library(seqinr); library(stringr); library(ShortRead)
-library(Biostrings); library(dada2); library(doParallel)
+# -- Load library and function
+library(seqinr) ; library(stringr);library(ShortRead)
+library(Biostrings) ; library(dada2); library(doParallel)
 
-run_dirs <- list.dirs(inputdir, recursive = FALSE)
+# Difined the directory containing the fastq files after unzipping
+path.dir <- inputdir                                   
 
-if (length(run_dirs) == 0) {
-  stop("No Run directories found")
+if( length( list.files(path.dir) ) > 0 ){
+  path = path.dir
+}else{
+  stop("The path directory is missing\n")
 }
 
-for (run_path in run_dirs) {
+################################################################################################
 
-  run_name <- basename(run_path)
-  cat("Processing:", run_name, "\n")
+# Infer Sequence Variants
+fnFs <- sort(list.files(path, full.names = TRUE))
+#sample.names <- apply( sapply(strsplit(basename(fnFs), "_"), , c(1,2)), 2, paste, collapse="_")
 
-  # Output folder for each sequencing run
-  run_outdir <- file.path(outputdir, run_name)
-  dir.create(run_outdir, showWarnings = FALSE)
+FWD.ForwardReads = Check.primer(fwd= primerf, rev=primerr, 
+                                input.fastq=fnFs, path=path )
 
-  fnFs <- sort(list.files(run_path, pattern="\\.fastq.gz$", full.names = TRUE))
 
-  if (length(fnFs) == 0) {
-    cat("No FASTQ files in", run_name, "\n")
-    next
-  }
-
-  # Checking primers
-  FWD.ForwardReads = Check.primer(
-    fwd = primerf,
-    rev = primerr,
-    input.fastq = fnFs,
-    path = run_path
-  )
-
-  cat(sprintf('Primer hits in %s: %s\n', run_name, sum(FWD.ForwardReads)))
-
+#if(sum(FWD.ForwardReads)!=0){ 
+  
+  cat(sprintf('The primer found in  %s samples.\n', sum(FWD.ForwardReads)))
   print(FWD.ForwardReads)
-
-  # Output file name
-  fnFs.cut <- file.path(run_outdir, basename(fnFs))
-
+  
+  fnFs.cut <- file.path(outputdir, basename(fnFs))
+  
   RVS.RC <- dada2:::rc(primerr)
-  R1.flags <- paste("-g", primerf, "-a", RVS.RC)
-
-  cl <- makeCluster(detectCores(logical = FALSE))
+  
+  # Trim FWD and the reverse-complement of REV off of R1 (forward reads)
+  R1.flags <- paste("-g", primerf,  "-a", RVS.RC) 
+  
+  cl <- makeCluster(detectCores(logical=FALSE))
   registerDoParallel(cl)
-
-  tmp <- foreach(f = seq_along(fnFs)) %dopar% {
-    invisible(system2(
-      cutadaptpath,
-      args = c(
-        R1.flags,
-        "-n", 2,
-        "-j", 2,
-        "--max-n", 0,
-        "-o", fnFs.cut[f],
-        "-m", 10,
-        fnFs[f]
-      )
-    ))
+  
+  # Run Cutadapt
+  tmp <- foreach(f=1:length(fnFs)) %dopar% {
+    invisible(system2(cutadaptpath, args = c(R1.flags, "-n", 2,  "-j", 2, "--max-n",0, # -n 2 required to remove FWD and REV from reads
+                                         "-o", fnFs.cut[f], "-m", 10, # output files
+                                         fnFs[f])) ) # input files
   }
 
-  stopCluster(cl)
-
-  cat("Finished:", run_name, "\n\n")
-}
+#}
 
 finish <- Sys.time()
 print(sprintf("Finish. %s", finish-start)); cat("\n")
 
 RRR
-Rscript log_and_script/script02_Cutadaptor.R 2>&1 | tee  log_and_script/log02_Cutadaptor.txt
+Rscript log_and_script/script${piplineID}.R 2>&1 | tee  log_and_script/log${piplineID}.txt
 
-find 02_Cutadaptor_fastaq -size -500c -delete
+find ${piplineID}_fastaq -size -500c -delete
+
+EOF
+
 

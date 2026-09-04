@@ -29,16 +29,15 @@ dir.create(output,showWarnings = FALSE,recursive = TRUE)
 # ============================================================
 # 1. Load sequence data
 # ============================================================
-data <- readRDS(here(input, "seqOTUtab.rds")) |> as.data.frame()
+data <- readRDS(here(input, "seqOTUtab_filtered.rds")) |> as.data.frame()
 
 # Identify OTUs detected in negative controls.
 nega  <- data[grepl("nega", rownames(data)), ]
 negaf <- nega[, colSums(nega) > 0]
-# write.csv(negaf, here(output, "Plant_negative_control.csv"))
 
-# Remove OTUs detected in negative controls and negative-control samples.
-# All OTUs detected in negative controls were not Viridiplantae,
-# so all corresponding OTUs were excluded.
+# OTUs detected in negative controls and negative-control samples were removed,
+# because all corresponding OTUs were not Viridiplantae.(Please check "SeqOTUtab.rds")
+
 dataf <- data |>
   select(-any_of(colnames(negaf))) |>
   filter(!grepl("nega",rownames(data)))

@@ -40,7 +40,7 @@
 source(here("Scripts", "06_Community_analysis", "06_00_Setup.R"))
 
 # Output directory ------------------------------------------------------
-output <- here("Output", "03_Community_analysis", "03_PERMDISP",
+output <- here("Output", "06_Community_analysis", "03_PERMDISP",
                data_type, sample_type)
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 

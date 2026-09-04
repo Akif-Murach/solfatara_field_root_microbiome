@@ -8,7 +8,7 @@
 #   Data/<dataset>/Seqdata/<run>/stall_no_rmchimera.rds
 #
 # Output:
-#   Output/<dataset>/ASV_decontam/merge_seqtab.nochim.rds
+#   Output/01_Data_processing/<dataset>/merge_seqtab.nochim.rds
 #
 # Datasets:
 #   - Prokaryote
@@ -91,7 +91,7 @@ for (dataset in names(dataset_config)) {
   message("Processing: ", dataset)
   message("========================================")
   
-  output_dir <- here("Output", dataset, "ASV_decontam")
+  output_dir <- here("Output", "01_Data_processing", dataset)
   dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
   
   tables <- load_sequence_tables(dataset_config[[dataset]]$sequence_files)
