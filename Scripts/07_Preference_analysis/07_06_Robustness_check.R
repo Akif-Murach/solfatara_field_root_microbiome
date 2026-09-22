@@ -2,6 +2,7 @@
 
 # Purpose: Perform robustness check across different filtering thresholds 
 # (e.g., th1, th3, th5) using Spearman rank correlation for Z-score matrices (2DP or d').
+# All cells with matching row and column names are pooled into one correlation.
 
 # Input: Files read via read_zscore(): Output/07_Preference_analysis/2DP/<data_type>//
 # th/2DP_Zvalue_.rds OR Output/07_Preference_analysis/dprime/<data_type>//th/dprime_Zvalue_.rds
@@ -20,8 +21,8 @@ library(broom)
 library(here)
 
 # Settings -------------------------------------------------------------
-data_type <- "Prokaryote" # "Prokaryote" or "Fungi"
-analysis <- "dprime" # "2DP" or "dprime"
+data_type <- "Fungi" # "Prokaryote" or "Fungi"
+analysis <- "2DP" # "2DP" or "dprime"
 focus <- "host" # "habitat" or "host"
 direction <- "host" # "microbe" or "host"
 thresholds <- c(1, 3, 5)
@@ -46,7 +47,8 @@ source(here("Function", "Run_robustness_check.R"))
 axis_label <- get_axis_label(analysis = analysis, data_type = data_type,
                              focus = focus, direction = direction)
 zscore_list <- read_zscore(data_type = data_type, analysis = analysis,
-                           focus = focus, direction = direction, thresholds = thresholds)
+                           focus = focus, direction = direction, 
+                           thresholds = thresholds)
 threshold_pairs <- combn(thresholds, 2, simplify = FALSE)
 
 condition <- if (analysis == "2DP") focus else direction
@@ -63,7 +65,7 @@ walk(threshold_pairs, \(pair) {
     mat2 = zscore_list[[paste0("th", threshold2)]],
     threshold1 = threshold1, threshold2 = threshold2,
     label = axis_label, output_dir = analysis_output,
-    file_prefix = file_prefix, first_col_only = TRUE,
+    file_prefix = file_prefix, first_col_only = FALSE,
     zero_lines = (analysis == "2DP")
   )
 })

@@ -1,0 +1,1 @@
+RID: 27K0EWDV014 Job Title:Nucleotide Sequence Program: Database: core_nt Core nucleotide BLAST database Query #1: Query ID: lcl|Query_6362323 Length: 112 No significant similarity found.

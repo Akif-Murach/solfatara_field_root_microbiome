@@ -42,7 +42,7 @@ source(here("Scripts", "07_Preference_analysis", "07_00_Setup.R"))
 pref_dir <- here("Output", "07_Preference_analysis")
 seq_dir  <- here("Data", data_type, "Seqdata")
 
-output_dir <- file.path(pref_dir, data_type, "Figures")
+output_dir <- file.path(pref_dir, "Figures", data_type, paste0("th",threshold))
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
 # ======================================================================
@@ -76,11 +76,12 @@ mdp_p <- readRDS(file.path(mdp_dir, "dprime_two_sided_FDR_microbe.rds")) |>
 # ======================================================================
 # 3. Preprocessing
 # ======================================================================
-# Remove OTUs containing NA from the 2DP matrix ------------------------
-valid_otu <- rownames(tdp_z)[rowSums(is.na(tdp_z)) == 0]
+# Keep OTUs even when some or all 2DP cells are untestable.
+valid_otu <- rownames(tdp_z)
 
 tdp_z <- tdp_z[valid_otu, , drop = FALSE]
 tdp_p <- tdp_p[valid_otu, , drop = FALSE]
+tdp_p[is.na(tdp_z)] <- NA_real_
 
 mdp_z <- mdp_z |> filter(OTU %in% valid_otu)
 mdp_p <- mdp_p |> filter(OTU %in% valid_otu)
@@ -131,6 +132,7 @@ tax_hier <- tax_df |>
   mutate(across(c(Phylum, Class, Order, Family, Genus), ~ replace_na(.x, "Unidentified")))
 
 # Hierarchical clustering based on 2DP Z-scores ------------------------
+# Preserve the existing zero fill for ordering only; plotted Z-scores stay NA.
 tdp_matrix <- tdp_z
 tdp_matrix[is.na(tdp_matrix)] <- 0
 
@@ -166,8 +168,8 @@ host_order <- c(
 df_tile_dprime <- mdp_z |>
   left_join(mdp_p, by = "OTU") |>
   mutate(
-    OTU_label = factor(OTU, levels = otu_order, labels = otu_labels)
-  )
+    OTU_label = factor(OTU, levels = otu_order, labels = otu_labels))|>
+  mutate(p_val = if_else(is.na(dprime), NA_real_, p_val))
 
 d_plt_dprime <- ggplot(
   df_tile_dprime,
@@ -192,6 +194,7 @@ d_plt_dprime <- ggplot(
     mid = "white",
     high = "firebrick",
     midpoint = 0,
+    na.value = "grey75",
     name = "Preference for host"
   ) +
   theme_bw(base_size = 12) +
@@ -213,8 +216,8 @@ df_tile_2dp <- as.data.frame(tdp_z) |>
   ) |>
   mutate(
     Host      = fct_relevel(Host, host_order),
-    OTU_label = factor(OTU, levels = otu_order, labels = otu_labels)
-  )
+    OTU_label = factor(OTU, levels = otu_order, labels = otu_labels))|>
+  mutate(p_val = if_else(is.na(Zscore), NA_real_, p_val))
 
 d_plt_2dp <- ggplot(
   df_tile_2dp,
@@ -239,6 +242,7 @@ d_plt_2dp <- ggplot(
     mid = "white",
     high = "#D55E00",
     midpoint = 0,
+    na.value = "grey75",
     name = paste0("Host x ", data_type, " 2DP")
   ) +
   theme_bw(base_size = 12) +
@@ -255,7 +259,8 @@ df_host_dprime <- tibble(
   dprime = as.numeric(hdp_z),
   p_val  = as.numeric(hdp_p[names(hdp_z)])
 ) |>
-  mutate(Host = fct_relevel(Host, host_order))
+  mutate(Host = fct_relevel(Host, host_order))|>
+  mutate(p_val = if_else(is.na(dprime), NA_real_, p_val))
 
 d_plt_host_dprime <- ggplot(
   df_host_dprime,
@@ -274,10 +279,12 @@ d_plt_host_dprime <- ggplot(
     size = 6,
     color = "white"
   ) +
-  scale_fill_gradient(
-    low = "white",
+  scale_fill_gradient2(
+    low = "#56B",
+    mid = "white",
     high = "darkgreen",
-    limits = c(0, max(df_host_dprime$dprime, na.rm = TRUE)),
+    midpoint = 0,
+    na.value = "grey75",
     name = paste0("Preference for ", data_type)
   ) +
   theme_bw(base_size = 12) +

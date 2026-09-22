@@ -5,7 +5,7 @@
 #
 # Input:
 #   Output/04_Soil_analysis/01_Cation_processing/
-#     - All_ex_cations_long_cor_blank.rds
+#     - All_ex_cations_long_corrected.rds
 #     - All_soil_analysis_wilcox_test_result.csv
 #
 # Output:
@@ -45,7 +45,7 @@ cation_order <- c("Ca", "Mg", "K", "Na", "Al", "Mn", "Zn", "Pb", "Ni")
 # 2. Load processed data
 # ======================================================================
 # Blank-corrected and LOD-filtered cation data.
-cation_data_long <- readRDS(file.path(input, "All_ex_cations_long_cor_blank.rds")) |>
+cation_data_long <- readRDS(file.path(input, "All_ex_cations_long_corrected.rds")) |>
   mutate(
     habitat = factor(habitat, levels = habitat_order),
     Measurement = factor(Measurement, levels = cation_order)

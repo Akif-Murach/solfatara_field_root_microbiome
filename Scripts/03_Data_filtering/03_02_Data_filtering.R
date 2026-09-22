@@ -5,15 +5,15 @@ library(here)
 # Argument settings
 #===========================================================
 
-data_type <- "Prokaryote"   # "Prokaryote" or "Fungi"
-sample_type <- "Root&Soil"       # "Root" or "Soil" or "Root&Soil"
-th <- 3 # OTU occurence threshold >= 1 or 3 or 5 
+data_type <- "Fungi"  # "Prokaryote" or "Fungi"
+sample_type <- "Soil"      # "Root" or "Soil" or "Root&Soil"
+th <- 1 # OTU occurence threshold >= 1 or 3 or 5 
 #===========================================================
 # Input file
 #===========================================================
 # Read rarefied OTU table and metadata
 
-input1 <- here("Output", "01_Data_processing", "Covrfy", data_type)
+input1 <- here("Output", "01_Data_processing", data_type, "Covrfy")
 input1rs<-here("Output", "03_Data_filtering", "Seqdata", data_type,
                "Root&Soil")
 #OTU table
@@ -73,5 +73,5 @@ write.csv(meta_fil,
   output2,
   paste0(
     data_type, "_", sample_type,
-    paste0("_metadata_th",th,"fil.csv"))))
+    paste0("_metadata_th",th,"fil.csv"))),row.names = FALSE)
 

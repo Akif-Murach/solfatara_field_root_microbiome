@@ -1,4 +1,4 @@
-# 01_09_Coverage_rarefaction.R
+# 01_10_Coverage_rarefaction.R
 #===========================================================
 # Coverage-based rarefaction
 #===========================================================
@@ -13,16 +13,16 @@ library(dplyr)
 # Analysis settings
 #===========================================================
 data_type <- "Prokaryote"   # "Prokaryote" or "Fungi"
-compartment <- "Root"       # "Root" or "Soil"
+sample_type <- "Soil"       # "Root" or "Soil"
 
 # Read-depth threshold for initial filtering
-read_threshold <- if (compartment == "Root") 2000 else 5000
+read_threshold <- if (sample_type == "Root") 2000 else 5000
 
 # Input file
 input_file <- here("Data", data_type, "Seqdata", "seqOTUtab_filtered.rds")
 
 # Output directory
-output_dir <- here("Output", "01_Data_processing", "Covrfy", data_type)
+output_dir <- here("Output", "01_Data_processing", data_type, "Covrfy")
 
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 #===========================================================
@@ -47,15 +47,15 @@ rmf_seq <- rm_seq[!grepl("nega", rownames(rm_seq)), ]
 root_seq <- rmf_seq[!grepl("Soil", rownames(rmf_seq)), ]
 soil_seq <- rmf_seq[grepl("Soil", rownames(rmf_seq)), ]
 
-# Select compartment
-seq <- if (compartment == "Root") root_seq else soil_seq
+# Select sample_type
+seq <- if (sample_type == "Root") root_seq else soil_seq
 
 #===========================================================
 # Rarefaction curve
 #===========================================================
 
 rarecurve_file <- file.path(output_dir,
-                            paste0(data_type, "_", compartment, "_rarecurve.pdf"))
+                            paste0(data_type, "_", sample_type, "_rarecurve.pdf"))
 
 pdf(rarecurve_file, width = 8, height = 6)
 
@@ -69,7 +69,7 @@ dev.off()
 sumbdt2 <- rowSums(seq)
 
 hist(sumbdt2, breaks = 100,
-  main = paste(data_type, compartment),
+  main = paste(data_type, sample_type),
   xlab = "Sequencing reads")
 
 axis(1, at = seq(0, 10000, by = 1000))
@@ -151,7 +151,7 @@ stopCluster(cl)
 #===========================================================
 hist(
   cvrrare,
-  main = paste(data_type, compartment),
+  main = paste(data_type, sample_type),
   xlab = "Required sequencing depth")
 
 print(cvrrare)
@@ -162,7 +162,7 @@ print(cvrrare)
 
 coverage_depth_file <- file.path(
   output_dir,
-  paste0(data_type, "_", compartment, "_cov_depth_read.rds"))
+  paste0(data_type, "_", sample_type, "_cov_depth_read.rds"))
 
 saveRDS(cvrrare, coverage_depth_file)
 
@@ -178,6 +178,6 @@ OTU_covrared <- rrarefy(OTU_filtered, cvrrare)
 # Output
 #===========================================================
 rarefied_file <- file.path(
-  output_dir,paste0(data_type,"_",compartment,"_coverage_rared.rds"))
+  output_dir,paste0(data_type,"_",sample_type,"_coverage_rared.rds"))
 
 saveRDS(OTU_covrared,rarefied_file)

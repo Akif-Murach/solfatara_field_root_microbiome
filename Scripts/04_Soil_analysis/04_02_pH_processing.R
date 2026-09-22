@@ -2,21 +2,24 @@
 #
 # Purpose:
 #   Process soil pH data by:
-#   (1) calculating descriptive statistics, and
-#   (2) testing habitat differences in soil pH.
+#   (1) creating patch-level metadata from raw metadata,
+#   (2) calculating descriptive statistics of soil pH, and
+#   (3) testing habitat differences in soil pH across sites.
 #
 # Input:
-#   Data/Soil_analysis/
-#     - metadata_patch_level.csv
+#   Data/Plant/Metadata/
+#     - Raw_metadata_sheet.csv
 #
 # Output:
 #   Output/04_Soil_analysis/02_pH_processing/
+#     - metadata_patch_level.csv
 #     - pH_summary.csv
 #     - pH_test_result.csv
 #
 # Statistical analysis:
 #   - Wilcoxon rank-sum tests were performed separately by site to compare soil pH between habitats.
-#   - P-values were adjusted using the Benjamini-Hochberg method.
+#   - Effect sizes (r) for the Wilcoxon test were calculated using rstatix::wilcox_effsize().
+#   - P-values were adjusted using the Benjamini-Hochberg (BH) method.
 #
 # R version:
 #   R 4.5.3
@@ -25,7 +28,6 @@
 #   tidyverse
 #   here
 #   rstatix
-
 # ======================================================================
 # 1. Setup
 # ======================================================================
@@ -34,7 +36,7 @@ library(here)
 library(rstatix)
 
 # Input and output directories ------------------------------------------
-input <- here("Data", "Soil_analysis")
+input <- here("Data", "Plant", "Metadata", "Raw_metadata_sheet.csv")
 output <- here("Output", "04_Soil_analysis", "02_pH_processing")
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
@@ -42,7 +44,14 @@ dir.create(output, showWarnings = FALSE, recursive = TRUE)
 # 2. Load and prepare pH data
 # ======================================================================
 # Soil pH measured at the sampling-patch level.
-metadata_patch <- read.csv(file.path(input, "metadata_patch_level.csv")) |>
+metadata<-read.csv(input)|>
+  mutate(SID = str_extract(Sample_ID, "(?<=_)[^_]+(?=_)")|>
+           str_remove("(?<=[A-Za-z])"))
+metadata_patch <- metadata|>select(-c(Sample_ID,number))|>
+  distinct(SID, .keep_all = TRUE)
+write.csv(metadata_patch, file.path(output,"metadata_patch_level.csv"),
+          row.names = FALSE)
+metadata_patch <- metadata_patch|>
   mutate(habitat = factor(habitat, levels = c("Solfatara field", "Forest edge")))
 
 # ======================================================================

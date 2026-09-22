@@ -5,8 +5,7 @@
 #   for local BLAST-based plant identification.
 #
 # Input:
-#   Data/Plant/seqOTUtab.rds
-#   Data/Plant/taxonomy_list.rds
+#   Data/Plant/seqOTUtab_filtered.rds
 #   Data/Plant/OTUseq_0.97.fasta
 #   Function/Adapt_max_gleaning.R
 #
@@ -29,26 +28,21 @@ dir.create(output,showWarnings = FALSE,recursive = TRUE)
 # ============================================================
 # 1. Load sequence data
 # ============================================================
-data <- readRDS(here(input, "seqOTUtab_filtered.rds")) |> as.data.frame()
+data <- readRDS(here(input, "seqOTUtab_filtered.rds")) |>
+  as.data.frame()
+# OTUs detected in negative controls were checked in the unfiltered
+# "seqOTUtab.rds". All were identified as non-Viridiplantae based on
+# Claident assignments and manual BLAST searches and were excluded
+# by the upstream Viridiplantae filter.
 
-# Identify OTUs detected in negative controls.
-nega  <- data[grepl("nega", rownames(data)), ]
-negaf <- nega[, colSums(nega) > 0]
-
-# OTUs detected in negative controls and negative-control samples were removed,
-# because all corresponding OTUs were not Viridiplantae.(Please check "SeqOTUtab.rds")
-
-dataf <- data |>
-  select(-any_of(colnames(negaf))) |>
-  filter(!grepl("nega",rownames(data)))
+# Remove negative-control samples.
+dataf <- data[!grepl("nega", rownames(data)), , drop = FALSE]
 
 # ============================================================
-# 2. Keep plant OTUs
+# 2. Remove OTUs absent from biological samples
 # ============================================================
-taxa <- readRDS(here(input, "taxonomy_list.rds"))
-plant_taxa <- taxa |> dplyr::filter(Kingdom == "Viridiplantae")
+# Viridiplantae filtering was completed in 01_08_OTU_clustering.R.
 plant_data <- dataf |>
-  select(any_of(plant_taxa$ID)) |>
   select(where(~ sum(.) > 0))
 
 # ============================================================
@@ -57,6 +51,13 @@ plant_data <- dataf |>
 # Keep the sample with the maximum sequencing reads
 # for samples with multiple gleaning replicates.
 plant_datag <- remove_non_G(plant_data)
+
+sample_id_map <- tibble(
+  sequencing_sample_id = rownames(plant_datag),
+  Sample_ID = gsub("_(G4|G3|G2|G)_", "_", rownames(plant_datag)))
+if (anyDuplicated(sample_id_map$Sample_ID)) {
+  stop("Duplicate sample IDs remained after gleaning-ID normalization.")}
+rownames(plant_datag) <- sample_id_map$Sample_ID
 
 # ============================================================
 # 4. Split root and leaf samples

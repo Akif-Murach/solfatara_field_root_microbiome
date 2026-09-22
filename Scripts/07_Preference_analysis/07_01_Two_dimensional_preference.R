@@ -41,6 +41,15 @@
 library(here)
 # Load analysis settings -----------------------------------------------
 source(here("Scripts", "07_Preference_analysis", "07_00_Setup.R"))
+
+# Fix the analysis type and output path for this entry point.
+analysis <- "2DP"
+output <- here(
+  "Output", "07_Preference_analysis", analysis,
+  data_type, focus, paste0("th", threshold)
+)
+dir.create(output, showWarnings = FALSE, recursive = TRUE)
+
 # Load functions -------------------------------------------------------
 source(here("Function", "Blocksample.R"))
 source(here("Function", "Taxa.mat.R"))
@@ -143,19 +152,15 @@ stopCluster(cl)
 # 4. Z-scores calculation
 # ======================================================================
 rand_mean <- results$sum / rand
-
 rand_var <- (results$sq_sum / rand) - rand_mean^2
 
 # Convert to unbiased variance (finite sample size correction) ----------
 rand_var <- rand_var * rand / (rand - 1)
-
 rand_sd <- sqrt(rand_var)
 rand_sd[rand_sd == 0] <- NA
 
 z_mat <- (or_f2 - rand_mean) / rand_sd
 z_mat[is.nan(z_mat)] <- NA
-
-z_mat2 <- na.omit(z_mat)
 
 # ======================================================================
 # 5. Extract Z-scores and calculate two-sided P-values
@@ -165,17 +170,15 @@ z_mat2 <- na.omit(z_mat)
 # therefore, only one habitat is retained for downstream analyses.
 
 if (focus == "habitat") {
-  
-  z_A <- z_mat2[, "Solfatara field"]
-  
+  z_A <- z_mat[, "Solfatara field"]
+　
   pos_cnt_A <- results$pos_cnt[, "Solfatara field"]
   neg_cnt_A <- results$neg_cnt[, "Solfatara field"]
   
   # Calculate two-sided P-values by doubling the smaller tail
   p_two <- 2 * pmin(
     (pos_cnt_A + 1) / (rand + 1),
-    (neg_cnt_A + 1) / (rand + 1)
-  )
+    (neg_cnt_A + 1) / (rand + 1))
   
   p_two[p_two > 1] <- 1
   
@@ -184,9 +187,7 @@ if (focus == "habitat") {
     ncol = 1,
     dimnames = list(
       rownames(results$pos_cnt),
-      "Solfatara field"
-    )
-  )
+      "Solfatara field"))
   
 } else {
   
@@ -202,7 +203,9 @@ if (focus == "habitat") {
 # ======================================================================
 # 6. Multiple-testing correction (FDR)
 # ======================================================================
-# P-values are adjusted across OTUs using the Benjamini-Hochberg (BH) procedure.
+# Untestable cells have no P-value; retain the existing pooled BH family
+# across all testable OTU x focus cells (not separate host-wise families).
+p_two[is.na(z_mat[, colnames(p_two), drop = FALSE])] <- NA_real_
 
 p_vec <- as.vector(p_two)
 valid <- !is.na(p_vec)
@@ -214,37 +217,17 @@ p_mat_fdr2 <- matrix(
   p_adj,
   nrow = nrow(p_two),
   ncol = ncol(p_two),
-  dimnames = dimnames(p_two)
-)
+  dimnames = dimnames(p_two))
 
 # ======================================================================
 # 7. Save results
 # ======================================================================
 if (focus == "habitat") {
-  
-  saveRDS(
-    z_A,
-    file.path(
-      output,
-      paste0("2DP_Zvalue_", focus, ".rds")
-    )
-  )
-  
+  saveRDS(z_A, file.path(output, 
+                         paste0("2DP_Zvalue_", focus, ".rds")))
 } else {
-  
-  saveRDS(
-    z_mat2,
-    file.path(
-      output,
-      paste0("2DP_Zvalue_", focus, ".rds")
-    )
-  )
+  saveRDS(z_mat, file.path(output, 
+                            paste0("2DP_Zvalue_", focus, ".rds")))
 }
-
-saveRDS(
-  p_mat_fdr2,
-  file.path(
-    output,
-    paste0("2DP_two_sided_FDR_", focus, ".rds")
-  )
-)
+saveRDS(p_mat_fdr2, file.path(output, 
+                              paste0("2DP_two_sided_FDR_", focus, ".rds")))

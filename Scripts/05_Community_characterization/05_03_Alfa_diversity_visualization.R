@@ -36,8 +36,8 @@ library(ggpubr)
 library(ggh4x)
 
 # Analysis settings -----------------------------------------------------
-data_type <- "Prokaryote"   # "Prokaryote" or "Fungi"
-sample_type <- "Soil"       # "Root", "Soil", or "Root&Soil"
+data_type <- "Fungi"   # "Prokaryote" or "Fungi"
+sample_type <- "Root"       # "Root" or "Root&Soil"
 
 # Input and output directories ------------------------------------------
 input <- here("Output", "05_Community_characterization", "02_Alfa_diversity", data_type, sample_type)

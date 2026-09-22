@@ -1,0 +1,2755 @@
+RID: 6H2X3D1U014	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_4056217 Length: 272
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Chusquea serpens internal transcribed spacer 1, partial...        Chusquea ser... NA              47441      257    257   78%   5e-64 88.43  702        KF945256.1       
+Chusquea loxensis internal transcribed spacer 1, partial...       Chusquea lox... NA              1249119    257    257   78%   5e-64 88.37  699        KF945241.1       
+Chusquea gigantea internal transcribed spacer 1, partial...       Chusquea gig... NA              1565403    254    254   78%   7e-63 88.02  657        KF945232.1       
+Chusquea aristata internal transcribed spacer 1, partial...       Chusquea ari... NA              323896     254    254   78%   7e-63 88.26  704        KF945268.1       
+Nastus productus internal transcribed spacer 1, partial...        Widjajachloa... NA              323911     254    254   78%   7e-63 88.02  701        KF945253.1       
+Chusquea pittieri internal transcribed spacer 1, partial...       Chusquea pit... NA              1566899    254    254   78%   7e-63 88.02  705        KF945251.1       
+Chusquea scabra internal transcribed spacer 1, partial sequenc... Chusquea scabra NA              1566900    252    252   78%   2e-62 87.96  703        KF945255.1       
+Chusquea longispiculata internal transcribed spacer 1, partial... Chusquea lon... NA              1566891    252    252   78%   2e-62 87.96  704        KF945239.1       
+Chusquea capituliflora var. pubescens voucher A.C. Mota 349...    Chusquea cap... NA              1716552    252    252   78%   2e-62 87.91  571        KR061475.1       
+Chusquea vulcanalis internal transcribed spacer 1, partial...     Chusquea vul... NA              49000      252    252   78%   2e-62 87.96  703        KF945267.1       
+Chusquea sp. Mota 329 internal transcribed spacer 1, partial...   Chusquea sp.... NA              1732010    252    252   78%   2e-62 87.96  590        KR061488.1       
+Chusquea maculata internal transcribed spacer 1, partial...       Chusquea mac... NA              1249120    252    252   78%   2e-62 87.96  703        KF945243.1       
+Chusquea anelythra isolate FS11731 internal transcribed spacer... Chusquea ane... NA              2269506    252    252   78%   2e-62 87.96  596        MH252235.1       
+Chusquea leptophylla isolate FS11743 internal transcribed spac... Chusquea lep... NA              1566890    252    252   78%   2e-62 87.96  691        MH252240.1       
+Chusquea aff. longispiculata IO-2018 isolate FS11733 internal...  Chusquea aff... NA              2269513    252    252   78%   2e-62 87.96  691        MH252233.1       
+Chusquea longifolia internal transcribed spacer 1, partial...     Chusquea lon... NA              1249117    252    252   78%   2e-62 87.96  703        KF945238.1       
+Chusquea sp. Mota 307 internal transcribed spacer 1, partial...   Chusquea sp.... NA              1732006    252    252   78%   2e-62 87.96  590        KR061484.1       
+Chusquea sp. Mota 300 internal transcribed spacer 1, partial...   Chusquea sp.... NA              1732007    252    252   78%   2e-62 87.96  590        KR061485.1       
+Chusquea clemirae isolate FS15300 internal transcribed spacer ... Chusquea cle... NA              2269508    252    252   78%   2e-62 87.96  691        MH252238.1       
+Chusquea patens internal transcribed spacer 1, partial sequenc... Chusquea patens NA              519242     252    252   78%   2e-62 87.96  704        KF945248.1       
+Chusquea pinifolia isolate FS17322 internal transcribed spacer... Chusquea pin... NA              47443      252    252   78%   2e-62 87.96  591        MH252244.1       
+Chusquea meyeriana isolate FS11739 internal transcribed spacer... Chusquea mey... NA              2269509    252    252   78%   2e-62 87.96  686        MH252242.1       
+Chusquea paludicola internal transcribed spacer 1, partial...     Chusquea pal... NA              1249122    252    252   78%   2e-62 87.96  703        KF945247.1       
+Chusquea sp. Mota 322 internal transcribed spacer 1, partial...   Chusquea sp.... NA              1732011    252    252   78%   2e-62 87.96  590        KR061489.1       
+Chusquea aff. leptophylla IO-2018 isolate FS11742 internal...     Chusquea aff... NA              2269512    252    252   78%   2e-62 87.96  617        MH252232.1       
+Chusquea aff. meyeriana IO-2018 isolate FS11734 internal...       Chusquea aff... NA              2269514    252    252   78%   2e-62 87.96  589        MH252234.1       
+Chusquea foliosa internal transcribed spacer 1, partial...        Chusquea fol... NA              1249114    252    252   78%   2e-62 87.96  703        KF945231.1       
+Chusquea lehmannii internal transcribed spacer 1, partial...      Chusquea leh... NA              1249115    252    252   78%   2e-62 87.96  703        KF945236.1       
+Chusquea attenuata isolate FS11740 internal transcribed spacer... Chusquea att... NA              2269507    252    252   78%   2e-62 87.96  691        MH252236.1       
+Chusquea coronalis internal transcribed spacer 1, partial...      Chusquea cor... NA              47445      252    252   78%   2e-62 87.96  704        KF945227.1       
+Chusquea aff. anelythra IO-2018 isolate FS15259 internal...       Chusquea aff... NA              2269510    252    252   78%   2e-62 87.96  691        MH252230.1       
+Chusquea lorentziana internal transcribed spacer 1, partial...    Chusquea lor... NA              1249118    252    252   78%   2e-62 87.96  703        KF945240.1       
+Chusquea subtilis internal transcribed spacer 1, partial...       Chusquea sub... NA              1249127    252    252   78%   2e-62 87.96  703        KF945259.1       
+Chusquea spencei internal transcribed spacer 1, partial...        Chusquea spe... NA              48998      252    252   78%   2e-62 87.96  703        KF945257.1       
+Fargesia fractiflexa 18S ribosomal RNA gene, partial sequence;... Drepanostach... NA              146647     250    250   82%   9e-62 86.73  618        AF280972.1       
+Fargesia yulongshanensis voucher YLDP013A small subunit...        Borinda yulo... NA              146643     250    250   82%   9e-62 86.73  660        MH117532.1       
+Yushania niitakayamensis isolate Y79902 18S ribosomal RNA gene... Yushania nii... NA              146662     250    250   82%   9e-62 86.73  618        MN433580.1       
+Fargesia decurvata isolate f04 18S ribosomal RNA gene, partial... Fargesia dec... NA              862988     250    250   82%   9e-62 86.73  618        JX841186.1       
+Fargesia emaculata isolate F334 18S ribosomal RNA gene, partia... Borinda emac... NA              1676236    250    250   82%   9e-62 86.73  618        MN433524.1       
+Fargesia yulongshanensis isolate F483 18S ribosomal RNA gene,...  Borinda yulo... NA              146643     250    250   82%   9e-62 86.73  618        MN433557.1       
+Chusquea maclurei internal transcribed spacer 1, partial...       Chusquea mac... NA              1566892    248    248   78%   3e-61 87.56  704        KF945242.1       
+Chusquea tonduzii internal transcribed spacer 1, partial...       Chusquea ton... NA              1249128    248    248   78%   3e-61 87.50  703        KF945263.1       
+Chusquea robusta internal transcribed spacer 1, partial...        Chusquea rob... NA              1249125    248    248   78%   3e-61 87.56  704        KF945254.1       
+Chusquea fendleri internal transcribed spacer 1, partial...       Chusquea fen... NA              387742     248    248   78%   3e-61 87.56  704        KF945230.1       
+Chusquea albilanata internal transcribed spacer 1, partial...     Chusquea alb... NA              1566888    248    248   78%   3e-61 87.56  705        KF945224.1       
+Chusquea capituliflora var. pubescens voucher A.C. Mota 346a...   Chusquea cap... NA              1716552    246    246   78%   1e-60 87.44  600        KR061473.1       
+Chusquea capituliflora voucher A.C. Mota 303 (HUEFS) internal...  Chusquea cap... NA              1716551    246    246   78%   1e-60 87.50  600        KR061480.1       
+Chusquea capituliflora var. pubescens voucher A.C. Mota 346c...   Chusquea cap... NA              1716552    246    246   78%   1e-60 87.44  600        KR061476.1       
+Chusquea pulchella voucher A.C. Mota 407a (HUEFS) internal...     Chusquea pul... NA              1716554    246    246   78%   1e-60 87.44  595        KR061478.1       
+Chusquea virgata 5.8S ribosomal RNA gene, partial sequence;...    Chusquea vir... NA              330864     246    246   78%   1e-60 87.61  725        KF945266.1       
+Chusquea aff. ibiramae IO-2018 isolate FS17328 internal...        Chusquea aff... NA              2269511    246    246   78%   1e-60 87.50  588        MH252231.1       
+Chusquea bahiana voucher A.C. Mota 294 (HUEFS) internal...        Chusquea bah... NA              1716549    246    246   78%   1e-60 87.44  600        KR061481.1       
+Chusquea urelytra voucher A.C. Mota 281 (HUEFS) internal...       Chusquea ure... NA              684050     246    246   78%   1e-60 87.44  599        KR061477.1       
+Chusquea antioquensis internal transcribed spacer 1, partial...   Chusquea ant... NA              1249138    246    246   78%   1e-60 87.50  703        KF945226.1       
+Chusquea subtessellata internal transcribed spacer 1, partial...  Chusquea sub... NA              47440      246    246   78%   1e-60 87.50  703        KF945258.1       
+Chusquea ciliatifolia voucher A.C. Mota 389a (HUEFS) internal...  Chusquea cil... NA              1716553    246    246   78%   1e-60 87.44  598        KR061464.1       
+Chusquea oligophylla voucher A.C. Mota 321 (HUEFS) internal...    Chusquea oli... NA              48996      246    246   78%   1e-60 87.50  600        KR061468.1       
+Chusquea sp. Ferreira 2065 isolate FS10918 internal transcribe... Chusquea sp.... NA              1933663    246    246   78%   1e-60 87.44  849        KX016111.1       
+Fargesia jiulongensis isolate F297 18S ribosomal RNA gene,...     Fargesia jiu... NA              2490303    244    244   82%   4e-60 86.28  618        MN433596.1       
+Chusquea uniflora internal transcribed spacer 1, partial...       Chusquea uni... NA              1566903    244    244   78%   4e-60 87.10  705        KF945265.1       
+Arundinaria faberi internal transcribed spacer 1, 5.8S ribosom... Sarocalamus ... NA              548140     244    244   82%   4e-60 86.28  592        EU847129.1       
+Chimonocalamus sp. XRS01 18S small subunit ribosomal RNA gene,... Chimonocalam... NA              3090682    244    244   85%   4e-60 85.84  8706       OR760060.1       
+Fargesia dracocephala isolate f01 18S ribosomal RNA gene,...      Fargesia dra... NA              281079     244    244   82%   4e-60 86.28  618        JX841183.1       
+Borinda muliensis isolate F75801 18S ribosomal RNA gene, parti... Borinda muli... NA              2729204    244    244   82%   4e-60 86.28  618        MN433535.1       
+Chusquea perotensis internal transcribed spacer 1, partial...     Chusquea per... NA              1566898    244    244   78%   4e-60 86.98  702        KF945249.1       
+Fargesia dracocephala isolate f09 18S ribosomal RNA gene,...      Fargesia dra... NA              281079     244    244   82%   4e-60 86.28  618        JX841191.1       
+Fargesia spathacea 18S ribosomal RNA gene, partial sequence;...   Fargesia spa... NA              146655     244    244   82%   4e-60 86.34  619        KP725332.1       
+Chusquea juergensii internal transcribed spacer 1, partial...     Chusquea jue... NA              49001      244    244   78%   4e-60 87.10  703        KF945235.1       
+Chusquea tessellata internal transcribed spacer 1, partial...     Chusquea tes... NA              47439      243    243   78%   2e-59 87.16  705        KF945261.1       
+Chusquea oxylepis voucher A.C. Mota 310a (HUEFS) internal...      Chusquea oxy... NA              49014      241    241   78%   5e-59 86.98  574        KR061470.1       
+Chusquea bambusoides voucher A.C. Mota 317 (HUEFS) internal...    Chusquea bam... NA              323894     241    241   78%   5e-59 87.04  600        KR061482.1       
+Neurolepis elata internal transcribed spacer 1, partial...        Chusquea elata  NA              416051     241    241   74%   5e-59 88.18  478        HQ292292.1       
+Chusquea oligophylla voucher A.C. Mota 271a (HUEFS) internal...   Chusquea oli... NA              48996      241    241   78%   5e-59 87.04  600        KR061466.1       
+Chusquea oxylepis internal transcribed spacer 1, partial...       Chusquea oxy... NA              49014      241    241   78%   5e-59 86.98  713        KF945246.1       
+Chusquea oxylepis voucher A.C. Mota 310b (HUEFS) internal...      Chusquea oxy... NA              49014      241    241   78%   5e-59 86.98  576        KR061471.1       
+Chusquea capitata voucher A.C. Mota 328 (HUEFS) internal...       Chusquea cap... NA              1716550    241    241   78%   5e-59 86.98  600        KR061463.1       
+Chusquea ciliatifolia voucher A.C. Mota 389b (HUEFS) internal...  Chusquea cil... NA              1716553    241    241   78%   5e-59 86.98  598        KR061465.1       
+Fargesia qinlingensis isolate f12 18S ribosomal RNA gene,...      Fargesia qin... NA              862990     239    239   82%   2e-58 85.90  619        JX841194.1       
+Yushania vigens isolate Y770 18S ribosomal RNA gene, partial...   Yushania vigens NA              2490348    239    239   82%   2e-58 85.84  618        MN433590.1       
+Fargesia qinlingensis isolate f11 18S ribosomal RNA gene,...      Fargesia qin... NA              862990     239    239   82%   2e-58 85.90  619        JX841193.1       
+Chimonocalamus sp. XRS20 18S small subunit ribosomal RNA gene,... Chimonocalam... NA              3090681    239    239   85%   2e-58 85.41  8706       OR760059.1       
+Chimonocalamus griffithianus isolate MT34 18S small subunit...    Chimonocalam... NA              1197756    239    239   85%   2e-58 85.34  9108       OR760090.1       
+Yushania violascens 18S ribosomal RNA gene, partial sequence;...  Yushania vio... NA              1676253    239    239   82%   2e-58 85.84  618        KP725362.1       
+Fargesia nitida isolate F2801 18S ribosomal RNA gene, partial...  Fargesia nitida NA              146652     239    239   82%   2e-58 85.90  619        MN433537.1       
+Chimonocalamus sp. 19025 18S small subunit ribosomal RNA gene,... Chimonocalam... NA              3090684    239    239   85%   2e-58 85.41  8600       OR760062.1       
+Fargesia brevissima isolate F794 18S ribosomal RNA gene, parti... Fargesia bre... NA              2729211    239    239   82%   2e-58 85.90  618        MN433594.1       
+Chimonocalamus griffithianus isolate MT25 18S small subunit...    Chimonocalam... NA              1197756    239    239   85%   2e-58 85.34  9108       OR760091.1       
+Fargesia emaculata 18S ribosomal RNA gene, partial sequence;...   Borinda emac... NA              1676236    239    239   82%   2e-58 85.90  619        KP725320.1       
+Yushania pingshanensis isolate Y765 18S ribosomal RNA gene,...    Yushania pin... NA              2490340    239    239   82%   2e-58 85.84  618        MN433582.1       
+Fargesia xianggelilaensis isolate F501 18S ribosomal RNA gene,... Borinda xian... NA              2490351    239    239   82%   2e-58 85.90  619        MN433600.1       
+Fargesia murielae 18S ribosomal RNA gene, partial sequence;...    Fargesia mur... NA              146651     239    239   82%   2e-58 85.90  619        KP725325.1       
+Chimonocalamus griffithianus voucher KUN MT15 internal...         Chimonocalam... NA              1197756    239    239   85%   2e-58 85.34  567        JN247368.1       
+Chimonocalamus griffithianus voucher KUN NP26 internal...         Chimonocalam... NA              1197756    239    239   85%   2e-58 85.34  567        JN247370.1       
+Chimonocalamus griffithianus isolate NP27 18S small subunit...    Chimonocalam... NA              1197756    239    239   82%   2e-58 85.84  9106       OR760088.1       
+Chusquea pohlii internal transcribed spacer 1, partial sequenc... Chusquea pohlii NA              1249124    239    239   78%   2e-58 86.76  707        KF945252.1       
+Fargesia hygrophila 18S ribosomal RNA gene, partial sequence;...  Borinda hygr... NA              146650     239    239   82%   2e-58 85.84  618        KP725349.1       
+Fargesia ostrina isolate F760 18S ribosomal RNA gene, partial...  Fargesia ost... NA              2729218    239    239   82%   2e-58 85.90  623        MN433544.1       
+Fargesia scabrida 18S ribosomal RNA gene, partial sequence;...    Fargesia sca... NA              1306440    239    239   82%   2e-58 85.90  619        KP725331.1       
+Yushania violascens isolate Y60102 18S ribosomal RNA gene,...     Yushania vio... NA              1676253    239    239   82%   2e-58 85.84  618        MN433592.1       
+Fargesia robusta 18S ribosomal RNA gene, partial sequence;...     Fargesia rob... NA              360876     239    239   82%   2e-58 85.90  619        KP725329.1       
+
+
+Alignments:
+
+>Chusquea serpens internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945256.1 Length: 702
+Range 1: 288 to 503
+
+Score:257 bits(139), Expect:5e-64, 
+Identities:191/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   |||| ||||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGTAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea loxensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945241.1 Length: 699
+Range 1: 285 to 499
+
+Score:257 bits(139), Expect:5e-64, 
+Identities:190/215(88%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  285  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  344
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  345  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  404
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| ||
+Sbjct  405  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGTG  464
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  465  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  499
+
+
+
+
+>Chusquea gigantea internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945232.1 Length: 657
+Range 1: 242 to 458
+
+Score:254 bits(137), Expect:7e-63, 
+Identities:191/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  242  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  301
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  302  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  361
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| |
+Sbjct  362  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGT  421
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  422  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  458
+
+
+
+
+>Chusquea aristata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945268.1 Length: 704
+Range 1: 292 to 504
+
+Score:254 bits(137), Expect:7e-63, 
+Identities:188/213(88%),  Gaps:2/213(0%), Strand: Plus/Plus
+
+Query  5    GAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCCTA  64
+            |||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||| 
+Sbjct  292  GAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCCTG  351
+
+Query  65   CCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGCAT  123
+            ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| ||||| |
+Sbjct  352  CCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGCGT  411
+
+Query  124  TTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATGCC  182
+            ||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||||
+Sbjct  412  TTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTGCC  471
+
+Query  183  GGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||| |||||||||||||||||||||||||
+Sbjct  472  GGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  504
+
+
+
+
+>Nastus productus internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945253.1 Length: 701
+Range 1: 288 to 504
+
+Score:254 bits(137), Expect:7e-63, 
+Identities:191/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  ||||||||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGTGCGGTGGGCCGAAGTTCGGGCTGCCGGCGTAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  504
+
+
+
+
+>Chusquea pittieri internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945251.1 Length: 705
+Range 1: 288 to 504
+
+Score:254 bits(137), Expect:7e-63, 
+Identities:191/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||  ||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCGCCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT---TGGGCAGGGCGGGGGAAGCG  119
+            | ||||||||||||||||||||||||||||||||||    | ||| |||||| ||| |||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCCTCGGCGGGGCGGAGGACGCG  407
+
+Query  120  GCATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCA  178
+            || |||||||||   |||| ||||| |||||||||||||||| ||| |||| | ||||| 
+Sbjct  408  GCGTTTGGCCCCCCGTGCCGTAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCG  467
+
+Query  179  TGCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||||| |||||||||||||||||||||||||
+Sbjct  468  TGCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  504
+
+
+
+
+>Chusquea scabra internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945255.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea longispiculata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945239.1 Length: 704
+Range 1: 289 to 504
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  289  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  348
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  349  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  408
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  409  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  468
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  469  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  504
+
+
+
+
+>Chusquea capituliflora var. pubescens voucher A.C. Mota 349 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061475.1 Length: 571
+Range 1: 282 to 496
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:189/215(88%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  282  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  341
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| |||||||||
+Sbjct  342  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGAAGCGGC  401
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  402  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  461
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  462  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  496
+
+
+
+
+>Chusquea vulcanalis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945267.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea sp. Mota 329 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061488.1 Length: 590
+Range 1: 300 to 515
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  300  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  359
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  360  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  419
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  420  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  479
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  480  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  515
+
+
+
+
+>Chusquea maculata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945243.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea anelythra isolate FS11731 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252235.1 Length: 596
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea leptophylla isolate FS11743 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252240.1 Length: 691
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea aff. longispiculata IO-2018 isolate FS11733 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252233.1 Length: 691
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea longifolia internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945238.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea sp. Mota 307 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061484.1 Length: 590
+Range 1: 300 to 515
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  300  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  359
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  360  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  419
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  420  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  479
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  480  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  515
+
+
+
+
+>Chusquea sp. Mota 300 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061485.1 Length: 590
+>Chusquea sp. Mota 320 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061486.1 Length: 590
+>Chusquea sp. Mota 323 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061487.1 Length: 590 
+Range 1: 300 to 515
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  300  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  359
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  360  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  419
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  420  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  479
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  480  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  515
+
+
+
+
+>Chusquea clemirae isolate FS15300 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252238.1 Length: 691
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea patens internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945248.1 Length: 704
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea pinifolia isolate FS17322 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252244.1 Length: 591
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea meyeriana isolate FS11739 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252242.1 Length: 686
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea paludicola internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945247.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea sp. Mota 322 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061489.1 Length: 590
+>Chusquea ramosissima voucher A.C. Mota 311 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061490.1 Length: 590
+>Chusquea sp. Mota 282 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061491.1 Length: 590 
+Range 1: 300 to 515
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  300  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  359
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  360  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  419
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  420  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  479
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  480  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  515
+
+
+
+
+>Chusquea aff. leptophylla IO-2018 isolate FS11742 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252232.1 Length: 617
+Range 1: 222 to 437
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  222  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  281
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  282  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  341
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  342  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  401
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  402  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  437
+
+
+
+
+>Chusquea aff. meyeriana IO-2018 isolate FS11734 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH252234.1 Length: 589
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea foliosa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945231.1 Length: 703
+>Chusquea tomentosa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945262.1 Length: 703 
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea lehmannii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945236.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea attenuata isolate FS11740 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252236.1 Length: 691
+>Chusquea meyeriana isolate FS11737 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252241.1 Length: 691 
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea coronalis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945227.1 Length: 704
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||  ||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCGCCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   || | ||||| |||||||||||||||| ||| |||| | ||||| |
+Sbjct  408  CGTTTGGCCCCCCGTGGCGTAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea aff. anelythra IO-2018 isolate FS15259 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MH252230.1 Length: 691
+Range 1: 296 to 511
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||||||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  511
+
+
+
+
+>Chusquea lorentziana internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945240.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea subtilis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945259.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea spencei internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945257.1 Length: 703
+Range 1: 288 to 503
+
+Score:252 bits(136), Expect:2e-62, 
+Identities:190/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Fargesia fractiflexa 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8 S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: AF280972.1 Length: 618
+Range 1: 317 to 542
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia yulongshanensis voucher YLDP013A small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH117532.1 Length: 660
+>Fargesia yulongshanensis voucher YLDP013B small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH117533.1 Length: 660 
+Range 1: 336 to 561
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  336  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  395
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  396  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  455
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  456  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  515
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  516  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  561
+
+
+
+
+>Yushania niitakayamensis isolate Y79902 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433580.1 Length: 618
+Range 1: 317 to 542
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia decurvata isolate f04 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841186.1 Length: 618
+Range 1: 317 to 542
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia emaculata isolate F334 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433524.1 Length: 618
+Range 1: 317 to 542
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia yulongshanensis isolate F483 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433557.1 Length: 618
+Range 1: 317 to 542
+
+Score:250 bits(135), Expect:9e-62, 
+Identities:196/226(87%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||||||
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCATG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Chusquea maclurei internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945242.1 Length: 704
+Range 1: 288 to 504
+
+Score:248 bits(134), Expect:3e-61, 
+Identities:190/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  504
+
+
+
+
+>Chusquea tonduzii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945263.1 Length: 703
+Range 1: 288 to 503
+
+Score:248 bits(134), Expect:3e-61, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||| ||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGANGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea robusta internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945254.1 Length: 704
+Range 1: 288 to 504
+
+Score:248 bits(134), Expect:3e-61, 
+Identities:190/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT---TGGGCAGGGCGGGGGAAGCG  119
+            | ||||||||||||||||||||||||||||||||||    | ||| |||||| ||| |||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCCTCGGCGGGGCGGAGGACGCG  407
+
+Query  120  GCATTTGGCCCCT-ATGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCA  178
+            || |||||||||  |||||  | || |||||||||||||||| ||| |||| | | ||| 
+Sbjct  408  GCGTTTGGCCCCCCATGCCGCATGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCG  467
+
+Query  179  TGCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||||| |||||||||||||||||||||||||
+Sbjct  468  TGCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  504
+
+
+
+
+>Chusquea fendleri internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945230.1 Length: 704
+Range 1: 288 to 504
+
+Score:248 bits(134), Expect:3e-61, 
+Identities:190/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  504
+
+
+
+
+>Chusquea albilanata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945224.1 Length: 705
+Range 1: 289 to 505
+
+Score:248 bits(134), Expect:3e-61, 
+Identities:190/217(88%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  289  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  348
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  349  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  408
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  409  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  468
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  469  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  505
+
+
+
+
+>Chusquea capituliflora var. pubescens voucher A.C. Mota 346a (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061473.1 Length: 600
+>Chusquea capituliflora var. pubescens voucher A.C. Mota 346b (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061474.1 Length: 600 
+Range 1: 311 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  311  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  370
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  371  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  430
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  431  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  490
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  491  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea capituliflora voucher A.C. Mota 303 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061480.1 Length: 600
+Range 1: 310 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  429
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||| ||||||||||| ||| |||| ||| ||| |
+Sbjct  430  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGTGTAGCGT  489
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  490  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea capituliflora var. pubescens voucher A.C. Mota 346c (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061476.1 Length: 600
+Range 1: 311 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  311  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  370
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  371  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  430
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  431  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  490
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  491  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea pulchella voucher A.C. Mota 407a (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061478.1 Length: 595
+>Chusquea pulchella voucher A.C. Mota 407b (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061479.1 Length: 595 
+Range 1: 306 to 520
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  306  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  365
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  366  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  425
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  426  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  485
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  486  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  520
+
+
+
+
+>Chusquea virgata 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945266.1 Length: 725
+Range 1: 310 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:191/218(88%),  Gaps:7/218(3%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  429
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGC--AGC  177
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||  |||
+Sbjct  430  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCC-G-GCATAGC  487
+
+Query  178  ATGCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+             ||||||||||| |||||||||||||||||||||||||
+Sbjct  488  GTGCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea aff. ibiramae IO-2018 isolate FS17328 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH252231.1 Length: 588
+Range 1: 296 to 511
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  296  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  355
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  356  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  415
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | ||||| ||
+Sbjct  416  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCGTG  475
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            ||||||||| ||||||||||||||||| ||| ||||
+Sbjct  476  CCGGGCACAGCGCAAGGTGGGCGATCTTCGCTCTCT  511
+
+
+
+
+>Chusquea bahiana voucher A.C. Mota 294 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061481.1 Length: 600
+Range 1: 311 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  311  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  370
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  371  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  430
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  431  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  490
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  491  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea urelytra voucher A.C. Mota 281 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061477.1 Length: 599
+>Chusquea urelytra voucher A.C. Mota 301 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061483.1 Length: 599 
+Range 1: 310 to 524
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  429
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  430  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  489
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  490  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  524
+
+
+
+
+>Chusquea antioquensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945226.1 Length: 703
+Range 1: 288 to 503
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  ||||  ||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCACGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea subtessellata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945258.1 Length: 703
+>Chusquea talamancensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945260.1 Length: 703 
+Range 1: 288 to 503
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  503
+
+
+
+
+>Chusquea ciliatifolia voucher A.C. Mota 389a (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061464.1 Length: 598
+Range 1: 309 to 523
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  309  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  368
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | |||  ||||| ||| |||||
+Sbjct  369  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGAGGCGGAGGACGCGGC  428
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||||||
+Sbjct  429  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCATG  488
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  489  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  523
+
+
+
+
+>Chusquea oligophylla voucher A.C. Mota 321 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061468.1 Length: 600
+>Chusquea oligophylla voucher A.C. Mota 325 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061469.1 Length: 600 
+Range 1: 310 to 525
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:189/216(88%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | | | |||||||||| ||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGACGGGGCGGGGGACGCGG  429
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | ||||| |
+Sbjct  430  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGCAGCGT  489
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  490  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea sp. Ferreira 2065 isolate FS10918 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: KX016111.1 Length: 849
+Range 1: 454 to 668
+
+Score:246 bits(133), Expect:1e-60, 
+Identities:188/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  454  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  513
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  514  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  573
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  574  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  633
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  634  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  668
+
+
+
+
+>Fargesia jiulongensis isolate F297 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433596.1 Length: 618
+Range 1: 317 to 542
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:195/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Chusquea uniflora internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945265.1 Length: 705
+Range 1: 289 to 505
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:189/217(87%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  289  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  348
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||  ||| ||||
+Sbjct  349  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGNAGGACGCGG  408
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  409  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  468
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  469  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  505
+
+
+
+
+>Arundinaria faberi internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: EU847129.1 Length: 592
+Range 1: 301 to 526
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:195/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  301  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  360
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  361  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  420
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  | || |||||||||||||||| ||| |||| | ||||||||
+Sbjct  421  GTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCATG  480
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  481  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  526
+
+
+
+
+>Chimonocalamus sp. XRS01 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760060.1 Length: 8706
+Range 1: 2114 to 2346
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:200/233(86%),  Gaps:3/233(1%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+             | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  2233
+
+Query  121   CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+               ||||||||||  ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  2234  TGTTTGGCCCCTCTTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  2293
+
+Query  180   GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+             |||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  2294  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  2346
+
+
+
+
+>Fargesia dracocephala isolate f01 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841183.1 Length: 618
+>Fargesia dracocephala isolate f06 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841188.1 Length: 618
+>Fargesia dracocephala isolate f10 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841192.1 Length: 618 
+Range 1: 317 to 542
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:195/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCCTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Borinda muliensis isolate F75801 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433535.1 Length: 618
+Range 1: 317 to 542
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:195/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Chusquea perotensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945249.1 Length: 702
+Range 1: 288 to 502
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| | | || | |||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCNANGCCATCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  407
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||| | ||| |||| | ||||| ||
+Sbjct  408  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGATCGGGCTGCCGGCGCAGCGTG  467
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  468  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  502
+
+
+
+
+>Fargesia dracocephala isolate f09 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841191.1 Length: 618
+Range 1: 317 to 542
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:195/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCCTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia spathacea 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725332.1 Length: 619
+>Fargesia spathacea voucher Q904 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH711712.1 Length: 619 
+Range 1: 317 to 543
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:196/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||||
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAT  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Chusquea juergensii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945235.1 Length: 703
+Range 1: 288 to 504
+
+Score:244 bits(132), Expect:4e-60, 
+Identities:189/217(87%),  Gaps:4/217(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+              |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  TGTTTGGCCCCCCGTGCCGCAGGGNGCGGTGGGCCGAAGTTCGGGCTGCCGGCGTAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCT-CGCACTCT  215
+            |||||||||| ||||||||||||||||| ||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATCTTCGCACTCT  504
+
+
+
+
+>Chusquea tessellata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945261.1 Length: 705
+Range 1: 288 to 505
+
+Score:243 bits(131), Expect:2e-59, 
+Identities:190/218(87%),  Gaps:5/218(2%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  407
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||| |
+Sbjct  408  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGAAGCGT  467
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGAT-C-TCGCACTCT  215
+            |||||||||| ||||||||||||||| | |||||||||
+Sbjct  468  GCCGGGCACAGCGCAAGGTGGGCGATACCTCGCACTCT  505
+
+
+
+
+>Chusquea oxylepis voucher A.C. Mota 310a (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061470.1 Length: 574
+Range 1: 285 to 499
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  285  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  344
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  345  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  404
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  405  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  464
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  465  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  499
+
+
+
+
+>Chusquea bambusoides voucher A.C. Mota 317 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061482.1 Length: 600
+Range 1: 310 to 525
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:188/216(87%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  429
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| |
+Sbjct  430  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGT  489
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  490  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Neurolepis elata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: HQ292292.1 Length: 478
+Range 1: 276 to 478
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:179/203(88%),  Gaps:2/203(0%), Strand: Plus/Plus
+
+Query  5    GAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCCTA  64
+            |||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||| 
+Sbjct  276  GAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCCTG  335
+
+Query  65   CCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGCAT  123
+            ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| ||||| |
+Sbjct  336  CCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGCGT  395
+
+Query  124  TTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATGCC  182
+            ||||||||   ||||  |||| |||||||||||||||||||| |||| | ||||| ||||
+Sbjct  396  TTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTTGGGCTGCCGGCGCAGCGTGCC  455
+
+Query  183  GGGCACAACGCAAGGTGGGCGAT  205
+            ||||||| |||||||||||||||
+Sbjct  456  GGGCACAGCGCAAGGTGGGCGAT  478
+
+
+
+
+>Chusquea oligophylla voucher A.C. Mota 271a (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061466.1 Length: 600
+>Chusquea oligophylla voucher A.C. Mota 271b (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061467.1 Length: 600 
+Range 1: 310 to 525
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:188/216(87%),  Gaps:3/216(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | | | |||||| ||| ||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGACGGGGCGGAGGACGCGG  429
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | ||||| |
+Sbjct  430  CGTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGCAGCGT  489
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            |||||||||| |||||||||||||||||||||||||
+Sbjct  490  GCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  525
+
+
+
+
+>Chusquea oxylepis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945246.1 Length: 713
+Range 1: 299 to 513
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  299  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  358
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  359  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  418
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  419  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  478
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  479  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  513
+
+
+
+
+>Chusquea oxylepis voucher A.C. Mota 310b (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061471.1 Length: 576
+Range 1: 287 to 501
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  287  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  346
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  347  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  406
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  407  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  466
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  467  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  501
+
+
+
+
+>Chusquea capitata voucher A.C. Mota 328 (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061463.1 Length: 600
+Range 1: 310 to 524
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| || ||||||||||||
+Sbjct  310  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGTCGAGGGCACGCC  369
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||||
+Sbjct  370  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGC  429
+
+Query  122  ATTTGGC-CCCTATGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||| |||  ||||  |||| |||| ||||||||||| ||| |||| | | ||| ||
+Sbjct  430  GTTTGGCTCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGCCGGCGTAGCGTG  489
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  490  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  524
+
+
+
+
+>Chusquea ciliatifolia voucher A.C. Mota 389b (HUEFS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KR061465.1 Length: 598
+Range 1: 309 to 523
+
+Score:241 bits(130), Expect:5e-59, 
+Identities:187/215(87%),  Gaps:2/215(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| ||| |||||||||||||||
+Sbjct  309  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCCGGCCGAGGGCACGCC  368
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | |||  ||||| ||| |||||
+Sbjct  369  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGAGGCGGAGGACGCGGC  428
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||| ||||||||||| ||| || | | | ||||||
+Sbjct  429  GTTTGGCCCCCCGTGCCGCAGGGCGCGGAGGGCCGAAGTTCGGGCTGTCGGCGTAGCATG  488
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            ||||||||| |||||||||||||||||||||||||
+Sbjct  489  CCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  523
+
+
+
+
+>Fargesia qinlingensis isolate f12 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841194.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Yushania vigens isolate Y770 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433590.1 Length: 618
+Range 1: 317 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia qinlingensis isolate f11 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: JX841193.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Chimonocalamus sp. XRS20 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760059.1 Length: 8706
+Range 1: 2114 to 2346
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:199/233(85%),  Gaps:3/233(1%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+             | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  2233
+
+Query  121   CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+               |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  2234  TGTTTGGCCCCCCCTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  2293
+
+Query  180   GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+             |||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  2294  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  2346
+
+
+
+
+>Chimonocalamus griffithianus isolate MT34 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760090.1 Length: 9108
+Range 1: 2114 to 2345
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:198/232(85%),  Gaps:2/232(0%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+             | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  2233
+
+Query  122   ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+              | |||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  2234  GTCTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  2293
+
+Query  181   CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+             ||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  2294  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  2345
+
+
+
+
+>Yushania violascens 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725362.1 Length: 618
+Range 1: 317 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||     |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTTGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia nitida isolate F2801 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433537.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCAAGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Chimonocalamus sp. 19025 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760062.1 Length: 8600
+Range 1: 2114 to 2346
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:199/233(85%),  Gaps:3/233(1%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+             | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  2233
+
+Query  121   CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+               |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  2234  TGTTTGGCCCCCCCTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  2293
+
+Query  180   GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+             |||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  2294  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  2346
+
+
+
+
+>Fargesia brevissima isolate F794 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433594.1 Length: 618
+Range 1: 316 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  316  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  375
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  376  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  435
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  436  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCAC  495
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  496  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Chimonocalamus griffithianus isolate MT25 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760091.1 Length: 9108
+Range 1: 2114 to 2345
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:198/232(85%),  Gaps:2/232(0%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+             | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  2233
+
+Query  122   ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+              | |||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  2234  GTCTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  2293
+
+Query  181   CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+             ||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  2294  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  2345
+
+
+
+
+>Fargesia emaculata 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725320.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+              |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  TGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Yushania pingshanensis isolate Y765 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433582.1 Length: 618
+Range 1: 317 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||     |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTTGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  | || |||||||||||||||||||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTTGGGGTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia xianggelilaensis isolate F501 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433600.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| | | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCATCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+              |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  TGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Fargesia murielae 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725325.1 Length: 619
+>Fargesia murielae voucher Q906 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH711714.1 Length: 619 
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Chimonocalamus griffithianus voucher KUN MT15 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JN247368.1 Length: 567
+>Chimonocalamus griffithianus voucher KUN MT21 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JN247369.1 Length: 567 
+Range 1: 287 to 518
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:198/232(85%),  Gaps:2/232(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  287  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  346
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  347  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  406
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             | |||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  407  GTCTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  466
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+            ||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  467  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  518
+
+
+
+
+>Chimonocalamus griffithianus voucher KUN NP26 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JN247370.1 Length: 567
+Range 1: 287 to 518
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:198/232(85%),  Gaps:2/232(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  287  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  346
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  347  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  406
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             | |||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  407  GTCTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  466
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAGCGGCCC  232
+            ||||||||| | ||||||||||||||||||||||| |||| ||||||| |||
+Sbjct  467  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAGCGCCCC  518
+
+
+
+
+>Chimonocalamus griffithianus isolate NP27 18S small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S large subunit ribosomal RNA gene, complete sequence
+Sequence ID: OR760088.1 Length: 9106
+Range 1: 2114 to 2339
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3     GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+             |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  2114  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  2173
+
+Query  63    TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+             | ||||||||||||||||||||||||||||||||||  | ||| |||| | |||| ||||
+Sbjct  2174  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCAGAGGAAACGGC  2233
+
+Query  122   ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             | ||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| |
+Sbjct  2234  AATTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  2293
+
+Query  181   CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+             ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  2294  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  2339
+
+
+
+
+>Chusquea pohlii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KF945252.1 Length: 707
+Range 1: 288 to 506
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:190/219(87%),  Gaps:6/219(2%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| |||||| |||||||||||||||||||
+Sbjct  288  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCACCAGGCCGAGGGCACGCC  347
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-----TGGGCAGGGCGGGGGAAG  117
+            | ||||||||||||||||||||||||||||||||||      | ||| |||||| ||| |
+Sbjct  348  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCACCCCCTCGGCGGGGCGGAGGACG  407
+
+Query  118  CGGCATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAG  176
+            |||| |||||||||   ||||  |||| |||||||||||||||| ||| |||| | | ||
+Sbjct  408  CGGCGTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTCGGGGTGCCGGCGAAG  467
+
+Query  177  CATGCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCT  215
+            | ||||||||||| |||||||||||||||||||||||||
+Sbjct  468  CGTGCCGGGCACAGCGCAAGGTGGGCGATCTCGCACTCT  506
+
+
+
+
+>Fargesia hygrophila 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725349.1 Length: 618
+Range 1: 317 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||     |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCCTTGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia ostrina isolate F760 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433544.1 Length: 623
+Range 1: 321 to 547
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  321  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  380
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  381  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  440
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  441  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTCGGGCTGCCGGCGCAGCAC  500
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  501  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  547
+
+
+
+
+>Fargesia scabrida 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725331.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+>Yushania violascens isolate Y60102 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MN433592.1 Length: 618
+Range 1: 317 to 542
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:194/226(86%),  Gaps:2/226(0%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||     |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCTTTGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT-TGGGCAGGGCGGGGGAAGCGGC  121
+            | ||||||||||||||||||||||||||||||||||  | ||| |||||| ||| |||| 
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCTCGGCGGGGCGGAGGACGCGGT  436
+
+Query  122  ATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCATG  180
+             |||||||||   ||||  |||| |||||||||||||||| ||| |||| | |||||| |
+Sbjct  437  GTTTGGCCCCCCGTGCCGCAGGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCACG  496
+
+Query  181  CCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            ||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  CCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  542
+
+
+
+
+>Fargesia robusta 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KP725329.1 Length: 619
+Range 1: 317 to 543
+
+Score:239 bits(129), Expect:2e-58, 
+Identities:195/227(86%),  Gaps:3/227(1%), Strand: Plus/Plus
+
+Query  3    GCGAACCATCGAGTCTTTGAATACAAGTTGCGCTCGAGGCTACCAGGCCGAGGGCACGCC  62
+            |||||||||||||||||||||  |||||||||| ||||||   | |||||||||||||||
+Sbjct  317  GCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAGGCCCTCGGGCCGAGGGCACGCC  376
+
+Query  63   TACCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCT--TGGGCAGGGCGGGGGAAGCGG  120
+            | ||||||||||||||||||||||||||||||||||   | ||| |||||| ||| ||||
+Sbjct  377  TGCCTGGGCGTCACGCCAAAAGACGCTCCCCACCCCCCCTCGGCGGGGCGGAGGACGCGG  436
+
+Query  121  CATTTGGCCCCTA-TGCCATAGGGTGCGGTGGGCCGAAGTTTGGGTTGCCCGTGCAGCAT  179
+            | |||||||||   ||||  | || |||||||||||||||| ||| |||| | |||||| 
+Sbjct  437  CGTTTGGCCCCCCGTGCCGCACGGCGCGGTGGGCCGAAGTTGGGGCTGCCGGCGCAGCAC  496
+
+Query  180  GCCGGGCACAACGCAAGGTGGGCGATCTCGCACTCTGTTACATGCAG  226
+            |||||||||| | ||||||||||||||||||||||| |||| |||||
+Sbjct  497  GCCGGGCACAGCACAAGGTGGGCGATCTCGCACTCTCTTACGTGCAG  543
+
+
+
+
+
+
+
+		
+
+

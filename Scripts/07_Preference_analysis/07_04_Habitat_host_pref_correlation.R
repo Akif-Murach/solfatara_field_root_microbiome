@@ -34,6 +34,7 @@
 # ======================================================================
 library(here)
 library(tidyverse)
+library(stats)
 
 # Load analysis settings -----------------------------------------------
 source(here("Scripts", "07_Preference_analysis", "07_00_Setup.R"))
@@ -75,11 +76,19 @@ correlation_data <- preference_df |>
 # ======================================================================
 # 4. Spearman Rank Correlation
 # ======================================================================
-correlation_test <- cor.test(
-  x = correlation_data$habitat_preference,
-  y = correlation_data$host_preference,
-  method = "spearman"
-)
+# NA removal can leave fewer than two complete pairs.
+if (nrow(correlation_data) < 2L) {
+  correlation_test <- list(
+    estimate = c(rho = NA_real_), statistic = c(S = NA_real_),
+    p.value = NA_real_, method = "Spearman's rank correlation rho"
+  )
+} else {
+  correlation_test <- cor.test(
+    x = correlation_data$habitat_preference,
+    y = correlation_data$host_preference,
+    method = "spearman"
+  )
+}
 
 # Combine test results -------------------------------------------------
 correlation_result <- tibble(
@@ -97,3 +106,5 @@ write.csv(
   file = file.path(output, "Preference_correlation_result.csv"),
   row.names = FALSE
 )
+
+correlation_result

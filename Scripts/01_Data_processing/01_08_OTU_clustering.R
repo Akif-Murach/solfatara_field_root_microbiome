@@ -6,45 +6,40 @@
 #   dataset-specific taxonomy filters.
 #
 # Input:
-#   Output/01_Data_processing/<dataset>/merge_seqtab.rds
-#   Output/01_Data_processing/<dataset>/merge_clus_seq.fasta
-#   Output/01_Data_processing/<dataset>/merge_taxonomylist.rds
+#   - Output/01_Data_processing/data_type/merge_seqtab.rds
+#   - Output/01_Data_processing/data_type/merge_taxonomylist.rds
+#   - Output/01_Data_processing/data_type/merge_clus_seq.fasta
 #
 # Output:
-#   Output/01_Data_processing/<dataset>/
+#   Output/01_Data_processing/data_type/
+#     - seqOTUtab.rds
+#     - seqOTUtab.csv
+#     - seqOTUtab_filtered.rds
+#
+#   Data/data_type/Seqdata/
 #     - ASV_OTU_corestab_0.97.txt
 #     - OTUseq_0.97.fasta
 #     - seqAlign_0.97.txt
-#     - seqOTUtab.rds
-#     - seqOTUtab.csv
 #     - OTU_merge_taxonomylist.rds
-#     - seqOTUtab_filtered.rds
-
-library(here)
-
 # ======================================================================
 # 1. Settings
 # ======================================================================
 otu_identity <- 0.97
 vsearch_path <- Sys.getenv("VSEARCH_PATH", unset = "vsearch")
-datasets <- c("Prokaryote", "Fungi", "Plant")
+data_type <- c("Prokaryote", "Fungi", "Plant")
 
 # ======================================================================
 # 2. Helper functions
 # ======================================================================
 cluster_otus <- function(fasta_path, output_dir, identity) {
   shared_path <- file.path(
-    output_dir,
-    paste0("ASV_OTU_corestab_", identity, ".txt")
-  )
+    output_dir, paste0("ASV_OTU_corestab_", identity, ".txt"))
+
   centroid_path <- file.path(
-    output_dir,
-    paste0("OTUseq_", identity, ".fasta")
-  )
+    output_dir, paste0("OTUseq_", identity, ".fasta"))
+  
   alignment_path <- file.path(
-    output_dir,
-    paste0("seqAlign_", identity, ".txt")
-  )
+    output_dir, paste0("seqAlign_", identity, ".txt"))
 
   status <- system2(
     command = vsearch_path,
@@ -53,9 +48,7 @@ cluster_otus <- function(fasta_path, output_dir, identity) {
       "--id", identity,
       "--mothur_shared_out", shared_path,
       "--centroids", centroid_path,
-      "--msaout", alignment_path
-    )
-  )
+      "--msaout", alignment_path))
 
   if (!identical(status, 0L)) {
     stop("VSEARCH clustering failed with exit status ", status)
@@ -66,16 +59,14 @@ cluster_otus <- function(fasta_path, output_dir, identity) {
     header = TRUE,
     row.names = 2,
     check.names = FALSE
-  )[, -c(1:2), drop = FALSE]
-}
+  )[, -c(1:2), drop = FALSE]}
 
 make_otu_table <- function(seqtab, otu_membership) {
   otutab <- matrix(
     0,
     nrow = nrow(seqtab),
     ncol = ncol(otu_membership),
-    dimnames = list(rownames(seqtab), colnames(otu_membership))
-  )
+    dimnames = list(rownames(seqtab), colnames(otu_membership)))
 
   for (i in seq_len(ncol(otu_membership))) {
     member_asvs <- rownames(otu_membership)[otu_membership[, i] > 0]
@@ -84,79 +75,63 @@ make_otu_table <- function(seqtab, otu_membership) {
       otutab[, i] <- rowSums(seqtab[, member_asvs, drop = FALSE])
     } else {
       centroid <- colnames(otu_membership)[i]
-      otutab[, i] <- seqtab[, centroid]
-    }
-  }
-
-  otutab
+      otutab[, i] <- seqtab[, centroid]}}
+otutab
 }
 
 filter_otus <- function(otutab, taxa, dataset) {
-  otu_taxa <- taxa[
-    rownames(taxa) %in% colnames(otutab),
-    ,
-    drop = FALSE
-  ]
+  otu_taxa <- taxa[rownames(taxa) %in% colnames(otutab), ,drop = FALSE]
 
   keep <- switch(
     dataset,
     Prokaryote = (
       otu_taxa[, "Family"] != "Mitochondria" &
-        otu_taxa[, "Order"] != "Chloroplast"
-    ),
+        otu_taxa[, "Order"] != "Chloroplast"),
     Fungi = otu_taxa[, "Kingdom"] == "Fungi",
-    Plant = otu_taxa[, "Kingdom"] == "Viridiplantae"
-  )
+    Plant = otu_taxa[, "Kingdom"] == "Viridiplantae")
+  
   keep[is.na(keep)] <- FALSE
   otu_taxa <- otu_taxa[keep, , drop = FALSE]
 
   list(
     taxa = otu_taxa,
-    table = otutab[
-      ,
-      colnames(otutab) %in% rownames(otu_taxa),
-      drop = FALSE
-    ]
-  )
+    table = otutab[, colnames(otutab) %in% rownames(otu_taxa), 
+                   drop = FALSE])
 }
 
 # ======================================================================
 # 3. Run
 # ======================================================================
-for (dataset in datasets) {
+for (dataset in data_type) {
   message("\nOTU clustering: ", dataset)
 
-  output_dir <- here("Output", "01_Data_processing", dataset)
+  output_dir <- file.path("Output", "01_Data_processing", dataset)
+  output_dir2 <- file.path("Data", dataset, "Seqdata")
   seqtab <- readRDS(file.path(output_dir, "merge_seqtab.rds")) |>
     as.matrix()
   taxa <- readRDS(file.path(output_dir, "merge_taxonomylist.rds"))
   fasta_path <- file.path(output_dir, "merge_clus_seq.fasta")
 
   if (!identical(colnames(seqtab), rownames(taxa))) {
-    stop("Taxonomy and ASV table IDs do not match: ", dataset)
-  }
+    stop("Taxonomy and ASV table IDs do not match: ", dataset)}
 
-  otu_membership <- cluster_otus(
-    fasta_path,
-    output_dir,
-    identity = otu_identity
-  )
+  otu_membership <- cluster_otus(fasta_path, output_dir2,
+                                 identity = otu_identity)
+  
   otutab <- make_otu_table(seqtab, otu_membership)
 
   saveRDS(otutab, file.path(output_dir, "seqOTUtab.rds"))
   write.csv(
     cbind(sample = rownames(otutab), otutab),
     file.path(output_dir, "seqOTUtab.csv"),
-    row.names = FALSE
-  )
+    row.names = FALSE)
 
   filtered <- filter_otus(otutab, taxa, dataset)
   saveRDS(
     filtered$taxa,
-    file.path(output_dir, "OTU_merge_taxonomylist.rds")
-  )
+    file.path(output_dir2, "OTU_merge_taxonomylist.rds"))
+  
   saveRDS(
     filtered$table,
-    file.path(output_dir, "seqOTUtab_filtered.rds")
-  )
+    file.path(output_dir, "seqOTUtab_filtered.rds"))
 }

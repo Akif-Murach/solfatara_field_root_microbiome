@@ -1,7 +1,7 @@
 # 03_03_OTU_histogram.R
 library(here)
 
-data_type <- "Fungi"  #"Prokaryote" or "Fungi"
+data_type <- "Prokaryote"  #"Prokaryote" or "Fungi"
 
 # Input
 input <- here(

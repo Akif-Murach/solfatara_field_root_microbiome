@@ -1,7 +1,7 @@
 
 # Run one robustness comparison ----------------------------------------
 run_robustness_check <- function(mat1, mat2, threshold1, threshold2, label, 
-                                 output_dir, file_prefix, first_col_only = TRUE,
+                                 output_dir, file_prefix, first_col_only = FALSE,
                                  zero_lines = TRUE) {
   # Prepare data
   df <- prepare_comparison(mat1 = mat1, mat2 = mat2, first_col_only = first_col_only)
@@ -33,4 +33,3 @@ run_robustness_check <- function(mat1, mat2, threshold1, threshold2, label,
   write.csv(tidy(test), file = file.path(output_dir, paste0(file_prefix, "_cor_test", comparison, "_result.csv")), row.names = FALSE)
   invisible(list(data = df, test = test, plot = p))
 }
-

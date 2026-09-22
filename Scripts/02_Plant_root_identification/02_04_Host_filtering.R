@@ -7,7 +7,7 @@
 # Input:
 #   Output/02_Plant_root_identification/Seqdata/processed_root_seqdata.rds
 #   Output/02_Plant_root_identification/Supplementary_annotation/processed_mergefile.rds
-#   Output/02_Plant_root_identification/Local_blast/Unique_pair_of_Leaf_OTU_and_Genus.csv
+#   Output/02_Plant_root_identification/Local_Blast/Unique_pair_of_Leaf_OTU_and_Genus.csv
 #   Data/Plant/Metadata/Raw_metadata_sheet.csv
 #   Data/Plant/Metadata/Soil_DNA_metadata.csv
 #
@@ -59,78 +59,75 @@ data_rootf <- readRDS(here(input1, "Seqdata", "processed_root_seqdata.rds"))
 # Processed OTU-to-host assignment
 mergefile  <- readRDS(here(input1, "Supplementary_annotation", "processed_mergefile.rds"))
 
-# Local reference database derived from morphologically identified leaf samples
-refidb     <- read.csv(here(input1, "Local_blast", "Unique_pair_of_Leaf_OTU_and_Genus.csv"))
+# Candidate table and one-row-per-OTU assignments are produced together by 02_03.
+leaf_candidates <- readRDS(here(input1, "Supplementary_annotation",
+                                "root_leaf_candidates.rds"))
+stopifnot(!anyDuplicated(mergefile$OTU),
+          setequal(mergefile$OTU, colnames(data_rootf)))
+if (!"comparison_group" %in% names(mergefile))
+  stop("Run the updated 02_03 before 02_04")
 
-# ============================================================
-# OTU-level host assignment
-# ============================================================
-otu_long <- data_rootf |>
-  as.data.frame() |>
+#　BEGIN HOST DECISIONS
+# Denominator is fixed before any joins and includes unresolved plant reads.
+sample_totals <- tibble(Sample_ID = rownames(data_rootf),
+                        total_plant_reads = rowSums(data_rootf))
+otu_long <- data_rootf |> as.data.frame() |>
   rownames_to_column("Sample_ID") |>
   pivot_longer(-Sample_ID, names_to = "OTU", values_to = "Count") |>
-  filter(Count > 0) |>
-  left_join(mergefile, by = "OTU")
-
-# ============================================================
-# Genus-level read abundance
-# ============================================================
-sample_genus_counts <- otu_long |>
-  group_by(Sample_ID, Identities_g) |>
-  summarise(genus_reads = sum(Count), .groups = "drop")
-
-sample_genus_prop <- sample_genus_counts |>
-  group_by(Sample_ID) |>
-  mutate(
-    total_reads = sum(genus_reads),
-    prop = genus_reads / total_reads
-  ) |>ungroup()
-
-# ============================================================
-# Host filtering
-# ============================================================
-# Retain samples in which a single genus accounts for at least 90% of the total reads.
-valid_samples <- sample_genus_prop |>
-  group_by(Sample_ID) |>
-  filter(n() == 1 | max(prop) >= 0.90) |>
-  slice_max(order_by = genus_reads, n = 1, with_ties = FALSE) |>
-  ungroup() |>
-  select(Sample_ID, Identities_g)
-
-filtered <- data_rootf[valid_samples$Sample_ID, ] |>
-  rownames_to_column(var = "Sample_ID")
-
-filtered_long <- filtered |>
-  pivot_longer(cols = -Sample_ID, names_to = "OTU", values_to = "Count") |>
   filter(Count > 0)
+annotated_reads <- otu_long |> left_join(mergefile, by = "OTU")
+group_support <- annotated_reads |>
+  filter(!is.na(comparison_group)) |>
+  group_by(Sample_ID, comparison_group) |>
+  summarise(group_reads = sum(Count), .groups = "drop") |>
+　left_join(sample_totals, by = "Sample_ID") |>
+  mutate(prop = group_reads / total_plant_reads)
+dominant_groups <- group_support |> filter(prop >= 0.90)
+stopifnot(!anyDuplicated(dominant_groups$Sample_ID))
 
-# For each sample, select the OTU with the maximum read count.
-filter_max <- filtered_long |>
+# Candidate rows carry no read counts. Only candidates from OTUs actually
+# present in this sample can supply its final leaf-derived host label.
+sample_candidates <- otu_long |> select(Sample_ID, OTU) |>
+  inner_join(leaf_candidates, by = "OTU", relationship = "many-to-many") |>
+  filter(!is.na(comparison_group), !is.na(host_category)) |>
+  distinct(Sample_ID, comparison_group, host_category)
+host_options <- dominant_groups |>
+  inner_join(sample_candidates, by = c("Sample_ID", "comparison_group")) |>
   group_by(Sample_ID) |>
-  slice_max(order_by = Count, n = 1) |>
-  ungroup()
+  summarise(
+    n_hosts = n_distinct(host_category),
+    candidate_hosts = paste(sort(unique(host_category)), collapse = "; "),
+    Identities = if (n_hosts == 1L) dplyr::first(host_category) else NA_character_,
+    .groups = "drop")
 
-# Local reference sequences derived from morphologically identified leaf samples
-# were used for host assignment. Claident and manual BLAST assignments were used
-# for contamination filtering and taxonomic inspection.
-filter_ano <- filter_max |>
-  left_join(refidb |> select(OTU, Identities), by = "OTU") |>
-  drop_na()
+all_decisions <- sample_totals |>
+  left_join(dominant_groups |> select(-total_plant_reads), by = "Sample_ID") |>
+  left_join(host_options, by = "Sample_ID") |>
+  mutate(
+    comparison_rank = case_when(
+      comparison_group == "Gaultherieae" ~ "tribe",
+      !is.na(comparison_group) ~ "genus",
+      TRUE ~ NA_character_
+    ),
+    reason = case_when(
+      total_plant_reads <= 0 ~ "no_plant_reads",
+      is.na(comparison_group) ~ "below_90_percent",
+      is.na(n_hosts) ~ "no_leaf_supported_host",
+      n_hosts > 1L ~ "ambiguous_host_category",
+      TRUE ~ "retained"))
 
-# ============================================================
-# Host metadata
-# ============================================================
-# Retain host identities represented by at least 10 samples.
-host_filtering <- filter_ano |>
+host_counts <- all_decisions |> filter(reason == "retained") |>
   group_by(Identities) |>
-  count() |>
-  filter(n >= 10)
-
-valid_host <- host_filtering$Identities
-
-host_info <- filter_ano |>
-  filter(Identities %in% valid_host)
-
+  summarise(n_samples = n_distinct(Sample_ID), .groups = "drop")
+all_decisions <- all_decisions |> left_join(host_counts, by = "Identities") |>
+  mutate(reason = if_else(reason == "retained" & coalesce(n_samples, 0L) < 10L,
+                          "fewer_than_10_samples", reason),
+         retained = reason == "retained")
+host_info <- all_decisions |> filter(retained)
+stopifnot(!anyDuplicated(host_info$Sample_ID))
+# END HOST DECISIONS
+write_meta(group_support, dir$plant, "Host_group_support.csv")
+write_meta(all_decisions, dir$plant, "Host_assignment_decisions.csv")
 write_meta(host_info, dir$plant, "Host_metadata.csv")
 
 # ============================================================
@@ -139,13 +136,13 @@ write_meta(host_info, dir$plant, "Host_metadata.csv")
 metadata <- read.csv(file.path(input2,"Raw_metadata_sheet.csv"))
 
 host_data <- host_info |>
-  select(-OTU, -Count) |>
+  select(Sample_ID, Identities) |>
   merge(metadata, by = "Sample_ID") |>
   mutate(
     sample_type = "Root",
     SID = str_extract(Sample_ID, "(?<=_)[^_]+(?=_)") |> 
-      str_remove("(?<=[A-Za-z])0"))|>
-  rename(host=Identities)
+      str_remove("(?<=[A-Za-z])"))|>
+    dplyr::rename(host=Identities)
 
 write_meta(host_data, dir$plant, "processed_host_metadata.csv")
 

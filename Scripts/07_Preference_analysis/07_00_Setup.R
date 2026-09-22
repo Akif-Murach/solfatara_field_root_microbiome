@@ -9,13 +9,20 @@ library(bipartite)
 #===========================================================
 # Analysis settings
 #===========================================================
-data_type <- "Prokaryote"  # "Prokaryote" or "Fungi"
+data_type <- "Fungi" # "Prokaryote" or "Fungi"
 sample_type<-"Root" # only "Root"
-analysis <- "dprime"       # "2DP" or "dprime"
+# 2DP
 focus <-  "habitat"        # "habitat" or "host"
-nonfocus <- "host"    # "habitat" or "host"
-direction <- "host"     # "microbe" or "host"
-threshold <-5 # 1 or 3 or 5
+nonfocus <- switch(
+  focus,
+  "habitat" = "host",
+  "host" = "habitat",
+  stop('focus must be "habitat" or "host".')
+)
+# dprime
+direction <- "microbe"     # "microbe" or "host"
+
+threshold <-3 # 1 or 3 or 5
 
 #===========================================================
 # Input
@@ -38,24 +45,4 @@ metadata <- read.csv(here(inputm,
                                  "_metadata_th",threshold,"fil.csv")),
                      row.names = 1)
 
-#===========================================================
-# Output
-#===========================================================
-output <- switch(
-  analysis,
-  "2DP" = here(
-    "Output",
-    "07_Preference_analysis",
-　　analysis,
-    data_type,
-    focus,
-    paste0("th",threshold)),
-  "dprime" = here(
-    "Output",
-    "07_Preference_analysis",
-    analysis,
-    data_type,
-    direction,
-    paste0("th",threshold)))
-
-dir.create(output, showWarnings = FALSE, recursive = TRUE)
+# analysis and its output directory are set by 07_01 / 07_02.

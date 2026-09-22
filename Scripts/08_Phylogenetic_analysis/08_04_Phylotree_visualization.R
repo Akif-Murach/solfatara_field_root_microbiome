@@ -12,7 +12,6 @@ library(tidyverse)
 library(ape)
 library(ggtree)
 library(ggnewscale)
-library(treeio)
 
 input_dir <- here("Output", "08_Phylogenetic_analysis", "Phylo_data")
 input_dir2 <- here("Output", "07_Preference_analysis", "Proc_data", "Fungi", "th3")
@@ -22,7 +21,8 @@ dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 #===========================================================
 # 1. Load phylogenetic tree and trait data
 #===========================================================
-tree <- read.newick(file.path(input_dir, "Newick_Pairwise_0.6.nwk"))
+tree <- ape::read.tree(file.path(input_dir, "Newick_Pairwise_0.6.nwk"))
+
 trait_data <- readRDS(file.path(input_dir2, "preference_data.rds")) |> as.data.frame()
 
 #===========================================================

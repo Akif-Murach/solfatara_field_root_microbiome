@@ -1,7 +1,8 @@
 library(here)
+library(dplyr)
 
 data_type <- "Fungi"   # "Prokaryote" or "Fungi"
-input <- here("Output", "01_Data_processing", "Covrfy", data_type)
+input <- here("Output", "01_Data_processing", data_type, "Covrfy")
 
 output<-here("Output", "03_Data_filtering", "Seqdata",
              data_type, "Root&Soil")

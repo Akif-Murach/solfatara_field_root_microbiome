@@ -31,8 +31,8 @@ seqdata <- readRDS(
 metadata <- read.csv(
   here(inputm, paste0(
       data_type, "_", sample_type,
-      "_metadata_th3fil.csv")), row.names = 1)
-
+      "_metadata_th3fil.csv")))
+rownames(metadata)<-metadata$Sample_ID
 #===========================================================
 # Output
 #===========================================================

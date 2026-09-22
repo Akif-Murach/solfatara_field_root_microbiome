@@ -1,0 +1,2505 @@
+RID: 6H295TG1014	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_1529601 Length: 145
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Vaccinium myrtillus isolate 77 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     246    246   99%   5e-61 97.22  647        MZ392938.1       
+Vaccinium hirtum P2730 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651270.1       
+Vaccinium myrtillus isolate 76 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  647        MZ392937.1       
+Vaccinium smallii var. smallii M15-9 genes for 18S rRNA, ITS1,... Vaccinium sm... NA              2163628    244    244   99%   2e-60 97.22  416        LC554276.1       
+Vaccinium myrtillus isolate 17 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  625        MZ392896.1       
+Vaccinium hirtum P2903 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651283.1       
+Vaccinium myrtillus isolate 34 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  607        MZ392907.1       
+Vaccinium myrtillus internal transcribed spacer 1, 5.8S...        Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  647        AF382732.1       
+Vaccinium myrtillus isolate 113-1 internal transcribed spacer ... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  608        MZ392884.1       
+Vaccinium myrtillus isolate 5 internal transcribed spacer 1,...   Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  639        MZ392910.1       
+Vaccinium myrtillus internal transcribed spacer 1, partial...     Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  648        KM209458.1       
+Vaccinium myrtillus isolate 52 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  634        MZ392912.1       
+Vaccinium myrtillus isolate 56-1 internal transcribed spacer 1... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  636        MZ392917.1       
+Vaccinium myrtillus voucher NMW6239 5.8S ribosomal RNA gene,...   Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  457        KX166120.1       
+Vaccinium hirtum P2358 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651234.1       
+Vaccinium myrtillus isolate 50 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  626        MZ392911.1       
+Vaccinium myrtillus isolate 83 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  642        MZ392942.1       
+Vaccinium hirtum P2850 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651282.1       
+Vaccinium myrtillus isolate 98 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  620        MZ392956.1       
+Vaccinium myrtillus isolate 84 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  643        MZ392943.1       
+Vaccinium myrtillus isolate 56-2 internal transcribed spacer 1... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  641        MZ392918.1       
+Vaccinium shikokianum M16-131 genes for 18S rRNA, ITS1, 5.8S...   Vaccinium sh... NA              2163641    244    244   99%   2e-60 97.22  416        LC554340.1       
+Vaccinium myrtillus isolate 111-1 internal transcribed spacer ... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  592        MZ392883.1       
+Vaccinium myrtillus isolate 113-3 internal transcribed spacer ... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  616        MZ392886.1       
+Vaccinium hirtum P2532 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651243.1       
+Vaccinium myrtillus isolate 19 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  412        MZ392898.1       
+Vaccinium hirtum genes for ITS1, 5.8S rRNA, ITS2, complete and... Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  647        AB623187.1       
+Vaccinium myrtillus isolate TAB55 internal transcribed spacer ... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  655        PX842442.1       
+Vaccinium hirtum P2849 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651281.1       
+Vaccinium myrtillus isolate 114-1 internal transcribed spacer ... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  624        MZ392887.1       
+Vaccinium smallii var. glabrum P3150 genes for 18S rRNA, ITS1,... Vaccinium sm... NA              1004257    244    244   99%   2e-60 97.22  835        LC702395.1       
+Vaccinium hirtum P4022 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Vaccinium hi... NA              180760     244    244   99%   2e-60 97.22  835        LC651285.1       
+Vaccinium myrtillus isolate 54-2 internal transcribed spacer 1... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  637        MZ392913.1       
+Vaccinium myrtillus internal transcribed spacer 1, partial...     Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  724        GU361894.1       
+Vaccinium myrtillus isolate 85 small subunit ribosomal RNA gen... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  647        MZ392944.1       
+Vaccinium myrtillus isolate 55-3 internal transcribed spacer 1... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  645        MZ392916.1       
+Vaccinium myrtillus isolate 95 5.8S ribosomal RNA gene, partia... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  381        MZ392953.1       
+Disterigma trimerum internal transcribed spacer 1, 5.8S...        Disterigma t... NA              60705      244    244   99%   2e-60 97.22  647        AF382676.1       
+Vaccinium myrtillus isolate 115 internal transcribed spacer 1,... Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  615        MZ392889.1       
+Vaccinium myrtillus isolate 18 internal transcribed spacer 1,...  Vaccinium my... common bilberry 180763     244    244   99%   2e-60 97.22  633        MZ392897.1       
+Disterigma trimerum voucher NY:Luteyn 15568 18S ribosomal RNA...  Disterigma t... NA              60705      241    241   99%   3e-59 96.53  745        FJ001700.1       
+Vaccinium hirtum genes for ITS1, 5.8S rRNA, ITS2, complete and... Vaccinium hi... NA              180760     241    241   99%   3e-59 96.53  647        AB623185.1       
+Gaylussacia ursina voucher A. Darr 1909 FLAS 18S ribosomal RNA... Gaylussacia ... NA              128903     239    239   99%   9e-59 96.53  645        FJ985235.1       
+Vaccinium ovalifolium isolate V7 small subunit ribosomal RNA...   Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  725        OQ311356.1       
+Gaylussacia nana voucher R. Godfrey 8484583 FLAS 18S ribosomal... Gaylussacia ... NA              128900     239    239   99%   9e-59 96.53  686        FJ985222.1       
+Vaccinium reticulatum internal transcribed spacer 1, partial...   Vaccinium re... NA              180767     239    239   99%   9e-59 96.53  633        AY274578.1       
+Macleania rupestris voucher MO:Carlsen3309 5.8S ribosomal RNA...  Macleania ru... tropical blu... 191002     239    239   99%   9e-59 96.53  357        OL536553.1       
+Vaccinium reticulatum internal transcribed spacer 1, partial...   Vaccinium re... NA              180767     239    239   99%   9e-59 96.53  644        KM209467.1       
+Gaylussacia nana voucher M. Gajdeczka 16 FLAS 18S ribosomal RN... Gaylussacia ... NA              128900     239    239   99%   9e-59 96.53  813        FJ985191.1       
+Macleania floribunda voucher NY:P.Pedraza 1882 18S ribosomal R... Macleania fl... NA              590713     239    239   99%   9e-59 96.53  649        FJ001704.1       
+Vaccinium ovalifolium isolate 108 internal transcribed spacer ... Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  639        MZ392878.1       
+Vaccinium sp. BCC-2020 voucher CAS:471249 Fritsch 1967 interna... Vaccinium x ... NA              2744238    239    239   99%   9e-59 96.53  647        MT603498.1       
+Vaccinium poasanum internal transcribed spacer 1, partial...      Vaccinium po... NA              57539      239    239   99%   9e-59 96.53  635        AY274560.1       
+Gaylussacia frondosa voucher A. Pittman 05090108 FLAS 18S...      Gaylussacia ... dangleberry     128897     239    239   99%   9e-59 96.53  656        FJ985228.1       
+Vaccinium angustifolium voucher NTW 1104 5.8S ribosomal RNA...    Vaccinium an... NA              472369     239    239   99%   9e-59 96.53  353        MG219725.1       
+Gaylussacia nana voucher J. Nelson 20500 FLAS internal...         Gaylussacia ... NA              128900     239    239   99%   9e-59 96.53  642        FJ985224.1       
+Vaccinium ovalifolium isolate 109 internal transcribed spacer ... Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  647        MZ392879.1       
+Vaccinium caespitosum internal transcribed spacer 1, partial...   Vaccinium ca... NA              190536     239    239   99%   9e-59 96.53  648        KM209430.1       
+Vaccinium ovalifolium voucher CCDB-18329-G10 5.8S ribosomal RN... Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  392        MG218429.1       
+Gaylussacia ursina voucher M. Gajdeczka 48 FLAS 18S ribosomal...  Gaylussacia ... NA              128903     239    239   99%   9e-59 96.53  812        FJ985211.1       
+Vaccinium ovatum voucher 70180HIM 5.8S ribosomal RNA gene,...     Vaccinium ov... NA              84019      239    239   99%   9e-59 96.53  353        MG219744.1       
+Vaccinium caespitosum voucher CAS:199178 Thomas 10264 (DS)...     Vaccinium ca... NA              190536     239    239   99%   9e-59 96.53  647        MT603497.1       
+Vaccinium yakushimense genes for ITS1, 5.8S rRNA, ITS2, comple... Vaccinium ya... NA              1004255    239    239   99%   9e-59 96.53  628        AB623183.1       
+Vaccinium myrsinites internal transcribed spacer 1, partial...    Vaccinium my... shiny blueberry 191529     239    239   99%   9e-59 96.53  635        AY274572.1       
+Vaccinium smallii internal transcribed spacer 1, 5.8S ribosoma... Vaccinium sm... NA              180768     239    239   99%   9e-59 96.53  645        AF382739.1       
+Vaccinium caespitosum voucher CAS:199179 McClintock & Menzies...  Vaccinium ca... NA              190536     239    239   99%   9e-59 96.53  647        MT603496.1       
+Vaccinium parvifolium internal transcribed spacer 1, partial...   Vaccinium pa... NA              180766     239    239   99%   9e-59 96.53  648        KM209463.1       
+Macleania rupestris internal transcribed spacer 1, partial...     Macleania ru... tropical blu... 191002     239    239   99%   9e-59 96.53  633        AY274557.1       
+Vaccinium myrtilloides isolate V5 internal transcribed spacer ... Vaccinium my... NA              1503870    239    239   99%   9e-59 96.53  643        OQ519855.1       
+Gaylussacia ursina voucher M. Gajdeczka 47 FLAS 18S ribosomal...  Gaylussacia ... NA              128903     239    239   99%   9e-59 96.53  812        FJ985195.1       
+Vaccinium smallii var. glabrum P2191 genes for ITS1, 5.8S rRNA... Vaccinium sm... NA              1004257    239    239   99%   9e-59 96.53  578        LC861682.1       
+Gaylussacia frondosa voucher A. Pittman 05309303 FLAS 18S...      Gaylussacia ... dangleberry     128897     239    239   99%   9e-59 96.53  652        FJ985227.1       
+Gaylussacia frondosa voucher G. Seckinger 271 FLAS internal...    Gaylussacia ... dangleberry     128897     239    239   99%   9e-59 96.53  642        FJ985226.1       
+Vaccinium angustifolium bio-material Missouri BG_Lot_NA 5.8S...   Vaccinium an... NA              472369     239    239   99%   9e-59 96.53  457        MK087975.1       
+Gaylussacia tomentosa voucher R. Godfrey 83157 FLAS internal...   Gaylussacia ... NA              128902     239    239   99%   9e-59 96.53  645        FJ985230.1       
+Vaccinium praestans internal transcribed spacer 1, partial...     Vaccinium pr... NA              190545     239    239   99%   9e-59 96.53  651        AF419785.1       
+Vaccinium caespitosum internal transcribed spacer 1, partial...   Vaccinium ca... NA              190536     239    239   99%   9e-59 96.53  647        AF419775.1       
+Vaccinium uliginosum subsp. vulcanorum isolate V10 small subun... Vaccinium ul... NA              3023012    239    239   99%   9e-59 96.53  709        OQ311359.1       
+Vaccinium parvifolium voucher 17100HIM 5.8S ribosomal RNA gene... Vaccinium pa... NA              180766     239    239   99%   9e-59 96.53  353        MG218492.1       
+Gaylussacia nana voucher J. Amoroso 261 FLAS 18S ribosomal RNA... Gaylussacia ... NA              128900     239    239   99%   9e-59 96.53  649        FJ985223.1       
+Vaccinium ovalifolium internal transcribed spacer 1, partial...   Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  644        AF419784.1       
+Vaccinium yatabei internal transcribed spacer 1, partial...       Vaccinium ya... NA              190549     239    239   99%   9e-59 96.53  647        AF419789.1       
+Gaylussacia tomentosa voucher M. Gajdeczka 36 FLAS 18S ribosom... Gaylussacia ... NA              128902     239    239   99%   9e-59 96.53  819        FJ985209.1       
+Gaylussacia tomentosa voucher M. Gajdeczka 17 FLAS 18S ribosom... Gaylussacia ... NA              128902     239    239   99%   9e-59 96.53  819        FJ985192.1       
+Vaccinium smallii var. glabrum P2520 genes for 18S rRNA, ITS1,... Vaccinium sm... NA              1004257    239    239   99%   9e-59 96.53  835        LC651240.1       
+Macleania smithiana isolate AB6QQ23 5.8S ribosomal RNA gene,...   Macleania sm... NA              1753980    239    239   99%   9e-59 96.53  357        MF348905.1       
+Gaylussacia tomentosa voucher S. Orzell & E. Bridges 22613 FLA... Gaylussacia ... NA              128902     239    239   99%   9e-59 96.53  654        FJ985233.1       
+Vaccinium calycinum internal transcribed spacer 1, partial...     Vaccinium ca... NA              190537     239    239   99%   9e-59 96.53  640        AF419776.1       
+Gaylussacia nana voucher C. vanHoek 1084 FLAS 18S ribosomal RN... Gaylussacia ... NA              128900     239    239   99%   9e-59 96.53  649        FJ985225.1       
+Vaccinium corymbosum voucher 57066HIM 5.8S ribosomal RNA gene,... Vaccinium co... northern hig... 69266      239    239   99%   9e-59 96.53  353        MG219956.1       
+Vaccinium ovalifolium isolate 90 internal transcribed spacer 1... Vaccinium ov... NA              190544     239    239   99%   9e-59 96.53  641        MZ392949.1       
+Vaccinium smallii var. glabrum genes for ITS1, 5.8S rRNA, ITS2... Vaccinium sm... NA              1004257    239    239   99%   9e-59 96.53  647        AB623186.1       
+Vaccinium boreale voucher CCDB-20334-H04 5.8S ribosomal RNA...    Vaccinium bo... NA              2065969    239    239   99%   9e-59 96.53  353        MG217547.1       
+Gaylussacia tomentosa voucher W. Judd 1679 FLAS 18S ribosomal...  Gaylussacia ... NA              128902     239    239   99%   9e-59 96.53  653        FJ985229.1       
+Vaccinium reticulatum voucher HNPV07Vac 18S ribosomal RNA gene... Vaccinium re... NA              180767     239    239   99%   9e-59 96.53  744        GU011989.1       
+Vaccinium caespitosum voucher CCDB-18329-C10 5.8S ribosomal RN... Vaccinium ca... NA              190536     239    239   99%   9e-59 96.53  457        MG219407.1       
+Vaccinium berberidifolium internal transcribed spacer 1, parti... Vaccinium be... NA              1633957    239    239   99%   9e-59 96.53  648        KM209424.1       
+Vaccinium corymbosum isolate A102 5.8S ribosomal RNA gene,...     Vaccinium co... northern hig... 69266      239    239   99%   9e-59 96.53  393        OR234884.1       
+Vaccinium myrtillus voucher CCDB-24916-D05 5.8S ribosomal RNA...  Vaccinium my... common bilberry 180763     239    239   99%   9e-59 96.53  353        MG218084.1       
+Vaccinium caespitosum voucher CAS:471250 Fritsch 1968 internal... Vaccinium ca... NA              190536     231    231   99%   2e-56 95.14  647        MT603495.1       
+
+
+Alignments:
+
+>Vaccinium myrtillus isolate 77 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392938.1 Length: 647
+Range 1: 343 to 486
+
+Score:246 bits(133), Expect:5e-61, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGNCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  463  AGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium hirtum P2730 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651270.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 76 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392937.1 Length: 647
+Range 1: 343 to 486
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  463  AGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium smallii var. smallii M15-9 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554276.1 Length: 416
+>Vaccinium uliginosum var. japonicum M16-19 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554293.1 Length: 416
+>Vaccinium ovalifolium var. ovalifolium M16-74 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554323.1 Length: 416 
+Range 1: 65 to 208
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  124
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  125  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  184
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  185  TGCGTGGGTGGATATTGGCCCCCC  208
+
+
+
+
+>Vaccinium myrtillus isolate 17 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392896.1 Length: 625
+Range 1: 321 to 464
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  321  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  380
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  381  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  440
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  441  AGCGTGGGCGGATATTGGCCCCCC  464
+
+
+
+
+>Vaccinium hirtum P2903 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651283.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 34 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392907.1 Length: 607
+Range 1: 303 to 446
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  303  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  362
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  363  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  422
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  423  AGCGTGGGCGGATATTGGCCCCCC  446
+
+
+
+
+>Vaccinium myrtillus internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF382732.1 Length: 647
+>Vaccinium myrtillus isolate 1 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392876.1 Length: 647
+>Vaccinium myrtillus isolate 10 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392877.1 Length: 647
+>Vaccinium myrtillus isolate 11 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392880.1 Length: 647
+>Vaccinium myrtillus isolate 110-2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392881.1 Length: 647
+>Vaccinium myrtillus isolate 110-3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392882.1 Length: 647
+>Vaccinium myrtillus isolate 12 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392891.1 Length: 647
+>Vaccinium myrtillus isolate 13-3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392892.1 Length: 647
+>Vaccinium myrtillus isolate 14 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392893.1 Length: 647
+>Vaccinium myrtillus isolate 15 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392894.1 Length: 647
+>Vaccinium myrtillus isolate 16 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392895.1 Length: 647
+>Vaccinium myrtillus isolate 2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392899.1 Length: 647
+>Vaccinium myrtillus isolate 20 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392900.1 Length: 647
+>Vaccinium myrtillus isolate 21 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392901.1 Length: 647
+>Vaccinium myrtillus isolate 22 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392902.1 Length: 647
+>Vaccinium myrtillus isolate 23 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392903.1 Length: 647
+>Vaccinium myrtillus isolate 24 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392904.1 Length: 647
+>Vaccinium myrtillus isolate 25 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392905.1 Length: 647
+>Vaccinium myrtillus isolate 3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392906.1 Length: 647
+>Vaccinium myrtillus isolate 4 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392908.1 Length: 647
+>Vaccinium myrtillus isolate 43 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392909.1 Length: 647
+>Vaccinium myrtillus isolate 56-3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392919.1 Length: 647
+>Vaccinium myrtillus isolate 57 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392920.1 Length: 647
+>Vaccinium myrtillus isolate 6 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392923.1 Length: 647
+>Vaccinium myrtillus isolate 60 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392924.1 Length: 647
+>Vaccinium myrtillus isolate 61 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392925.1 Length: 647
+>Vaccinium myrtillus isolate 62 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392926.1 Length: 647
+>Vaccinium myrtillus isolate 63 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392927.1 Length: 647
+>Vaccinium myrtillus isolate 63-2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392928.1 Length: 647
+>Vaccinium myrtillus isolate 63-3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392929.1 Length: 647
+>Vaccinium myrtillus isolate 65-1 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392931.1 Length: 647
+>Vaccinium myrtillus isolate 65-2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392932.1 Length: 647
+>Vaccinium myrtillus isolate 65-3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392933.1 Length: 647
+>Vaccinium myrtillus isolate 66 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392934.1 Length: 647
+>Vaccinium myrtillus isolate 67 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392935.1 Length: 647
+>Vaccinium myrtillus isolate 7 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392936.1 Length: 647
+>Vaccinium myrtillus isolate 8 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392939.1 Length: 647
+>Vaccinium myrtillus isolate 82 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392941.1 Length: 647
+>Vaccinium myrtillus isolate 9 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392948.1 Length: 647
+>Vaccinium myrtillus isolate 92 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392950.1 Length: 647
+>Vaccinium myrtillus isolate 96 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392954.1 Length: 647 
+Range 1: 343 to 486
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  463  AGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium myrtillus isolate 113-1 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392884.1 Length: 608
+>Vaccinium myrtillus isolate 113-2 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392885.1 Length: 608 
+Range 1: 304 to 447
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  304  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  363
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  364  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  423
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  424  AGCGTGGGCGGATATTGGCCCCCC  447
+
+
+
+
+>Vaccinium myrtillus isolate 5 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392910.1 Length: 639
+Range 1: 335 to 478
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  335  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  394
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  395  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  454
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  455  AGCGTGGGCGGATATTGGCCCCCC  478
+
+
+
+
+>Vaccinium myrtillus internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209458.1 Length: 648
+Range 1: 344 to 487
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  464  AGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Vaccinium myrtillus isolate 52 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392912.1 Length: 634
+Range 1: 330 to 473
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  330  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  389
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  390  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  449
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  450  AGCGTGGGCGGATATTGGCCCCCC  473
+
+
+
+
+>Vaccinium myrtillus isolate 56-1 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392917.1 Length: 636
+Range 1: 332 to 475
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  332  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  391
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  392  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  451
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  452  AGCGTGGGCGGATATTGGCCCCCC  475
+
+
+
+
+>Vaccinium myrtillus voucher NMW6239 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX166120.1 Length: 457
+>Vaccinium myrtillus voucher NMW939 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX166323.1 Length: 457
+>Vaccinium myrtillus voucher NMW6261 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX166715.1 Length: 457
+>Vaccinium myrtillus bio-material Missouri BG_Lot_NA 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MK087978.1 Length: 457
+>Vaccinium myrtillus voucher EDNA21-0060776 internal transcribed spacer region, partial sequence
+Sequence ID: PZ361249.1 Length: 457 
+Range 1: 11 to 154
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  131  AGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium hirtum P2358 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651234.1 Length: 835
+>Vaccinium smallii var. glabrum P3149 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC702394.1 Length: 835
+>Vaccinium hirtum P2599 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC861689.1 Length: 835 
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 50 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392911.1 Length: 626
+Range 1: 322 to 465
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  322  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  381
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  382  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  441
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  442  AGCGTGGGCGGATATTGGCCCCCC  465
+
+
+
+
+>Vaccinium myrtillus isolate 83 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392942.1 Length: 642
+Range 1: 338 to 481
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  338  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  397
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  398  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  457
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  458  AGCGTGGGCGGATATTGGCCCCCC  481
+
+
+
+
+>Vaccinium hirtum P2850 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651282.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 98 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392956.1 Length: 620
+Range 1: 316 to 459
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  316  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  375
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  376  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  435
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  436  AGCGTGGGCGGATATTGGCCCCCC  459
+
+
+
+
+>Vaccinium myrtillus isolate 84 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392943.1 Length: 643
+Range 1: 339 to 482
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  398
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  399  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  458
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  459  AGCGTGGGCGGATATTGGCCCCCC  482
+
+
+
+
+>Vaccinium myrtillus isolate 56-2 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392918.1 Length: 641
+>Vaccinium myrtillus isolate 87 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392946.1 Length: 641
+>Vaccinium myrtillus isolate 88 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392947.1 Length: 641 
+Range 1: 337 to 480
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  396
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  397  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  456
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  457  AGCGTGGGCGGATATTGGCCCCCC  480
+
+
+
+
+>Vaccinium shikokianum M16-131 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554340.1 Length: 416
+Range 1: 65 to 208
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  124
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  125  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  184
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  185  TGCGTGGGTGGATATTGGCCCCCC  208
+
+
+
+
+>Vaccinium myrtillus isolate 111-1 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392883.1 Length: 592
+>Vaccinium myrtillus isolate 97 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392955.1 Length: 592 
+Range 1: 288 to 431
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  288  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  347
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  348  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  407
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  408  AGCGTGGGCGGATATTGGCCCCCC  431
+
+
+
+
+>Vaccinium myrtillus isolate 113-3 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392886.1 Length: 616
+>Vaccinium myrtillus isolate 117 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392890.1 Length: 616 
+Range 1: 312 to 455
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  312  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  371
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  372  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  431
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  432  AGCGTGGGCGGATATTGGCCCCCC  455
+
+
+
+
+>Vaccinium hirtum P2532 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651243.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 19 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392898.1 Length: 412
+Range 1: 108 to 251
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  108  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  167
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  168  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  227
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  228  AGCGTGGGCGGATATTGGCCCCCC  251
+
+
+
+
+>Vaccinium hirtum genes for ITS1, 5.8S rRNA, ITS2, complete and partial sequence
+Sequence ID: AB623187.1 Length: 647
+>Vaccinium hirtum internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF382727.1 Length: 647 
+Range 1: 343 to 486
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  463  TGCGTGGGTGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium myrtillus isolate TAB55 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: PX842442.1 Length: 655
+Range 1: 345 to 488
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  404
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  405  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  464
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  465  AGCGTGGGCGGATATTGGCCCCCC  488
+
+
+
+
+>Vaccinium hirtum P2849 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651281.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 114-1 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392887.1 Length: 624
+>Vaccinium myrtillus isolate 114-2 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392888.1 Length: 624
+>Vaccinium myrtillus isolate 55-1 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392914.1 Length: 624
+>Vaccinium myrtillus isolate 55-2 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392915.1 Length: 624
+>Vaccinium myrtillus isolate 58 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392921.1 Length: 624
+>Vaccinium myrtillus isolate 59 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392922.1 Length: 624
+>Vaccinium myrtillus isolate 64 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392930.1 Length: 624
+>Vaccinium myrtillus isolate 81 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392940.1 Length: 624 
+Range 1: 320 to 463
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  320  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  379
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  380  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  439
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  440  AGCGTGGGCGGATATTGGCCCCCC  463
+
+
+
+
+>Vaccinium smallii var. glabrum P3150 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC702395.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium hirtum P4022 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651285.1 Length: 835
+Range 1: 389 to 532
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  509  TGCGTGGGTGGATATTGGCCCCCC  532
+
+
+
+
+>Vaccinium myrtillus isolate 54-2 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392913.1 Length: 637
+Range 1: 333 to 476
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  333  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  392
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  393  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  452
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  453  AGCGTGGGCGGATATTGGCCCCCC  476
+
+
+
+
+>Vaccinium myrtillus internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU361894.1 Length: 724
+Range 1: 393 to 536
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  393  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  452
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  453  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  512
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  513  AGCGTGGGCGGATATTGGCCCCCC  536
+
+
+
+
+>Vaccinium myrtillus isolate 85 small subunit ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392944.1 Length: 647
+>Vaccinium myrtillus isolate 86 small subunit ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392945.1 Length: 647
+>Vaccinium myrtillus isolate 93 small subunit ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392951.1 Length: 647
+>Vaccinium myrtillus isolate 94 small subunit ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392952.1 Length: 647 
+Range 1: 343 to 486
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  463  AGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium myrtillus isolate 55-3 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392916.1 Length: 645
+Range 1: 341 to 484
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  341  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  400
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  401  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  460
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  461  AGCGTGGGCGGATATTGGCCCCCC  484
+
+
+
+
+>Vaccinium myrtillus isolate 95 5.8S ribosomal RNA gene, partial sequence; and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392953.1 Length: 381
+Range 1: 77 to 220
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  77   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  136
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  137  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  196
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  197  AGCGTGGGCGGATATTGGCCCCCC  220
+
+
+
+
+>Disterigma trimerum internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF382676.1 Length: 647
+Range 1: 343 to 486
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  463  TGCGTGGGTGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium myrtillus isolate 115 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392889.1 Length: 615
+Range 1: 311 to 454
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  311  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  370
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  371  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  430
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  431  AGCGTGGGCGGATATTGGCCCCCC  454
+
+
+
+
+>Vaccinium myrtillus isolate 18 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392897.1 Length: 633
+Range 1: 329 to 472
+
+Score:244 bits(132), Expect:2e-60, 
+Identities:140/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  388
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  389  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  448
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+            |||||||| |||||||||||||||
+Sbjct  449  AGCGTGGGCGGATATTGGCCCCCC  472
+
+
+
+
+>Disterigma trimerum voucher NY:Luteyn 15568 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ001700.1 Length: 745
+Range 1: 403 to 546
+
+Score:241 bits(130), Expect:3e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  462
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  463  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  522
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  523  TGCGTGGGYGGATATTGGCCCCCC  546
+
+
+
+
+>Vaccinium hirtum genes for ITS1, 5.8S rRNA, ITS2, complete and partial sequence
+Sequence ID: AB623185.1 Length: 647
+Range 1: 343 to 486
+
+Score:241 bits(130), Expect:3e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGYGGATATTGGCCCCCC  486
+
+
+
+
+>Gaylussacia ursina voucher A. Darr 1909 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985235.1 Length: 645
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium ovalifolium isolate V7 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OQ311356.1 Length: 725
+Range 1: 399 to 542
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  399  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  458
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  459  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  518
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  519  TGCGTGGGCGGATATTGGCCCCCC  542
+
+
+
+
+>Gaylussacia nana voucher R. Godfrey 8484583 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985222.1 Length: 686
+Range 1: 368 to 511
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  368  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  427
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  428  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  487
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  488  TGCGTGGGCGGATATTGGCCCCCC  511
+
+
+
+
+>Vaccinium reticulatum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AY274578.1 Length: 633
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Macleania rupestris voucher MO:Carlsen3309 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OL536553.1 Length: 357
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium reticulatum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209467.1 Length: 644
+Range 1: 344 to 487
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  464  TGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Gaylussacia nana voucher M. Gajdeczka 16 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985191.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 38 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985194.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 22 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985202.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 23 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985203.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 31 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985206.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 60 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985213.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 61 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985214.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 64 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985217.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 65 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985218.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 66 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985219.1 Length: 813
+>Gaylussacia nana voucher M. Gajdeczka 70 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985220.1 Length: 813 
+Range 1: 450 to 593
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  509
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  510  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  569
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  570  TGCGTGGGCGGATATTGGCCCCCC  593
+
+
+
+
+>Macleania floribunda voucher NY:P.Pedraza 1882 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ001704.1 Length: 649
+Range 1: 341 to 484
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  341  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  400
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  401  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  460
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  461  TGCGTGGGCGGATATTGGCCCCCC  484
+
+
+
+
+>Vaccinium ovalifolium isolate 108 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392878.1 Length: 639
+Range 1: 335 to 478
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  335  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  394
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  395  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  454
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  455  TGCGTGGGCGGATATTGGCCCCCC  478
+
+
+
+
+>Vaccinium sp. BCC-2020 voucher CAS:471249 Fritsch 1967 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT603498.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium poasanum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AY274560.1 Length: 635
+Range 1: 345 to 488
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  404
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  405  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  464
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  465  TGCGTGGGCGGATATTGGCCCCCC  488
+
+
+
+
+>Gaylussacia frondosa voucher A. Pittman 05090108 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985228.1 Length: 656
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium angustifolium voucher NTW 1104 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219725.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||| ||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCGCGTTGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  131  TGCGTGGGTGGATATTGGCCCCCC  154
+
+
+
+
+>Gaylussacia nana voucher J. Nelson 20500 FLAS internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985224.1 Length: 642
+Range 1: 332 to 475
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  332  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  391
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  392  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  451
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  452  TGCGTGGGCGGATATTGGCCCCCC  475
+
+
+
+
+>Vaccinium ovalifolium isolate 109 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392879.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium caespitosum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209430.1 Length: 648
+Range 1: 344 to 487
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  464  TGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Vaccinium ovalifolium voucher CCDB-18329-G10 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218429.1 Length: 392
+Range 1: 2 to 145
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  62   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  121
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  122  TGCGTGGGCGGATATTGGCCCCCC  145
+
+
+
+
+>Gaylussacia ursina voucher M. Gajdeczka 48 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985211.1 Length: 812
+Range 1: 450 to 593
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  509
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  510  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  569
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  570  TGCGTGGGCGGATATTGGCCCCCC  593
+
+
+
+
+>Vaccinium ovatum voucher 70180HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219744.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium caespitosum voucher CAS:199178 Thomas 10264 (DS) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT603497.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium yakushimense genes for ITS1, 5.8S rRNA, ITS2, complete and partial sequence
+Sequence ID: AB623183.1 Length: 628
+Range 1: 324 to 467
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  324  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  383
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  384  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  443
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  444  TGCGTGGGCGGATATTGGCCCCCC  467
+
+
+
+
+>Vaccinium myrsinites internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AY274572.1 Length: 635
+Range 1: 345 to 488
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  404
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  405  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  464
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  465  TGCGTGGGCGGATATTGGCCCCCC  488
+
+
+
+
+>Vaccinium smallii internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF382739.1 Length: 645
+Range 1: 341 to 484
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  341  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  400
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  401  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  460
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  461  TGCGTGGGCGGATATTGGCCCCCC  484
+
+
+
+
+>Vaccinium caespitosum voucher CAS:199179 McClintock &amp; Menzies s.n. internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT603496.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium parvifolium internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209463.1 Length: 648
+Range 1: 344 to 487
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  464  TGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Macleania rupestris internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AY274557.1 Length: 633
+Range 1: 341 to 484
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  341  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  400
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  401  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  460
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  461  TGCGTGGGCGGATATTGGCCCCCC  484
+
+
+
+
+>Vaccinium myrtilloides isolate V5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OQ519855.1 Length: 643
+Range 1: 339 to 482
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  398
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||| ||  ||
+Sbjct  399  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCGCGTTGG  458
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  459  TGCGTGGGTGGATATTGGCCCCCC  482
+
+
+
+
+>Gaylussacia ursina voucher M. Gajdeczka 47 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985195.1 Length: 812
+Range 1: 450 to 593
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  509
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  510  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  569
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  570  TGCGTGGGCGGATATTGGCCCCCC  593
+
+
+
+
+>Vaccinium smallii var. glabrum P2191 genes for ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC861682.1 Length: 578
+Range 1: 258 to 401
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  258  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  317
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  318  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  377
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  378  TGCGTGGGCGGATATTGGCCCCCC  401
+
+
+
+
+>Gaylussacia frondosa voucher A. Pittman 05309303 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985227.1 Length: 652
+>Gaylussacia tomentosa voucher D. Hall 1981 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985231.1 Length: 652
+>Gaylussacia tomentosa voucher B. Tan 698 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985232.1 Length: 652
+>Gaylussacia tomentosa voucher J.R. Abbott 10463 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985234.1 Length: 652 
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Gaylussacia frondosa voucher G. Seckinger 271 FLAS internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ985226.1 Length: 642
+Range 1: 333 to 476
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  333  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  392
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  393  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  452
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  453  TGCGTGGGCGGATATTGGCCCCCC  476
+
+
+
+
+>Vaccinium angustifolium bio-material Missouri BG_Lot_NA 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MK087975.1 Length: 457
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Gaylussacia tomentosa voucher R. Godfrey 83157 FLAS internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985230.1 Length: 645
+Range 1: 335 to 478
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  335  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  394
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  395  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  454
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  455  TGCGTGGGCGGATATTGGCCCCCC  478
+
+
+
+
+>Vaccinium praestans internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF419785.1 Length: 651
+Range 1: 347 to 490
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  347  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  406
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  407  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGCCGG  466
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  467  TGCGTGGGCGGATATTGGCCCCCC  490
+
+
+
+
+>Vaccinium caespitosum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF419775.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium uliginosum subsp. vulcanorum isolate V10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OQ311359.1 Length: 709
+Range 1: 391 to 534
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  391  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  450
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  451  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  510
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  511  TGCGTGGGCGGATATTGGCCCCCC  534
+
+
+
+
+>Vaccinium parvifolium voucher 17100HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218492.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Gaylussacia nana voucher J. Amoroso 261 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985223.1 Length: 649
+Range 1: 344 to 487
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  464  TGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Vaccinium ovalifolium internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF419784.1 Length: 644
+Range 1: 340 to 483
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  340  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  399
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  400  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  459
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  460  TGCGTGGGCGGATATTGGCCCCCC  483
+
+
+
+
+>Vaccinium yatabei internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF419789.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Gaylussacia tomentosa voucher M. Gajdeczka 36 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985209.1 Length: 819
+Range 1: 450 to 593
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  509
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  510  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  569
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  570  TGCGTGGGCGGATATTGGCCCCCC  593
+
+
+
+
+>Gaylussacia tomentosa voucher M. Gajdeczka 17 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985192.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 37 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985193.1 Length: 819
+>Gaylussacia frondosa voucher M. Gajdeczka 56 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985197.1 Length: 819
+>Gaylussacia frondosa voucher M. Gajdeczka 58 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985198.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 19 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985200.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 20 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985201.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 24 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985204.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 30 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985205.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 32 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985207.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 33 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985208.1 Length: 819
+>Gaylussacia frondosa voucher M. Gajdeczka 43 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985210.1 Length: 819
+>Gaylussacia frondosa voucher M. Gajdeczka 57 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985212.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 62 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985215.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 63 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985216.1 Length: 819
+>Gaylussacia tomentosa voucher M. Gajdeczka 78 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985221.1 Length: 819 
+Range 1: 450 to 593
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  509
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  510  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  569
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  570  TGCGTGGGCGGATATTGGCCCCCC  593
+
+
+
+
+>Vaccinium smallii var. glabrum P2520 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651240.1 Length: 835
+>Vaccinium oldhamii P2784 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC857231.1 Length: 835 
+Range 1: 389 to 532
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  448
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  449  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  508
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  509  TGCGTGGGCGGATATTGGCCCCCC  532
+
+
+
+
+>Macleania smithiana isolate AB6QQ23 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MF348905.1 Length: 357
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Gaylussacia tomentosa voucher S. Orzell &amp; E. Bridges 22613 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985233.1 Length: 654
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium calycinum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF419776.1 Length: 640
+Range 1: 336 to 479
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  336  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  395
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  396  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  455
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  456  TGCGTGGGCGGATATTGGCCCCCC  479
+
+
+
+
+>Gaylussacia nana voucher C. vanHoek 1084 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985225.1 Length: 649
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium corymbosum voucher 57066HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219956.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium ovalifolium isolate 90 internal transcribed spacer 1, partial sequence; and 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence
+Sequence ID: MZ392949.1 Length: 641
+Range 1: 337 to 480
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  396
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  397  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  456
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  457  TGCGTGGGCGGATATTGGCCCCCC  480
+
+
+
+
+>Vaccinium smallii var. glabrum genes for ITS1, 5.8S rRNA, ITS2, complete and partial sequence
+Sequence ID: AB623186.1 Length: 647
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium boreale voucher CCDB-20334-H04 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217547.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||| ||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCGCGTTGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             |||||||||||||||||||||||
+Sbjct  131  TGCGTGGGTGGATATTGGCCCCCC  154
+
+
+
+
+>Gaylussacia tomentosa voucher W. Judd 1679 FLAS 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: FJ985229.1 Length: 653
+Range 1: 343 to 486
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+>Vaccinium reticulatum voucher HNPV07Vac 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: GU011989.1 Length: 744
+Range 1: 387 to 530
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  387  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  446
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  447  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  506
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  507  TGCGTGGGCGGATATTGGCCCCCC  530
+
+
+
+
+>Vaccinium caespitosum voucher CCDB-18329-C10 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219407.1 Length: 457
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium berberidifolium internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209424.1 Length: 648
+>Vaccinium peleanum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209464.1 Length: 648 
+Range 1: 344 to 487
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  344  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  403
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  404  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  463
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  464  TGCGTGGGCGGATATTGGCCCCCC  487
+
+
+
+
+>Vaccinium corymbosum isolate A102 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OR234884.1 Length: 393
+Range 1: 31 to 174
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  90
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  91   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  150
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  151  TGCGTGGGCGGATATTGGCCCCCC  174
+
+
+
+
+>Vaccinium myrtillus voucher CCDB-24916-D05 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218084.1 Length: 353
+Range 1: 11 to 154
+
+Score:239 bits(129), Expect:9e-59, 
+Identities:139/144(97%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11   CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  70
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||  ||
+Sbjct  71   CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCCGTGCCCCAAGCGGGCACGTCGG  130
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  131  TGCGTGGGCGGATATTGGCCCCCC  154
+
+
+
+
+>Vaccinium caespitosum voucher CAS:471250 Fritsch 1968 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT603495.1 Length: 647
+Range 1: 343 to 486
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:137/144(95%),  Gaps:0/144(0%), Strand: Plus/Plus
+
+Query  2    CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  61
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  343  CGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACGT  402
+
+Query  62   CTGCCTGGGCGTCACGCATTGCGTCACACACTCCCCCCGTGCCCCAAGCGGGCACGAAGG  121
+            ||||||||||||||||||||||||||| |||||||| |||||||||||||||| ||  ||
+Sbjct  403  CTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCYCGTGCCCCAAGCGGGCRCGTCGG  462
+
+Query  122  AGCGTGGGTGGATATTGGCCCCCC  145
+             ||||||| |||||||||||||||
+Sbjct  463  TGCGTGGGCGGATATTGGCCCCCC  486
+
+
+
+
+
+
+
+		
+
+

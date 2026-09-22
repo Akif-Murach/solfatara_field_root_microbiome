@@ -52,7 +52,7 @@ library(rstatix)
 library(tidyr)
 
 # Analysis settings -----------------------------------------------------
-data_type <- "Prokaryote"   # "Prokaryote" or "Fungi"
+data_type <- "Fungi"   # "Prokaryote" or "Fungi"
 sample_type <- "Root&Soil"  # "Root", "Soil", or "Root&Soil"
 
 # Input and output directories ------------------------------------------
@@ -66,7 +66,8 @@ dir.create(output, showWarnings = FALSE, recursive = TRUE)
 # 2. Load data
 # ======================================================================
 seqdata <- readRDS(here(inputs, paste0(data_type, "_", sample_type, "_coverage_rared_th1fil.rds")))
-metadata <- read.csv(here(inputm, paste0(data_type, "_", sample_type, "_metadata_th1fil.csv")), row.names = 1)
+metadata <- read.csv(here(inputm, paste0(data_type, "_", sample_type, "_metadata_th1fil.csv")))
+rownames(metadata)<-metadata$Sample_ID
 
 # ======================================================================
 # 3. Calculate alpha diversity

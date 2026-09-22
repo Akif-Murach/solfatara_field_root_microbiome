@@ -1,0 +1,2467 @@
+RID: 6H2WJEMX014	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_4033769 Length: 272
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Gaultheria sp. YRL-2021c isolate MS13 internal transcribed...     Gaultheria s... NA              2897108    268    268   60%   2e-67 96.34  637        OL583953.1       
+Gaultheria discolor voucher GLGS 32542 internal transcribed...    Gaultheria d... NA              861396     263    263   60%   1e-65 95.73  633        HM597279.1       
+Gaultheria leucocarpa isolate PB1 internal transcribed spacer ... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583969.1       
+Gaultheria leucocarpa isolate JWS1 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583967.1       
+Pernettya prostrata internal transcribed spacer 1, partial...     Pernettya pr... NA              157516     263    263   60%   1e-65 95.73  635        JF801603.1       
+Gaultheria hispida internal transcribed spacer 1, 5.8S ribosom... Gaultheria h... NA              157510     263    263   60%   1e-65 95.73  636        AF358888.1       
+Gaultheria leucocarpa voucher LuLu-LU002-1 18S ribosomal RNA...   Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976390.1       
+Gaultheria myrtilloides internal transcribed spacer 1, partial... Gaultheria m... NA              1091535    263    263   60%   1e-65 95.73  635        JF801612.1       
+Agarista sp. Schmidt & Andrianjafy 4204 internal transcribed...   Agarista sp.... NA              530136     263    380   93%   1e-65 95.73  635        EU547686.1       
+Gaultheria tenuifolia internal transcribed spacer 1, partial...   Gaultheria t... NA              1091542    263    263   60%   1e-65 95.73  634        JF801606.1       
+Gaultheria sp. YRL-2021b isolate YLC5 internal transcribed...     Gaultheria s... NA              2897107    263    263   60%   1e-65 95.73  637        OL583961.1       
+Gaultheria leucocarpa var. cumingiana internal transcribed...     Gaultheria l... NA              157506     263    263   60%   1e-65 95.73  485        FJ025994.1       
+Gaultheria lanceolata voucher Bush 403 internal transcribed...    Gaultheria l... NA              672083     263    263   60%   1e-65 95.73  635        FJ665710.2       
+Gaultheria phillyreifolia internal transcribed spacer 1, parti... Gaultheria p... NA              1091536    263    263   60%   1e-65 95.73  634        JF801605.1       
+Lyonia ovalifolia internal transcribed spacer 1, partial...       Lyonia ovali... NA              49153      263    263   60%   1e-65 95.12  640        KM209397.1       
+Gaultheria leucocarpa voucher LuLu-LL06-10-2 18S ribosomal RNA... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  632        JF976393.1       
+Gaultheria fragrantissima voucher LuLu-LU001-1 18S ribosomal R... Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  632        JF976353.1       
+Gaultheria itatiaiae internal transcribed spacer 1, partial...    Gaultheria i... NA              1091534    263    263   60%   1e-65 95.73  635        JF801611.1       
+Gaultheria leucocarpa isolate DL1 internal transcribed spacer ... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583965.1       
+Gaultheria pyrolifolia internal transcribed spacer 1, 5.8S...     Gaultheria p... NA              861409     263    263   60%   1e-65 95.73  633        HM597291.1       
+Gaultheria cumingiana internal transcribed spacer 1, 5.8S...      Gaultheria l... NA              157506     263    263   60%   1e-65 95.73  640        AF358882.1       
+Gaultheria hookeri voucher LuLu-LL-06DYK-1 18S ribosomal RNA...   Gaultheria h... NA              586112     263    263   60%   1e-65 95.73  632        JF976378.1       
+Gaultheria crassa voucher Wagstaff, Fritsch and Bush 416...       Gaultheria c... NA              672077     263    263   60%   1e-65 95.73  635        FJ665703.2       
+Gaultheria leucocarpa voucher LuLu-07-011-1 18S ribosomal RNA...  Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976402.1       
+Gaultheria fragrantissima voucher L. Lu et al. 060027 internal... Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  633        HM597263.1       
+Gaultheria fragrantissima voucher LuLu-LJJMC-1 18S ribosomal R... Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  632        JF976357.1       
+Gaultheria leucocarpa var. leucocarpa isolate LYW5 internal...    Gaultheria l... NA              586114     263    263   60%   1e-65 95.73  636        OM022928.1       
+Gaultheria leucocarpa var. leucocarpa isolate WH3 internal...     Gaultheria l... NA              586114     263    263   60%   1e-65 95.73  637        OL583959.1       
+Gaultheria leucocarpa isolate DL3 internal transcribed spacer ... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583966.1       
+Gaultheria leucocarpa voucher LuLu-Liu1001-2 18S ribosomal RNA... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976397.1       
+Gaultheria leucocarpa isolate DHY5 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583963.1       
+Gaultheria leucocarpa voucher LuLu-LL06-09-2 18S ribosomal RNA... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  632        JF976395.1       
+Gaultheria leucocarpa isolate SGL1 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583971.1       
+Gaultheria caespitosa internal transcribed spacer 1, partial...   Gaultheria c... NA              1091530    263    263   60%   1e-65 95.73  635        JF801619.1       
+Gaultheria leucocarpa voucher LuLu-LU2001-1 18S ribosomal RNA...  Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  635        JF976386.1       
+Gaultheria fragrantissima voucher L. Lu et al. 07404A internal... Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  633        HM597255.1       
+Gaultheria fragrantissima voucher LuLu-LU001-2 18S ribosomal R... Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  632        JF976352.1       
+Gaultheria semi-infera voucher ABANERJEE74876 small subunit...    Gaultheria s... NA              861410     263    263   60%   1e-65 95.73  764        PV485429.1       
+Gaultheria leucocarpa var. cumingiana isolate HXQ4 internal...    Gaultheria l... NA              157506     263    263   60%   1e-65 95.73  637        OM022927.1       
+Gaultheria lanigera internal transcribed spacer 1, partial...     Gaultheria l... NA              157513     263    367   86%   1e-65 95.73  633        JF801590.1       
+Gaultheria semi-infera voucher ABANERJEE64493a small subunit...   Gaultheria s... NA              861410     263    263   60%   1e-65 95.73  767        PV485430.1       
+Gaultheria griffithiana voucher ABANERJEE70904 small subunit...   Gaultheria g... NA              586111     263    263   60%   1e-65 95.73  752        PV485388.1       
+Gaultheria leucocarpa var. psilocarpa isolate F34 internal...     Gaultheria l... NA              2906484    263    263   60%   1e-65 95.73  637        OM022925.1       
+Gaultheria nubigena voucher C.R. Villamil 10407 internal...       Gaultheria n... NA              672084     263    263   60%   1e-65 95.73  627        FJ665712.1       
+Gaultheria leucocarpa voucher LuLu-LU1001-2 18S ribosomal RNA...  Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976387.1       
+Gaultheria semi-infera voucher LuLu-LL-06QQ-2 18S ribosomal RN... Gaultheria s... NA              861410     263    263   60%   1e-65 95.73  632        JF976429.1       
+Gaultheria semi-infera voucher LuLu-LL-06QQ-1 18S ribosomal RN... Gaultheria s... NA              861410     263    263   60%   1e-65 95.73  632        JF976430.1       
+Gaultheria leucocarpa isolate SGL2 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583972.1       
+Gaultheria paniculata voucher Fritsch and Bush 442 internal...    Gaultheria p... NA              672086     263    263   60%   1e-65 95.73  635        FJ665714.2       
+Gaultheria leucocarpa isolate WD15 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583974.1       
+Gaultheria leucocarpa var. cumingiana isolate HXQ3 internal...    Gaultheria l... NA              157506     263    263   60%   1e-65 95.73  637        OM022926.1       
+Gaultheria trigonoclada voucher LuLu-LL-07216-4 18S ribosomal...  Gaultheria t... NA              861414     263    263   60%   1e-65 95.73  632        JF976450.1       
+Gaultheria longibracteolata voucher L. Lu et al. 0601 internal... Gaultheria l... NA              861404     263    263   60%   1e-65 95.73  627        HM597278.1       
+Gaultheria leucocarpa isolate WD14 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583973.1       
+Gaultheria bradeana internal transcribed spacer 1, partial...     Gaultheria b... NA              1091529    263    263   60%   1e-65 95.73  635        JF801615.1       
+Gaultheria fragrantissima isolate GFT1 internal transcribed...    Gaultheria f... NA              586110     263    263   60%   1e-65 95.73  671        PP838801.1       
+Gaultheria longibracteolata internal transcribed spacer 1,...     Gaultheria l... NA              861404     263    263   60%   1e-65 95.73  630        KM209395.1       
+Gaultheria leucocarpa voucher LuLu-LU1001-1 18S ribosomal RNA...  Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976388.1       
+Gaultheria nubigena internal transcribed spacer 1, partial...     Gaultheria n... NA              672084     263    263   60%   1e-65 95.73  634        JF801600.1       
+Gaultheria leucocarpa voucher LuLu-LU002-2 18S ribosomal RNA...   Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976389.1       
+Gaultheria sp. YRL-2021a isolate JD1 internal transcribed spac... Gaultheria s... NA              2897106    263    263   60%   1e-65 95.73  638        OL583957.1       
+Gaultheria pingbienensis isolate DWS2 internal transcribed...     Gaultheria p... NA              2897102    263    263   60%   1e-65 95.73  637        OL583955.1       
+Gaultheria semi-infera voucher ABANERJEE64493b small subunit...   Gaultheria s... NA              861410     263    263   60%   1e-65 95.73  766        PV485431.1       
+Gaultheria leucocarpa isolate DHY6 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583964.1       
+Gaultheria leucocarpa voucher LuLu-03-1607-2 18S ribosomal RNA... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  636        JF976403.1       
+Gaultheria trigonoclada voucher LuLu-LL-07216-3 18S ribosomal...  Gaultheria t... NA              861414     263    263   60%   1e-65 95.73  582        JF976451.1       
+Gaultheria forrestii internal transcribed spacer 1, partial...    Gaultheria f... NA              586109     263    263   60%   1e-65 95.73  485        FJ010589.1       
+Gaultheria leucocarpa isolate YGN1 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583975.1       
+Gaultheria leucocarpa internal transcribed spacer 1, partial...   Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  640        KM209394.1       
+Gaultheria mucronata internal transcribed spacer 1, partial...    Gaultheria m... NA              586115     263    263   60%   1e-65 95.73  638        FJ010604.2       
+Gaultheria leucocarpa var. psilocarpa isolate F32 internal...     Gaultheria l... NA              2906484    263    263   60%   1e-65 95.73  636        OM022924.1       
+Gaultheria leucocarpa isolate JWS3 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583968.1       
+Gaultheria griffithiana voucher ABANERJEE64498 small subunit...   Gaultheria g... NA              586111     263    263   60%   1e-65 95.73  755        PV485389.1       
+Gaultheria leucocarpa voucher LuLu-LU2001-2 18S ribosomal RNA...  Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  635        JF976385.1       
+Gaultheria leucocarpa var. leucocarpa internal transcribed...     Gaultheria l... NA              586114     263    263   60%   1e-65 95.73  637        FJ025996.2       
+Gaultheria trigonoclada voucher L. Lu et al. 07216 internal...    Gaultheria t... NA              861414     263    263   60%   1e-65 95.73  633        HM597304.1       
+Gaultheria leucocarpa isolate YGN2 internal transcribed spacer... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583976.1       
+Gaultheria pumila internal transcribed spacer 1, 5.8S ribosoma... Gaultheria p... NA              157520     263    263   60%   1e-65 95.73  637        AF358896.1       
+Gaultheria leucocarpa isolate PB2 internal transcribed spacer ... Gaultheria l... NA              157514     263    263   60%   1e-65 95.73  637        OL583970.1       
+Gaultheria secunda voucher KUELAP266 small subunit ribosomal R... Gaultheria s... NA              2892466    261    261   60%   4e-65 95.71  681        OL361751.1       
+Lyonia ligustrina voucher CCDB-20334-B04 5.8S ribosomal RNA...    Lyonia ligus... NA              49151      261    371   100%  4e-65 95.18  347        MG217464.1       
+Lyonia ovalifolia isolate SCBGP401_1 18S ribosomal RNA gene,...   Lyonia ovali... NA              49153      259    259   60%   1e-64 95.15  744        KP092599.1       
+Gaultheria corvensis internal transcribed spacer 1, partial...    Gaultheria c... NA              1091531    259    259   60%   1e-64 95.12  635        JF801614.1       
+Gaultheria longibracteolata voucher LuLu-LL06-01-3 18S ribosom... Gaultheria l... NA              861404     259    259   60%   1e-64 95.12  632        JF976405.1       
+Gaultheria hispida voucher Bush 414 internal transcribed space... Gaultheria h... NA              157510     259    259   60%   1e-64 95.12  635        FJ665707.2       
+Gaultheria fragrantissima voucher LuLu-07-007-3 18S ribosomal...  Gaultheria f... NA              586110     259    259   60%   1e-64 95.12  632        JF976360.1       
+Gaultheria semi-infera voucher L. Lu et al. 060070 internal...    Gaultheria s... NA              861410     259    259   60%   1e-64 95.12  633        HM597303.1       
+Pieris nana internal transcribed spacer 1, partial sequence;...   Pieris nana     NA              49159      259    338   85%   1e-64 95.12  611        EU547687.1       
+Pernettya prostrata internal transcribed spacer 1, partial...     Pernettya pr... NA              157516     259    259   60%   1e-64 95.12  634        JF801602.1       
+Vaccinium duclouxii internal transcribed spacer 1, partial...     Vaccinium du... NA              1633937    259    259   60%   1e-64 95.12  650        KM209441.1       
+Gaultheria antarctica internal transcribed spacer 1, partial...   Gaultheria a... NA              157503     259    259   60%   1e-64 95.12  634        JF801618.1       
+Gaultheria fragrantissima voucher LuLu-LL06-07-2 18S ribosomal... Gaultheria f... NA              586110     259    259   60%   1e-64 95.12  632        JF976354.1       
+Lyonia ovalifolia isolate SCBGP401_2 internal transcribed spac... Lyonia ovali... NA              49153      259    259   60%   1e-64 95.15  652        KP092600.1       
+Gaultheria trigonoclada voucher LuLu-LL-07216-5 18S ribosomal...  Gaultheria t... NA              861414     259    259   60%   1e-64 95.12  607        JF976449.1       
+Gaultheria colensoi voucher Wagstaff and Bush 487 internal...     Gaultheria c... NA              672076     259    259   60%   1e-64 95.12  636        FJ665702.2       
+Pieris cubensis internal transcribed spacer 1, partial sequenc... Pieris cubensis NA              530137     259    259   60%   1e-64 95.12  640        EU547688.1       
+Gaultheria longibracteolata voucher LuLu-LL06-01-2 18S ribosom... Gaultheria l... NA              861404     259    259   60%   1e-64 95.12  626        JF976406.1       
+Gaultheria marticorenae voucher CONC 113190 internal transcrib... Gaultheria m... NA              3027712    257    257   60%   5e-64 95.12  659        OQ430017.1       
+Gaultheria stenophylla isolate XY60_1 internal transcribed...     Gaultheria s... NA              1965086    257    367   86%   5e-64 95.12  675        OQ304409.1       
+Lyonia ovalifolia var. elliptica P2253 genes for 18S rRNA, ITS... Lyonia ovali... NA              2899093    255    366   100%  2e-63 94.58  838        LC651232.1       
+
+
+Alignments:
+
+>Gaultheria sp. YRL-2021c isolate MS13 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583953.1 Length: 637
+>Gaultheria sp. YRL-2021c isolate MS15 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583954.1 Length: 637 
+Range 1: 345 to 506
+
+Score:268 bits(145), Expect:2e-67, 
+Identities:158/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  506
+
+
+
+
+>Gaultheria discolor voucher GLGS 32542 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597279.1 Length: 633
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa isolate PB1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583969.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa isolate JWS1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583967.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Pernettya prostrata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801603.1 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria hispida internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF358888.1 Length: 636
+Range 1: 342 to 503
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU002-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976390.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria myrtilloides internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801612.1 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Agarista sp. Schmidt &amp; Andrianjafy 4204 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: EU547686.1 Length: 635
+Range 1: 330 to 491
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  330  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  389
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  390  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  447
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||| ||| ||||||||||||
+Sbjct  448  GTGCGTGGGCGGATATTGGCCCCCCGTCCACATTCGTGCTCGGT  491
+
+
+
+
+Range 2: 538 to 630
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:83/93(89%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  162  GGTTGCCAAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  221
+            |||||| ||||| | ||| |  ||||||||||||||||||||||||||||||||||||||
+Sbjct  538  GGTTGCTAAACCGTCGCGTCGCGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  597
+
+Query  222  ACTCTGAAGTGCCATCTAACGACGGTACCTCAA  254
+            || ||| |||||||| |||| ||||||||||||
+Sbjct  598  ACCCTGGAGTGCCATTTAACTACGGTACCTCAA  630
+
+
+
+
+>Gaultheria tenuifolia internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801606.1 Length: 634
+Range 1: 342 to 503
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Gaultheria sp. YRL-2021b isolate YLC5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583961.1 Length: 637
+>Gaultheria sp. YRL-2021b isolate YLC7 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583962.1 Length: 637 
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa var. cumingiana internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ025994.1 Length: 485
+Range 1: 193 to 354
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  193  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  252
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  253  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  310
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  311  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  354
+
+
+
+
+>Gaultheria lanceolata voucher Bush 403 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665710.2 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria phillyreifolia internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801605.1 Length: 634
+Range 1: 342 to 503
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Lyonia ovalifolia internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209397.1 Length: 640
+Range 1: 353 to 516
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:156/164(95%),  Gaps:0/164(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  353  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  412
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  413  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCACGYCG  472
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            || |||||||||||||||||||||||||| | ||||||||||||
+Sbjct  473  GTRCGTGGGCGGATATTGGCCCCCCGTTCGCATTCGTGCTCGGT  516
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LL06-10-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976393.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria fragrantissima voucher LuLu-LU001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976353.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria itatiaiae internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801611.1 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria leucocarpa isolate DL1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583965.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria pyrolifolia internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597291.1 Length: 633
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria cumingiana internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF358882.1 Length: 640
+Range 1: 346 to 507
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  405
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  406  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  463
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  464  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  507
+
+
+
+
+>Gaultheria hookeri voucher LuLu-LL-06DYK-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976378.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria crassa voucher Wagstaff, Fritsch and Bush 416 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665703.2 Length: 635
+>Gaultheria rupestris voucher Wagstaff, Fritsch and Bush 426 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665716.2 Length: 635 
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-07-011-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976402.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria fragrantissima voucher L. Lu et al. 060027 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597263.1 Length: 633
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria fragrantissima voucher LuLu-LJJMC-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976357.1 Length: 632
+>Gaultheria fragrantissima voucher LuLu-06-0027-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976361.1 Length: 632
+>Gaultheria fragrantissima voucher LuLu-06-002-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976362.1 Length: 632
+>Gaultheria fragrantissima voucher LuLu-06-002-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976363.1 Length: 632
+>Gaultheria tetramera voucher LuLu-06-0070-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976446.1 Length: 632 
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa var. leucocarpa isolate LYW5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022928.1 Length: 636
+>Gaultheria leucocarpa var. leucocarpa isolate LYW6 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022929.1 Length: 636 
+Range 1: 344 to 505
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  461
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  505
+
+
+
+
+>Gaultheria leucocarpa var. leucocarpa isolate WH3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583959.1 Length: 637
+>Gaultheria leucocarpa var. leucocarpa isolate WH4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583960.1 Length: 637 
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa isolate DL3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583966.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-Liu1001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976397.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa isolate DHY5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583963.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LL06-09-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976395.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa isolate SGL1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583971.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria caespitosa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801619.1 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU2001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976386.1 Length: 635
+>Gaultheria leucocarpa voucher LuLu-LL06-10-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976394.1 Length: 635
+>Gaultheria leucocarpa voucher LuLu-Liu1001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976398.1 Length: 635
+>Gaultheria leucocarpa voucher LuLu-HE001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976399.1 Length: 635
+>Gaultheria leucocarpa voucher LuLu-03-1607-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976404.1 Length: 635 
+Range 1: 344 to 505
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  461
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  505
+
+
+
+
+>Gaultheria fragrantissima voucher L. Lu et al. 07404A internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597255.1 Length: 633
+>Gaultheria fragrantissima internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801623.1 Length: 633 
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria fragrantissima voucher LuLu-LU001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976352.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria semi-infera voucher ABANERJEE74876 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485429.1 Length: 764
+Range 1: 410 to 571
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  410  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  469
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  470  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  527
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  528  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  571
+
+
+
+
+>Gaultheria leucocarpa var. cumingiana isolate HXQ4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022927.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria lanigera internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801590.1 Length: 633
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| |||||||||||||||||||||||||||||||||||| | ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCT-T-AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+Range 2: 549 to 622
+
+Score:104 bits(56), Expect:7e-18, 
+Identities:68/74(92%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  162  GGTTGCCAAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  221
+            |||||||||||| | ||| ||||||||||||||||||||||||||||||||||||||| |
+Sbjct  549  GGTTGCCAAACCGTCGCGTCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATCG  608
+
+Query  222  ACTCTGAAGTGCCA  235
+            || ||| |||||||
+Sbjct  609  ACCCTGGAGTGCCA  622
+
+
+
+
+>Gaultheria semi-infera voucher ABANERJEE64493a small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485430.1 Length: 767
+Range 1: 410 to 571
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  410  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  469
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  470  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  527
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  528  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  571
+
+
+
+
+>Gaultheria griffithiana voucher ABANERJEE70904 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485388.1 Length: 752
+Range 1: 398 to 559
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  398  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  457
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  458  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  515
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  516  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  559
+
+
+
+
+>Gaultheria leucocarpa var. psilocarpa isolate F34 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022925.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria nubigena voucher C.R. Villamil 10407 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665712.1 Length: 627
+Range 1: 335 to 496
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  394
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  395  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  452
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  453  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  496
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU1001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976387.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria semi-infera voucher LuLu-LL-06QQ-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976429.1 Length: 632
+>Gaultheria tetramera voucher LuLu-06-0070-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976445.1 Length: 632 
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria semi-infera voucher LuLu-LL-06QQ-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976430.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa isolate SGL2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583972.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria paniculata voucher Fritsch and Bush 442 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665714.2 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria leucocarpa isolate WD15 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583974.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa var. cumingiana isolate HXQ3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022926.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria trigonoclada voucher LuLu-LL-07216-4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976450.1 Length: 632
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria longibracteolata voucher L. Lu et al. 0601 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597278.1 Length: 627
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa isolate WD14 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583973.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria bradeana internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801615.1 Length: 635
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria fragrantissima isolate GFT1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PP838801.1 Length: 671
+Range 1: 320 to 481
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  320  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  379
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  380  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  437
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  438  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  481
+
+
+
+
+>Gaultheria longibracteolata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209395.1 Length: 630
+Range 1: 342 to 503
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  503
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU1001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976388.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria nubigena internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801600.1 Length: 634
+Range 1: 342 to 503
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU002-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976389.1 Length: 636
+>Gaultheria leucocarpa voucher LuLu-LTX001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976391.1 Length: 636
+>Gaultheria leucocarpa voucher LuLu-LTX001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976392.1 Length: 636
+>Gaultheria leucocarpa voucher LuLu-LL06-09-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976396.1 Length: 636
+>Gaultheria leucocarpa voucher LuLu-HE001-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976400.1 Length: 636
+>Gaultheria leucocarpa voucher LuLu-07-011-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976401.1 Length: 636 
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria sp. YRL-2021a isolate JD1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583957.1 Length: 638
+>Gaultheria sp. YRL-2021a isolate JD3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583958.1 Length: 638 
+Range 1: 346 to 507
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  405
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  406  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  463
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  464  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  507
+
+
+
+
+>Gaultheria pingbienensis isolate DWS2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583955.1 Length: 637
+>Gaultheria pingbienensis isolate DWS4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583956.1 Length: 637 
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria semi-infera voucher ABANERJEE64493b small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485431.1 Length: 766
+Range 1: 409 to 570
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  409  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  468
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  469  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  526
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  527  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  570
+
+
+
+
+>Gaultheria leucocarpa isolate DHY6 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583964.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-03-1607-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976403.1 Length: 636
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria trigonoclada voucher LuLu-LL-07216-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976451.1 Length: 582
+Range 1: 330 to 491
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  330  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  389
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  390  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  447
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  448  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  491
+
+
+
+
+>Gaultheria forrestii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ010589.1 Length: 485
+>Gaultheria leucocarpa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ025995.1 Length: 485 
+Range 1: 193 to 354
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  193  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  252
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  253  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  310
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  311  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  354
+
+
+
+
+>Gaultheria leucocarpa isolate YGN1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583975.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria leucocarpa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209394.1 Length: 640
+Range 1: 346 to 507
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  405
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  406  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  463
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  464  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  507
+
+
+
+
+>Gaultheria mucronata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ010604.2 Length: 638
+>Gaultheria poeppigii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801601.1 Length: 638 
+Range 1: 346 to 507
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  405
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  406  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  463
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  464  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  507
+
+
+
+
+>Gaultheria leucocarpa var. psilocarpa isolate F32 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OM022924.1 Length: 636
+Range 1: 344 to 505
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  461
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  505
+
+
+
+
+>Gaultheria leucocarpa isolate JWS3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583968.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria griffithiana voucher ABANERJEE64498 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485389.1 Length: 755
+>Gaultheria griffithiana voucher ABANERJEE64356 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV485390.1 Length: 755 
+Range 1: 399 to 560
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  399  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  458
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  459  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  516
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  517  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  560
+
+
+
+
+>Gaultheria leucocarpa voucher LuLu-LU2001-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976385.1 Length: 635
+Range 1: 344 to 505
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  461
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  505
+
+
+
+
+>Gaultheria leucocarpa var. leucocarpa internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ025996.2 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria trigonoclada voucher L. Lu et al. 07216 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597304.1 Length: 633
+Range 1: 341 to 502
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || |||||||||||||
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTTG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  502
+
+
+
+
+>Gaultheria leucocarpa isolate YGN2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583976.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria pumila internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AF358896.1 Length: 637
+Range 1: 343 to 504
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria leucocarpa isolate PB2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL583970.1 Length: 637
+Range 1: 345 to 506
+
+Score:263 bits(142), Expect:1e-65, 
+Identities:157/164(96%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  345  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  404
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  405  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  462
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  463  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  506
+
+
+
+
+>Gaultheria secunda voucher KUELAP266 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OL361751.1 Length: 681
+Range 1: 380 to 540
+
+Score:261 bits(141), Expect:4e-65, 
+Identities:156/163(96%),  Gaps:2/163(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  380  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  439
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  440  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  497
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGG  163
+            ||||||||||||||||||||||||||||||| | |||||||||
+Sbjct  498  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGG  540
+
+
+
+
+>Lyonia ligustrina voucher CCDB-20334-B04 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217464.1 Length: 347
+Range 1: 10 to 175
+
+Score:261 bits(141), Expect:4e-65, 
+Identities:158/166(95%),  Gaps:2/166(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTT-  119
+            ||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||  
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTGAGCGGGCATGTGC  129
+
+Query  120  -GGTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+             |||||||||| ||||||||||||||||||||| ||||||||||||
+Sbjct  130  CGGTGCGTGGGTGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  175
+
+
+
+
+Range 2: 222 to 325
+
+Score:110 bits(59), Expect:2e-19, 
+Identities:95/111(86%),  Gaps:7/111(6%), Strand: Plus/Plus
+
+Query  162  GGTTGCCAAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  221
+            |||||||||||| | ||||| |||||||| ||||||||||||||||||||||||||||||
+Sbjct  222  GGTTGCCAAACCGTCGCGCCGTGTCGTGCGTGCCATCGTTTGTTGTGGGTTGGCCCATTG  281
+
+Query  222  ACTCTGAAGTGCCATCTAACGACGGTACCTCAATCGCGACCCCAGGTCAGG  272
+            || |||||||||| ||    | |   |||||||  ||||||||||||||||
+Sbjct  282  ACCCTGAAGTGCCGTCG---G-C---ACCTCAACTGCGACCCCAGGTCAGG  325
+
+
+
+
+>Lyonia ovalifolia isolate SCBGP401_1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KP092599.1 Length: 744
+Range 1: 409 to 573
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:157/165(95%),  Gaps:1/165(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  409  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  468
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCT-AAGCGGGCATGTT  119
+            ||||||| |||||||||||||||||||||||||||||||||||||| ||||||||| |  
+Sbjct  469  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAAGCGGGCACGCC  528
+
+Query  120  GGTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            |||||||||||||||||||||||||||||| | ||||||||||||
+Sbjct  529  GGTGCGTGGGCGGATATTGGCCCCCCGTTCGCATTCGTGCTCGGT  573
+
+
+
+
+>Gaultheria corvensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801614.1 Length: 635
+Range 1: 343 to 504
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||| ||||||||||||||||||| | ||||||||||
+Sbjct  461  GTGCGTGGGCGRATATTGGCCCCCCGTTCACATCCGTGCTCGGT  504
+
+
+
+
+>Gaultheria longibracteolata voucher LuLu-LL06-01-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976405.1 Length: 632
+Range 1: 341 to 502
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||| ||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTKCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria hispida voucher Bush 414 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665707.2 Length: 635
+Range 1: 343 to 504
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  460
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| |  |||||||||
+Sbjct  461  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCYGTGCTCGGT  504
+
+
+
+
+>Gaultheria fragrantissima voucher LuLu-07-007-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976360.1 Length: 632
+Range 1: 341 to 502
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATYCGTGCTCGGT  502
+
+
+
+
+>Gaultheria semi-infera voucher L. Lu et al. 060070 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: HM597303.1 Length: 633
+Range 1: 341 to 502
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATYCGTGCTCGGT  502
+
+
+
+
+>Pieris nana internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: EU547687.1 Length: 611
+Range 1: 325 to 488
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:0/164(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  325  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  384
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| |||||||||||||||||||||||||||||||||||||| || |||||||  |
+Sbjct  385  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTGAGTGGGCATGCCG  444
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            |||||||||||||||||||||||||||||||  |||||||||||
+Sbjct  445  GTGCGTGGGCGGATATTGGCCCCCCGTTCACACTCGTGCTCGGT  488
+
+
+
+
+Range 2: 544 to 609
+
+Score:78.7 bits(42), Expect:4e-10, 
+Identities:58/66(88%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  169  AAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTGACTCTGA  228
+            ||||| | ||| |  |||||||||||||||||||||||||||||||||||| ||| ||| 
+Sbjct  544  AAACCGTCGCGTCGCGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATCGACCCTGG  603
+
+Query  229  AGTGCC  234
+            ||||||
+Sbjct  604  AGTGCC  609
+
+
+
+
+>Pernettya prostrata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801602.1 Length: 634
+Range 1: 342 to 503
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| |||||||||||||||||||||||| |||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACYCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Vaccinium duclouxii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209441.1 Length: 650
+Range 1: 353 to 516
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:0/164(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  353  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  412
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  413  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCACGCCG  472
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            || |||||||||||||||||||||||||| | ||||||||||||
+Sbjct  473  GTACGTGGGCGGATATTGGCCCCCCGTTCGCATTCGTGCTCGGT  516
+
+
+
+
+>Gaultheria antarctica internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: JF801618.1 Length: 634
+Range 1: 342 to 503
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTCG  459
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||| ||||||||||||||||||||| | ||||||||||
+Sbjct  460  GTGCGTGGGYGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  503
+
+
+
+
+>Gaultheria fragrantissima voucher LuLu-LL06-07-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976354.1 Length: 632
+>Gaultheria fragrantissima voucher LuLu-07-008-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976358.1 Length: 632 
+Range 1: 341 to 502
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATYCGTGCTCGGT  502
+
+
+
+
+>Lyonia ovalifolia isolate SCBGP401_2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KP092600.1 Length: 652
+Range 1: 366 to 530
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:157/165(95%),  Gaps:1/165(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  366  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  425
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCT-AAGCGGGCATGTT  119
+            ||||||| |||||||||||||||||||||||||||||||||||||| ||||||||| |  
+Sbjct  426  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAAGCGGGCACGCC  485
+
+Query  120  GGTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            |||||||||||||||||||||||||||||| | ||||||||||||
+Sbjct  486  GGTGCGTGGGCGGATATTGGCCCCCCGTTCGCATTCGTGCTCGGT  530
+
+
+
+
+>Gaultheria trigonoclada voucher LuLu-LL-07216-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976449.1 Length: 607
+Range 1: 316 to 477
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  316  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  375
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  || ||||||||||| |
+Sbjct  376  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTGAGCGGGCATGTYG  433
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  434  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  477
+
+
+
+
+>Gaultheria colensoi voucher Wagstaff and Bush 487 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: FJ665702.2 Length: 636
+Range 1: 344 to 505
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||| ||||  |||||||||||||| |
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCYGTGC--CTAAGCGGGCATGTCG  461
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  505
+
+
+
+
+>Pieris cubensis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: EU547688.1 Length: 640
+Range 1: 332 to 495
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:0/164(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  332  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  391
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| |||||||||||||||||||||||||||||||||||||| || |||||||  |
+Sbjct  392  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTGAGTGGGCATGCCG  451
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  452  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  495
+
+
+
+
+>Gaultheria longibracteolata voucher LuLu-LL06-01-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: JF976406.1 Length: 626
+Range 1: 341 to 502
+
+Score:259 bits(140), Expect:1e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||||   ||||||||||| |
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTG--AGCGGGCATGTCG  458
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||| ||| ||||||||||||
+Sbjct  459  GTGCGTGGGCGGATATTGGCCCCCCGTKCACATTCGTGCTCGGT  502
+
+
+
+
+>Gaultheria marticorenae voucher CONC 113190 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: OQ430017.1 Length: 659
+Range 1: 356 to 517
+
+Score:257 bits(139), Expect:5e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |
+Sbjct  356  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCAGG  415
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||||||||||  |||||||||||||| |
+Sbjct  416  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCCCCGTGC--CTAAGCGGGCATGTGG  473
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| | ||||||||||
+Sbjct  474  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCCGTGCTCGGT  517
+
+
+
+
+>Gaultheria stenophylla isolate XY60_1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OQ304409.1 Length: 675
+Range 1: 338 to 499
+
+Score:257 bits(139), Expect:5e-64, 
+Identities:156/164(95%),  Gaps:2/164(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  338  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  397
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTTG  120
+            ||||||| ||||||||||||||||||||||||||| ||||||  |||||||||||||  |
+Sbjct  398  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCCTCCGTGC--CTAAGCGGGCATGCCG  455
+
+Query  121  GTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+            ||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  456  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  499
+
+
+
+
+Range 2: 546 to 619
+
+Score:110 bits(59), Expect:2e-19, 
+Identities:69/74(93%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  162  GGTTGCCAAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  221
+            |||||||||||| | ||| ||||||||||||||||||||||||||||||||||||||| |
+Sbjct  546  GGTTGCCAAACCGTCGCGTCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATCG  605
+
+Query  222  ACTCTGAAGTGCCA  235
+            || |||||||||||
+Sbjct  606  ACCCTGAAGTGCCA  619
+
+
+
+
+>Lyonia ovalifolia var. elliptica P2253 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651232.1 Length: 838
+Range 1: 397 to 562
+
+Score:255 bits(138), Expect:2e-63, 
+Identities:157/166(95%),  Gaps:2/166(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCTCCTGAAGCCATTAGGTTGAAGGCACG  60
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  397  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  456
+
+Query  61   TCTGCCTAGGCGTCACGCATTGCGTCACCCACTCCCCCGTGCCTCTAAGCGGGCATGTT-  119
+            ||||||| |||||||||||||||||||||| ||||||||||||||||||||||||| |  
+Sbjct  457  TCTGCCTGGGCGTCACGCATTGCGTCACCCGCTCCCCCGTGCCTCTAAGCGGGCATATGC  516
+
+Query  120  -GGTGCGTGGGCGGATATTGGCCCCCCGTTCACGTTCGTGCTCGGT  164
+             |||||||||| ||||||||||||||||||||| ||||||||||||
+Sbjct  517  YGGTGCGTGGGTGGATATTGGCCCCCCGTTCACATTCGTGCTCGGT  562
+
+
+
+
+Range 2: 609 to 712
+
+Score:110 bits(59), Expect:2e-19, 
+Identities:95/111(86%),  Gaps:7/111(6%), Strand: Plus/Plus
+
+Query  162  GGTTGCCAAACCATTGCGCCATGTCGTGCATGCCATCGTTTGTTGTGGGTTGGCCCATTG  221
+            |||||||||||| | ||||  |||||||| ||||||||||||||||||||||||||||||
+Sbjct  609  GGTTGCCAAACCGTCGCGCTGTGTCGTGCGTGCCATCGTTTGTTGTGGGTTGGCCCATTG  668
+
+Query  222  ACTCTGAAGTGCCATCTAACGACGGTACCTCAATCGCGACCCCAGGTCAGG  272
+            || |||||||||| ||    |  | ||||||||  ||||||||||||||||
+Sbjct  669  ACCCTGAAGTGCCGTC----G--G-TACCTCAACTGCGACCCCAGGTCAGG  712
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,121 @@
+Main-analysis environment (Mac)
+Scope: 01_04--01_05, 01_09--01_10 and stages 02--08.
+
+=== System and R library paths ===
+                                                                                                  sysname 
+                                                                                                 "Darwin" 
+                                                                                                  release 
+                                                                                                 "25.6.0" 
+                                                                                                  version 
+"Darwin Kernel Version 25.6.0: Fri Jul 31 19:16:20 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8142" 
+                                                                                                  machine 
+                                                                                                  "arm64" 
+[1] "/Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/library"
+
+=== Direct R dependencies and loading status ===
+    package version status
+        ape   5.8.1 loaded
+ Biostrings  2.78.0 loaded
+  bipartite    2.24 loaded
+      broom  1.0.13 loaded
+      dada2  1.38.0 loaded
+   decontam  1.30.0 loaded
+     DHARMa   0.5.0 loaded
+ doParallel  1.0.17 loaded
+      doRNG 1.8.6.3 loaded
+      dplyr   1.2.1 loaded
+ effectsize   1.0.3 loaded
+    emmeans   2.0.4 loaded
+  flextable  0.10.1 loaded
+    foreach   1.5.2 loaded
+      ggh4x   0.3.1 loaded
+ ggnewscale   0.5.2 loaded
+    ggplot2   4.0.3 loaded
+     ggpubr   1.0.0 loaded
+    ggrepel   0.9.8 loaded
+     ggstar   1.0.6 loaded
+     ggtext   0.2.0 loaded
+     ggtree   4.0.5 loaded
+    glmmTMB  1.1.14 loaded
+       here   1.0.2 loaded
+    officer   0.7.6 loaded
+   parallel   4.5.3 loaded
+  patchwork   1.3.2 loaded
+    permute  0.9.10 loaded
+   phytools   2.5.2 loaded
+    rstatix   1.1.0 loaded
+      stats   4.5.3 loaded
+    stringr   1.6.0 loaded
+     tibble   3.3.1 loaded
+      tidyr   1.3.2 loaded
+  tidyverse   2.0.0 loaded
+      vegan   2.7.6 loaded
+
+Package loading warnings/errors:
+None.
+
+=== External software ===
+     command    recorded_in_workflow                                                              detected_now status                    executable
+      blastn not separately recorded      blastn: 2.17.0+ |  Package: blast 2.17.0, build Jul  1 2025 12:49:33     OK      /opt/homebrew/bin/blastn
+ makeblastdb not separately recorded makeblastdb: 2.17.0+ |  Package: blast 2.17.0, build Jul  1 2025 12:49:33     OK /opt/homebrew/bin/makeblastdb
+       mafft                   7.526                                                      v7.526 (2024/Apr/26)     OK       /opt/homebrew/bin/mafft
+      trimal                   1.5.1                                        trimAl v1.5.rev1 build[2025-11-25]     OK      /opt/homebrew/bin/trimal
+MEGA: recorded in 08_03 = 12.1; detected now = version not available ; build not available
+MEGA application: /Applications/MEGA 12.app
+Manual fallback: blastn -version; makeblastdb -version; mafft --version; trimal --version; MEGA > About.
+BLAST uses the study's leaf reference sequences, not an external downloaded taxonomy database.
+Bash and awk are also used by the Mac shell scripts (system utilities).
+Bash: GNU bash, version 3.2.57(1)-release (arm64-apple-darwin25) | Copyright (C) 2007 Free Software Foundation, Inc.
+awk executable: /usr/bin/awk
+
+=== sessionInfo() after loading all available analysis packages ===
+R version 4.5.3 (2026-03-11)
+Platform: aarch64-apple-darwin20
+Running under: macOS Tahoe 26.6.2
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Asia/Tokyo
+tzcode source: internal
+
+attached base packages:
+[1] stats4    parallel  stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] lubridate_1.9.5       forcats_1.0.1         purrr_1.2.2           readr_2.2.0           tidyverse_2.0.0       tibble_3.3.1          rstatix_1.1.0         phytools_2.5-2       
+ [9] maps_3.4.3            patchwork_1.3.2       officer_0.7.6         glmmTMB_1.1.14        ggtree_4.0.5          ggtext_0.2.0          ggstar_1.0.6          ggrepel_0.9.8        
+[17] ggpubr_1.0.0          ggnewscale_0.5.2      ggh4x_0.3.1           ggplot2_4.0.3         flextable_0.10.1      emmeans_2.0.4         effectsize_1.0.3      doRNG_1.8.6.3        
+[25] rngtools_1.5.2        doParallel_1.0.17     iterators_1.0.14      foreach_1.5.2         DHARMa_0.5.0          decontam_1.30.0       dada2_1.38.0          Rcpp_1.1.2           
+[33] broom_1.0.13          bipartite_2.24        sna_2.8               network_1.20.0        statnet.common_4.13.0 Biostrings_2.78.0     Seqinfo_1.0.0         XVector_0.50.0       
+[41] IRanges_2.44.0        S4Vectors_0.48.1      BiocGenerics_0.56.0   generics_0.1.4        ape_5.8-1             dplyr_1.2.1           stringr_1.6.0         vegan_2.7-6          
+[49] permute_0.9-10        tidyr_1.3.2           here_1.0.2           
+
+loaded via a namespace (and not attached):
+  [1] splines_4.5.3               ggplotify_0.1.3             bitops_1.1-0                fields_17.3                 datawizard_1.4.0            lifecycle_1.0.5            
+  [7] pwalign_1.6.0               Rdpack_2.6.6                rprojroot_2.1.1             lattice_0.23-1              MASS_7.3-66                 insight_1.5.4              
+ [13] backports_1.5.1             magrittr_2.0.5              rmarkdown_2.32              otel_0.2.0                  spam_2.11-4                 zip_3.0.2                  
+ [19] askpass_1.2.1               minqa_1.2.8                 RColorBrewer_1.1-3          multcomp_1.4-32             abind_1.4-8                 ShortRead_1.68.0           
+ [25] quadprog_1.5-8              expm_1.0-1                  GenomicRanges_1.62.1        yulab.utils_0.2.5           TH.data_1.1-5               rappdirs_0.3.4             
+ [31] sandwich_3.1-3              gdtools_0.5.1               tidytree_0.4.8              codetools_0.2-20            DelayedArray_0.36.1         xml2_1.6.0                 
+ [37] tidyselect_1.2.1            aplot_0.3.1                 farver_2.1.2                lme4_2.0-6                  matrixStats_1.5.0           jsonlite_2.0.0             
+ [43] GenomicAlignments_1.46.0    Formula_1.2-6               survival_3.8-12             systemfonts_1.3.2           tools_4.5.3                 treeio_1.34.0              
+ [49] ragg_1.5.2                  glue_1.8.1                  mnormt_2.1.2                gridExtra_2.3.1             SparseArray_1.10.10         xfun_0.60                  
+ [55] mgcv_1.9-4                  MatrixGenerics_1.22.0       numDeriv_2016.8-1.1         withr_3.0.3                 combinat_0.0-8              fastmap_1.2.0              
+ [61] latticeExtra_0.6-31         boot_1.3-32                 openssl_2.4.2               digest_0.6.39               timechange_0.4.0            gridGraphics_0.5-1         
+ [67] R6_2.6.1                    estimability_2.0.0          textshaping_1.0.5           jpeg_0.1-11                 cigarillo_1.0.0             fontLiberation_0.1.0       
+ [73] data.table_1.18.6.1         clusterGeneration_1.3.8     htmlwidgets_1.6.4           S4Arrays_1.10.1             scatterplot3d_0.3-45        parameters_0.29.3          
+ [79] pkgconfig_2.0.3             gtable_0.3.6                S7_0.2.2                    hwriter_1.3.2.1             htmltools_0.5.9             fontBitstreamVera_0.1.1    
+ [85] carData_3.0-6               dotCall64_1.2               TMB_1.9.25                  scales_1.4.0                Biobase_2.70.0              png_0.1-9                  
+ [91] reformulas_0.4.4            ggfun_0.2.1                 knitr_1.52                  rstudioapi_0.19.0           tzdb_0.5.0                  reshape2_1.4.5             
+ [97] uuid_1.2-2                  coda_0.19-4.1               nlme_3.1-171                nloptr_2.2.1                zoo_1.9-0                   DEoptim_2.2-8              
+[103] pillar_1.11.1               grid_4.5.3                  vctrs_0.7.3                 car_3.1-5                   xtable_1.8-8                cluster_2.1.8.3            
+[109] evaluate_1.0.5              mvtnorm_1.4-2               cli_3.6.6                   compiler_4.5.3              Rsamtools_2.26.0            rlang_1.3.0                
+[115] crayon_1.5.3                ggsignif_0.6.4              interp_1.1-6                fs_2.1.0                    plyr_1.8.9                  ggiraph_0.9.6              
+[121] stringi_1.8.9               viridisLite_0.4.3           deldir_2.0-4                BiocParallel_1.44.0         optimParallel_1.0-3         lazyeval_0.2.3             
+[127] bayestestR_0.19.0           fontquiver_0.2.1            Matrix_1.7-6                hms_1.1.4                   SummarizedExperiment_1.40.0 rbibutils_2.4.1            
+[133] gridtext_0.1.6              igraph_2.3.3                RcppParallel_6.2.1          phangorn_2.12.1             fastmatch_1.1-8            

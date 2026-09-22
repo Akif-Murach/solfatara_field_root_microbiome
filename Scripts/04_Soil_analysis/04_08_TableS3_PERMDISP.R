@@ -25,6 +25,7 @@
 library(flextable)
 library(officer)
 library(here)
+library(dplyr)
 
 source(here("Function", "make_permdisp_table.R"))
 

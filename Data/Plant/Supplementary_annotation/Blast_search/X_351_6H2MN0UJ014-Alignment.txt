@@ -1,0 +1,3205 @@
+RID: 6H2MN0UJ014	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_2114957 Length: 272
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Elliottia bracteata M16-92 genes for 18S rRNA, ITS1, 5.8S rRNA... Elliottia br... NA              45893      431    431   100%  3e-116 95.22  405        LC554330.1       
+Elliottia paniculata P2360 gene for 18S rRNA, ITS1, 5.8S rRNA,... Elliottia pa... NA              75585      425    425   100%  1e-114 94.85  870        LC610876.1       
+Elliottia paniculata internal transcribed spacer 1, partial...    Elliottia pa... NA              75585      407    407   99%   5e-109 94.03  603        GU176628.1       
+Elliottia bracteata nuclear rDNA internal transcribed spacer...   Elliottia br... NA              45893      383    383   100%  8e-102 92.09  629        U48609.1         
+Rhododendron sophistarum voucher XU Bo-893 internal transcribe... Rhododendron... NA              2182709    370    370   100%  7e-98  91.21  677        MH293139.1       
+Diplarche multiflora internal transcribed spacer 1, partial...    Rhododendron... NA              190999     361    361   99%   4e-95  90.71  583        GU176631.1       
+Elliottia racemosa nuclear rDNA internal transcribed spacer...    Elliottia ra... NA              13506      361    361   100%  4e-95  90.51  646        U48582.1         
+Epigaea asiatica P2466 gene for 18S rRNA, ITS1, 5.8S rRNA, ITS... Epigaea asia... NA              764530     353    353   89%   7e-93  92.98  865        LC610877.1       
+Epigaea repens voucher NTW 938 5.8S ribosomal RNA gene, partia... Epigaea repens  NA              45914      353    353   89%   7e-93  92.98  344        MG217531.1       
+Epigaea repens internal transcribed spacer 1, partial sequence... Epigaea repens  NA              45914      353    353   89%   7e-93  92.98  1730       KU350169.1       
+Harrimanella stelleriana voucher CCDB-18329-F7 5.8S ribosomal...  Harrimanella... NA              764531     351    351   100%  2e-92  90.07  454        MG218085.1       
+Rhododendron redowskianum voucher UAM:Herb:249112 small subuni... Rhododendron... NA              184582     351    351   100%  2e-92  90.11  715        MF377488.1       
+Rhododendron redowskianum internal transcribed spacer 1, 5.8S...  Rhododendron... NA              184582     351    351   100%  2e-92  90.11  653        AF393418.1       
+Empetrum atropurpureum internal transcribed spacer 1, partial...  Empetrum atr... NA              49142      351    351   97%   2e-92  90.64  610        GU176625.1       
+Harrimanella stelleriana voucher CCDB-18329-G7 5.8S ribosomal...  Harrimanella... NA              764531     351    351   100%  2e-92  90.07  454        MG219929.1       
+Kalmia poliifolia nuclear rDNA internal transcribed spacer region Kalmia polif... NA              45899      348    348   100%  3e-91  89.74  615        U48597.1         
+Kalmia angustifolia voucher CCDB-18329-C7 5.8S ribosomal RNA...   Kalmia angus... NA              45901      348    348   100%  3e-91  89.74  455        MG217776.1       
+Phyllodoce nipponica M15-15 genes for 18S rRNA, ITS1, 5.8S rRN... Phyllodoce n... NA              49156      348    348   89%   3e-91  92.56  407        LC554278.1       
+Epigaea asiatica P2653 genes for 18S rRNA, ITS1, 5.8S rRNA,...    Epigaea asia... NA              764530     348    348   89%   3e-91  92.56  799        LC651265.1       
+Kalmia microphylla voucher CCDB-18329-D7 5.8S ribosomal RNA...    Kalmia micro... NA              45900      348    348   100%  3e-91  89.74  456        MG220151.1       
+Phyllodoce aleutica M15-1 genes for 18S rRNA, ITS1, 5.8S rRNA,... Phyllodoce a... NA              343998     348    348   89%   3e-91  92.56  407        LC554275.1       
+Phyllodoce caerulea voucher RBGE52 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX165706.1       
+Phyllodoce caerulea voucher RBGE51 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX165703.1       
+Phyllodoce empetriformis voucher OLD00930 internal transcribed... Phyllodoce e... NA              45910      348    348   89%   3e-91  92.56  600        MT779210.1       
+Phyllodoce caerulea voucher Aiken_04-025_CAN 5.8S ribosomal RN... Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  344        MG218352.1       
+Kalmia polifolia voucher BIOUG<CAN>:09PROBE-05085 internal...     Kalmia polif... NA              45899      348    348   100%  3e-91  89.74  352        JN999278.1       
+Phyllodoce empetriformis voucher CCDB-18329-H9 5.8S ribosomal...  Phyllodoce e... NA              45910      348    348   89%   3e-91  92.56  407        MG219964.1       
+Kalmia polifolia voucher BIOUG<CAN>:09PROBE-05309 internal...     Kalmia polif... NA              45899      348    348   100%  3e-91  89.74  352        JN999276.1       
+Phyllodoce caerulea voucher RBGE53 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX167067.1       
+Phyllodoce caerulea voucher RBGE50 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX167065.1       
+Phyllodoce caerulea voucher RBGE55 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX167046.1       
+Phyllodoce caerulea voucher RBGE54 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX165700.1       
+Kalmia microphylla voucher CCDB-18329-E7 5.8S ribosomal RNA...    Kalmia micro... NA              45900      348    348   100%  3e-91  89.74  456        MG218280.1       
+Phyllodoce deflexa voucher INST Jian Hung Yuan s.n., WFU 18S...   Phyllodoce d... NA              764536     348    348   89%   3e-91  92.56  598        HM182010.1       
+Phyllodoce caerulea voucher Aiken_04-017_CAN 5.8S ribosomal RN... Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  344        MG219247.1       
+Phyllodoce caerulea voucher RBGE56 5.8S ribosomal RNA gene,...    Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  448        KX165702.1       
+Phyllodoce caerulea internal transcribed spacer 1, partial...     Phyllodoce c... NA              49155      348    348   89%   3e-91  92.56  600        GU176630.1       
+Empetrum eamesii voucher CCDB-24801-G01 5.8S ribosomal RNA gen... Empetrum eam... NA              199170     346    346   94%   1e-90  91.09  355        MG218133.1       
+Harrimanella stelleriana isolate LLV34 5.8S ribosomal RNA gene... Harrimanella... NA              764531     346    346   99%   1e-90  89.96  300        PX856800.1       
+Rhododendron mollicomum voucher GLM-123334 internal transcribe... Rhododendron... NA              1302318    346    346   100%  1e-90  89.78  647        KC196018.1       
+Kalmia angustifolia voucher OLD06732 internal transcribed spac... Kalmia angus... NA              45901      346    346   99%   1e-90  89.96  605        MT779208.1       
+Kalmia angustifolia var. carolina voucher INST Gillespie 07-00... Kalmia angus... NA              764532     346    346   99%   1e-90  89.96  605        HM182015.1       
+Empetrum nigrum voucher BIOUG<CAN>:09PROBE-05562 internal...      Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  351        JN999181.1       
+Phyllodoce empetriformis voucher CCDB-18329-G9 5.8S ribosomal...  Phyllodoce e... NA              45910      344    344   89%   4e-90  92.15  448        MG219981.1       
+Empetrum rubrum voucher Alvarez, A. SUP02 213 5 (O) 18S...        Empetrum rubrum NA              45919      344    344   98%   4e-90  89.96  789        HQ858881.1       
+Empetrum sp. JGMV-2020 isolate FU_G_2_2 internal transcribed...   Empetrum sp.... NA              2730510    344    344   98%   4e-90  89.96  685        MT376797.1       
+Empetrum nigrum internal transcribed spacer 1, partial sequenc... Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  614        GU176626.1       
+Empetrum nigrum internal transcribed spacer 1, partial sequenc... Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  653        AF519547.1       
+Empetrum atropurpureum voucher CCDB-20332-D10 5.8S ribosomal R... Empetrum atr... NA              49142      344    344   98%   4e-90  89.96  351        MG217639.1       
+Harrimanella stelleriana voucher INST Parker&Studebaker 16655...  Harrimanella... NA              764531     344    344   99%   4e-90  89.93  589        HM182082.1       
+Empetrum nigrum internal transcribed spacer 1, partial sequenc... Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  689        GU361896.1       
+Empetrum nigrum voucher BIOUG<CAN>:09PROBE-05588 internal...      Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  321        JN999183.1       
+Phyllodoce breweri voucher INST Gillespie 06-019, WFU 18S...      Phyllodoce b... NA              764535     344    344   89%   4e-90  92.15  600        HM182009.1       
+Empetrum nigrum voucher NMW289 5.8S ribosomal RNA gene, partia... Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  455        KX165462.1       
+Empetrum nigrum isolate DM478 small subunit ribosomal RNA gene... Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  5574       MT796526.1       
+Empetrum sp. JGMV-2020 isolate FU_G_2_1 internal transcribed...   Empetrum sp.... NA              2730510    344    344   98%   4e-90  89.96  680        MT376796.1       
+Empetrum eamesii internal transcribed spacer 1, partial...        Empetrum eam... NA              199170     344    344   98%   4e-90  89.96  653        AF519551.1       
+Empetrum nigrum isolate N10 5.8S ribosomal RNA gene, partial...   Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  391        OR235099.1       
+Empetrum atropurpureum voucher CCDB-20332-F10 5.8S ribosomal R... Empetrum atr... NA              49142      344    344   98%   4e-90  89.96  351        MG218697.1       
+Rhododendron atlanticum voucher 100012 internal transcribed...    Rhododendron... NA              78635      344    344   99%   4e-90  90.00  606        MT779083.1       
+Empetrum nigrum var. japonicum M16-43 genes for 18S rRNA, ITS1... Empetrum nig... NA              2163615    344    344   98%   4e-90  89.96  414        LC554309.1       
+Empetrum nigrum isolate TAB37 internal transcribed spacer 1,...   Empetrum nigrum black crowberry 191066     344    344   98%   4e-90  89.96  660        PX851171.1       
+Kalmia procumbens voucher OLD06733 internal transcribed spacer... Kalmia procu... NA              45912      342    342   99%   1e-89  89.63  608        MT779209.1       
+Kalmia procumbens voucher RBGE46 5.8S ribosomal RNA gene,...      Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165500.1       
+Kalmia procumbens voucher RBGE49 5.8S ribosomal RNA gene,...      Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165499.1       
+Phyllodoce glanduliflora voucher INST 1968-0179, RBGE 18S...      Phyllodoce g... NA              764537     342    342   89%   1e-89  92.15  600        HM182011.1       
+Kalmia procumbens voucher EDNA21-0061087 internal transcribed...  Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  458        PZ361367.1       
+Rhodothamnus sessilifolius voucher INST Terzioglu s.n., WFU 18... Rhodothamnus... NA              764538     342    342   88%   1e-89  92.47  597        HM182014.1       
+Kalmia procumbens voucher RBGE47 5.8S ribosomal RNA gene,...      Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165501.1       
+Phyllodoce glanduliflora voucher CCDB-18329-D9 5.8S ribosomal...  Phyllodoce g... NA              764537     342    342   89%   1e-89  92.15  448        MG218908.1       
+Kalmia procumbens voucher NMW7518 5.8S ribosomal RNA gene,...     Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165525.1       
+Phyllodoce glanduliflora voucher CCDB-18329-F9 5.8S ribosomal...  Phyllodoce g... NA              764537     342    342   89%   1e-89  92.15  448        MG217812.1       
+Kalmia procumbens voucher NMW7517 5.8S ribosomal RNA gene,...     Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165528.1       
+Kalmia procumbens voucher CCDB-18329-F8 5.8S ribosomal RNA gen... Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        MG217571.1       
+Phyllodoce glanduliflora voucher CCDB-18329-E9 5.8S ribosomal...  Phyllodoce g... NA              764537     342    342   89%   1e-89  92.15  448        MG217998.1       
+Kalmia procumbens voucher RBGE48 5.8S ribosomal RNA gene,...      Kalmia procu... NA              45912      342    342   100%  1e-89  89.42  457        KX165498.1       
+Rhododendron molle Here genes for 5.8S rRNA, ITS2, 28S rRNA,...   Rhododendron... NA              49168      340    340   100%  5e-89  89.42  351        LC365318.1       
+Rhododendron spinuliferum voucher YLJ-131566 18S ribosomal RNA... Rhododendron... NA              182159     340    340   100%  5e-89  89.42  717        KM605722.1       
+Rhododendron hemitrichotum voucher YLJ-131588 18S ribosomal RN... Rhododendron... NA              1701198    340    340   100%  5e-89  89.42  717        KM605725.1       
+Rhododendron spiciferum voucher YLJ-131492 18S ribosomal RNA...   Rhododendron... NA              182158     340    340   100%  5e-89  89.42  717        KM605721.1       
+Rhododendron canadense voucher 35913HIM 5.8S ribosomal RNA gen... Rhododendron... NA              49465      340    340   100%  5e-89  89.42  350        MG219181.1       
+Rhododendron cinnabarinum voucher GLM-102835 18S ribosomal RNA... Rhododendron... NA              1044951    340    340   100%  5e-89  89.42  717        KM605763.1       
+Rhododendron rubiginosum voucher YLDP058A small subunit...        Rhododendron... NA              407979     340    340   100%  5e-89  89.42  714        MH117697.1       
+Rhododendron yunnanense voucher SCW2025 internal transcribed...   Rhododendron... NA              1044996    340    340   100%  5e-89  89.42  697        MW692183.1       
+Rhododendron lutescens voucher SCW0044 internal transcribed...    Rhododendron... NA              313331     340    340   100%  5e-89  89.42  694        MW692184.1       
+Rhododendron concinnum voucher Q314 small subunit ribosomal RN... Rhododendron... NA              2291153    340    340   100%  5e-89  89.42  738        MH711280.1       
+Rhododendron lutescens voucher 2027 small subunit ribosomal RN... Rhododendron... NA              313331     340    340   100%  5e-89  89.42  734        MH844620.1       
+Rhododendron cinnabarinum internal transcribed spacer 1, parti... Rhododendron... NA              1044951    340    340   100%  5e-89  89.42  709        MH532950.1       
+Rhododendron canadense voucher 82131HIM 5.8S ribosomal RNA gen... Rhododendron... NA              49465      340    340   100%  5e-89  89.42  350        MG219690.1       
+Rhododendron hemitrichotum voucher YLJ-131582 18S ribosomal RN... Rhododendron... NA              1701198    340    340   100%  5e-89  89.42  717        KM605724.1       
+Rhododendron japonicum isolate L93 5.8S ribosomal RNA gene,...    Rhododendron... NA              880081     340    340   100%  5e-89  89.42  391        OR235057.1       
+Rhododendron spiciferum voucher YLJ-131691 18S ribosomal RNA...   Rhododendron... NA              182158     340    340   100%  5e-89  89.42  717        KM605728.1       
+Rhododendron concinnum voucher Q143 small subunit ribosomal RN... Rhododendron... NA              2291153    340    340   100%  5e-89  89.42  760        MH711137.1       
+Rhododendron augustinii 5.8S ribosomal RNA gene and internal...   Rhododendron... NA              1633919    340    340   100%  5e-89  89.42  321        KM209402.1       
+Rhododendron canadense voucher 40117HIM 5.8S ribosomal RNA gen... Rhododendron... NA              49465      340    340   100%  5e-89  89.42  350        MG218861.1       
+Rhododendron rufum voucher HZ385 small subunit ribosomal RNA...   Rhododendron... NA              2291155    340    340   100%  5e-89  89.42  760        MH710990.1       
+Rhododendron canadense voucher CCDB-18329-B9 5.8S ribosomal RN... Rhododendron... NA              49465      340    340   100%  5e-89  89.42  454        MG219186.1       
+Rhododendron heliolepis clone rh 18S ribosomal RNA gene, parti... Rhododendron... NA              1044959    340    340   100%  5e-89  89.42  691        KX765330.1       
+Rhododendron augustinii voucher ZL0904048 small subunit...        Rhododendron... NA              1633919    340    340   100%  5e-89  89.42  758        MH710933.1       
+Rhododendron fletcherianum voucher GLM-123498 18S ribosomal RN... Rhododendron... NA              1701196    337    337   100%  7e-88  89.05  717        KM605998.1       
+
+
+Alignments:
+
+>Elliottia bracteata M16-92 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554330.1 Length: 405
+Range 1: 64 to 335
+
+Score:431 bits(233), Expect:3e-116, 
+Identities:259/272(95%),  Gaps:0/272(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  64   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  123
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            ||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  124  TCTGCCTGGGCGTCACGCATTGCGTCTCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  183
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||||||||| |||| ||||||||||||||
+Sbjct  184  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAGAACAG  243
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  244  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  303
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||||||||||||||| |||||||||||||||
+Sbjct  304  TGCTATTTTTTGTCGTGGGTTGGCTCATTGAC  335
+
+
+
+
+>Elliottia paniculata P2360 gene for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC610876.1 Length: 870
+Range 1: 404 to 675
+
+Score:425 bits(230), Expect:1e-114, 
+Identities:258/272(95%),  Gaps:0/272(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  404  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  463
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            ||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  464  TCTGCCTGGGCGTCACGCATTGCGTCTCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  523
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| |||||||| |||||| |||| ||||||||||||||
+Sbjct  524  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCTGTGCTCGGTCGGCCTAAAAGAACAG  583
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  584  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  643
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||||||||||||||| |||||||||||||||
+Sbjct  644  TGCTATTTTTTGTCGTGGGTTGGCTCATTGAC  675
+
+
+
+
+>Elliottia paniculata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU176628.1 Length: 603
+Range 1: 336 to 603
+
+Score:407 bits(220), Expect:5e-109, 
+Identities:252/268(94%),  Gaps:0/268(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||| ||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  336  CCGTGAACCATTGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  395
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            ||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  396  TCTGCCTGGGCGTCACGCATTGCGTCTCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  455
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| |||||||| |||||| |||| ||||||||||||||
+Sbjct  456  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATCTGTGCTCGGTCGGCCTAAAAGAACAG  515
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  516  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  575
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            |||| ||||||||||| |||||||||||
+Sbjct  576  TGCTGTTTTTTGTCGTGGGTTGGCTCAT  603
+
+
+
+
+>Elliottia bracteata nuclear rDNA internal transcribed spacer region
+Sequence ID: U48609.1 Length: 629
+Range 1: 334 to 608
+
+Score:383 bits(207), Expect:8e-102, 
+Identities:256/278(92%),  Gaps:9/278(3%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGA--AGG-C  57
+            ||||||||||||||||||||||| ||||||||| ||||||| ||||| |||||  ||| |
+Sbjct  334  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGC-CCTGAAGCCATTAGGCTGAGAAGGTC  392
+
+Query  58   AT-GTCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCG  115
+             | |||||||||||||||||||||||| || ||| |||||||| ||||||||||||||||
+Sbjct  393  CTCGTCTGCCTGGGCGTCACGCATTGC-TCGTCCCACTCACCCCCGTGCCTCAGTGGGCG  451
+
+Query  116  GGTAAGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG  175
+            |||||||||||||| |||||||||||||| ||||||||||||||| |||| |||||||||
+Sbjct  452  GGTAAGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAG  511
+
+Query  176  AACAGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTC  235
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  512  AACAGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTC  571
+
+Query  236  ATGCA-TGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+             |||| ||| |||||||||||| |||||||||||||||
+Sbjct  572  GTGCAATGC-ATTTTTTGTCGTGGGTTGGCTCATTGAC  608
+
+
+
+
+>Rhododendron sophistarum voucher XU Bo-893 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH293139.1 Length: 677
+Range 1: 358 to 629
+
+Score:370 bits(200), Expect:7e-98, 
+Identities:249/273(91%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  358  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  417
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  418  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  476
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||| ||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||  
+Sbjct  477  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAAG  536
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  537  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  596
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |||||||||||| || |||||||| |||
+Sbjct  597  ATGCCATTTTTTGTCGTGGGCTGGCTCATCGAC  629
+
+
+
+
+>Diplarche multiflora internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU176631.1 Length: 583
+Range 1: 316 to 583
+
+Score:361 bits(195), Expect:4e-95, 
+Identities:244/269(91%),  Gaps:2/269(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  316  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  375
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||| ||| | |||||||||
+Sbjct  376  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCYTCAATAGGGCGGGTA  434
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||| ||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||  
+Sbjct  435  AGTGGGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAAG  494
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  495  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  554
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            |||| ||||||||| || || ||||||||
+Sbjct  555  ATGCCATTTTTTGTYGTGGGCTGGCTCAT  583
+
+
+
+
+>Elliottia racemosa nuclear rDNA internal transcribed spacer region
+Sequence ID: U48582.1 Length: 646
+Range 1: 349 to 622
+
+Score:361 bits(195), Expect:4e-95, 
+Identities:248/274(91%),  Gaps:2/274(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  349  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  408
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGG--T  118
+            |||||||||||||||||||||||||| || |||||| | || |||||||||||||||  |
+Sbjct  409  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACTCCCGCGCCTCAGTGGGCGGGGAT  468
+
+Query  119  AAGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAAC  178
+            ||||||||||| |||| ||||||||| ||||||||| ||||| |||| |||||||| |||
+Sbjct  469  AAGTGCGTGGGCGGATGTTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAAAAC  528
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            ||||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  529  AGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  588
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||||||||||   |||||||||| ||||
+Sbjct  589  CATGCCATTTTTTGTCACGGGTTGGCTCACTGAC  622
+
+
+
+
+>Epigaea asiatica P2466 gene for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC610877.1 Length: 865
+Range 1: 406 to 647
+
+Score:353 bits(191), Expect:7e-93, 
+Identities:225/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  406  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  465
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  466  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  525
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  526  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  585
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  586  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  645
+
+Query  241  TG  242
+            ||
+Sbjct  646  TG  647
+
+
+
+
+>Epigaea repens voucher NTW 938 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217531.1 Length: 344
+Range 1: 10 to 251
+
+Score:353 bits(191), Expect:7e-93, 
+Identities:225/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Epigaea repens internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: KU350169.1 Length: 1730
+Range 1: 287 to 528
+
+Score:353 bits(191), Expect:7e-93, 
+Identities:225/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  287  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  346
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  347  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  406
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  407  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  466
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  467  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  526
+
+Query  241  TG  242
+            ||
+Sbjct  527  TG  528
+
+
+
+
+>Harrimanella stelleriana voucher CCDB-18329-F7 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218085.1 Length: 454
+Range 1: 10 to 280
+
+Score:351 bits(190), Expect:2e-92, 
+Identities:245/272(90%),  Gaps:1/272(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||| ||||||  ||  
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCACCC-CGTGCCTCGGTGGGCATGTCG  128
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            |||||||||||||||||||||||| ||||||||||||||| |||| |||||||| ||  |
+Sbjct  129  GTGCGTGGGTGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAGGG  188
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            ||||||| |||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  189  TCCCCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  248
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| ||| ||||| || |||||||||||||||
+Sbjct  249  TGCCATTGTTTGTTGTGGGTTGGCTCATTGAC  280
+
+
+
+
+>Rhododendron redowskianum voucher UAM:Herb:249112 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MF377488.1 Length: 715
+Range 1: 375 to 645
+
+Score:351 bits(190), Expect:2e-92, 
+Identities:246/273(90%),  Gaps:3/273(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  375  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  434
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  435  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAGTGGGCGGGTAA  493
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGA-ACA  179
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||| | || 
+Sbjct  494  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAAAGACG  553
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            |||||  ||||||||||||||| |||||||||||||||||||||| |||||||||| |||
+Sbjct  554  GTCCCG-ATGACGGACATCACGGCAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  612
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| ||| |||||||| || ||| |||| |||
+Sbjct  613  ATGCCATTCTTTGTCGTGGGCTGGTTCATCGAC  645
+
+
+
+
+>Rhododendron redowskianum internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AF393418.1 Length: 653
+Range 1: 343 to 613
+
+Score:351 bits(190), Expect:2e-92, 
+Identities:246/273(90%),  Gaps:3/273(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  343  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  402
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  403  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAGTGGGCGGGTAA  461
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGA-ACA  179
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||| | || 
+Sbjct  462  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAAAGACG  521
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            |||||  ||||||||||||||| |||||||||||||||||||||| |||||||||| |||
+Sbjct  522  GTCCCG-ATGACGGACATCACGGCAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  580
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| ||| |||||||| || ||| |||| |||
+Sbjct  581  ATGCCATTCTTTGTCGTGGGCTGGTTCATCGAC  613
+
+
+
+
+>Empetrum atropurpureum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU176625.1 Length: 610
+Range 1: 346 to 610
+
+Score:351 bits(190), Expect:2e-92, 
+Identities:242/267(91%),  Gaps:4/267(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  405
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  406  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  464
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTT-GTGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| |||||||||| ||||| |||| |||||||| || 
+Sbjct  465  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGGTGCTCGGTCGGCCTAAAATAA-  523
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| |||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  524  GGTCCCCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  583
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCT  265
+            ||||| |||||||||||| || |||||
+Sbjct  584  CATGCCATTTTTTGTCGTGGGCTGGCT  610
+
+
+
+
+>Harrimanella stelleriana voucher CCDB-18329-G7 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219929.1 Length: 454
+Range 1: 10 to 280
+
+Score:351 bits(190), Expect:2e-92, 
+Identities:245/272(90%),  Gaps:1/272(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||| ||||||  ||  
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCACCC-CGTGCCTCGGTGGGCATGTCG  128
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            |||||||||||||||||||||||| ||||||||||||||| |||| |||||||| ||  |
+Sbjct  129  GTGCGTGGGTGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAGGG  188
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            ||||||| |||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  189  TCCCCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  248
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| ||| ||||| || |||||||||||||||
+Sbjct  249  TGCCATTGTTTGTTGTGGGTTGGCTCATTGAC  280
+
+
+
+
+>Kalmia poliifolia nuclear rDNA internal transcribed spacer region
+Sequence ID: U48597.1 Length: 615
+Range 1: 323 to 594
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  323  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  382
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCT-CAGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||| | ||||||  |||
+Sbjct  383  CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCCTGTGGGCATGTA  442
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||||
+Sbjct  443  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAACA  502
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  503  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  562
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |  ||||||||| || || ||||| |||
+Sbjct  563  ATGCCAGATTTTGTCGTGGGCTGTCTCAT-GAC  594
+
+
+
+
+>Kalmia angustifolia voucher CCDB-18329-C7 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217776.1 Length: 455
+Range 1: 10 to 281
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTCGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| ||||||||||||||  |||||||| ||||| |||| |||||||| ||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCCTTCACATTCGTGCTCGGTCGGCCTAAAAAAACA  189
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  190  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  249
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |||||||||||| || || ||||| |||
+Sbjct  250  ATGCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  281
+
+
+
+
+>Phyllodoce nipponica M15-15 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554278.1 Length: 407
+Range 1: 64 to 305
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  64   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  123
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  124  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  183
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  184  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  243
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  244  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  303
+
+Query  241  TG  242
+            ||
+Sbjct  304  TG  305
+
+
+
+
+>Epigaea asiatica P2653 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, and 28S rRNA, partial and complete sequence
+Sequence ID: LC651265.1 Length: 799
+Range 1: 361 to 602
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  361  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  420
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||| ||||||||||
+Sbjct  421  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGGGGGCGGGTAA  480
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  481  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  540
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  541  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  600
+
+Query  241  TG  242
+            ||
+Sbjct  601  TG  602
+
+
+
+
+>Kalmia microphylla voucher CCDB-18329-D7 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG220151.1 Length: 456
+Range 1: 10 to 281
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCT-CAGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||| | ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCCTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAACA  189
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  190  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  249
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |  ||||||||| || || ||||| |||
+Sbjct  250  ATGCCAGATTTTGTCGTGGGCTGTCTCAT-GAC  281
+
+
+
+
+>Phyllodoce aleutica M15-1 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554275.1 Length: 407
+Range 1: 64 to 305
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  64   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  123
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  124  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  183
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  184  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  243
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  244  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  303
+
+Query  241  TG  242
+            ||
+Sbjct  304  TG  305
+
+
+
+
+>Phyllodoce caerulea voucher RBGE52 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165706.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea voucher RBGE51 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165703.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce empetriformis voucher OLD00930 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT779210.1 Length: 600
+Range 1: 340 to 581
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  399
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  400  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  459
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  519
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  520  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  579
+
+Query  241  TG  242
+            ||
+Sbjct  580  TG  581
+
+
+
+
+>Phyllodoce caerulea voucher Aiken_04-025_CAN 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218352.1 Length: 344
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Kalmia polifolia voucher BIOUG&lt;CAN&gt;:09PROBE-05085 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999278.1 Length: 352
+Range 1: 10 to 281
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCT-CAGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||| | ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCCTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAACA  189
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  190  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  249
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |  ||||||||| || || ||||| |||
+Sbjct  250  ATGCCAGATTTTGTCGTGGGCTGTCTCAT-GAC  281
+
+
+
+
+>Phyllodoce empetriformis voucher CCDB-18329-H9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219964.1 Length: 407
+Range 1: 11 to 252
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  11   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  70
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  71   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  130
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  131  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  190
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  191  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  250
+
+Query  241  TG  242
+            ||
+Sbjct  251  TG  252
+
+
+
+
+>Kalmia polifolia voucher BIOUG&lt;CAN&gt;:09PROBE-05309 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999276.1 Length: 352
+>Kalmia polifolia voucher BIOUG&lt;CAN&gt;:09PROBE-05255 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999277.1 Length: 352 
+Range 1: 10 to 281
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCT-CAGTGGGCGGGTA  119
+             ||||||||||||||||||| ||||  || |||||||| ||||||| | ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATCGCGTTGCCCACTCACCCCCGTGCCTCCTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAACA  189
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  190  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  249
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| | |||||||||| || || ||||| |||
+Sbjct  250  ATGCCAGTTTTTGTCGTGGGCTGTCTCAT-GAC  281
+
+
+
+
+>Phyllodoce caerulea voucher RBGE53 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX167067.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea voucher RBGE50 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX167065.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea voucher RBGE55 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX167046.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea voucher RBGE54 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165700.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Kalmia microphylla voucher CCDB-18329-E7 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218280.1 Length: 456
+Range 1: 10 to 281
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:245/273(90%),  Gaps:2/273(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCT-CAGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||| | ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCCTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| |||||||||||||| ||||||||||||||| |||| |||||||| ||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAACA  189
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  190  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  249
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            |||| |  ||||||||| || || ||||| |||
+Sbjct  250  ATGCCAGATTTTGTCGTGGGCTGTCTCAT-GAC  281
+
+
+
+
+>Phyllodoce deflexa voucher INST Jian Hung Yuan s.n., WFU 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182010.1 Length: 598
+Range 1: 338 to 579
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  338  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  397
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  398  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  457
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  458  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  517
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  518  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  577
+
+Query  241  TG  242
+            ||
+Sbjct  578  TG  579
+
+
+
+
+>Phyllodoce caerulea voucher Aiken_04-017_CAN 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219247.1 Length: 344
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea voucher RBGE56 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165702.1 Length: 448
+Range 1: 10 to 251
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Phyllodoce caerulea internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU176630.1 Length: 600
+>Phyllodoce aleutica voucher INST 1932-0502, RBGE 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182008.1 Length: 600 
+Range 1: 340 to 581
+
+Score:348 bits(188), Expect:3e-91, 
+Identities:224/242(93%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  399
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  400  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  459
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  519
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  520  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  579
+
+Query  241  TG  242
+            ||
+Sbjct  580  TG  581
+
+
+
+
+>Empetrum eamesii voucher CCDB-24801-G01 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218133.1 Length: 355
+Range 1: 10 to 265
+
+Score:346 bits(187), Expect:1e-90, 
+Identities:235/258(91%),  Gaps:4/258(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTT-GTGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| |||||||||| ||||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGGTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| |||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGT  256
+            ||||| ||||||||||||
+Sbjct  248  CATGCCATTTTTTGTCGT  265
+
+
+
+
+>Harrimanella stelleriana isolate LLV34 5.8S ribosomal RNA gene and internal transcribed spacer 2, partial sequence
+Sequence ID: PX856800.1 Length: 300
+Range 1: 1 to 268
+
+Score:346 bits(187), Expect:1e-90, 
+Identities:242/269(90%),  Gaps:1/269(0%), Strand: Plus/Plus
+
+Query  4    TGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATGTCT  63
+            |||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| ||||
+Sbjct  1    TGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACGTCT  60
+
+Query  64   GCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAAGTG  123
+            ||||||||||||||||||||||| || |||||||| |||||||| ||||||  ||  |||
+Sbjct  61   GCCTGGGCGTCACGCATTGCGTCACCCACTCACCC-CGTGCCTCGGTGGGCATGTCGGTG  119
+
+Query  124  CGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAGTCC  183
+            ||||||||||||||||||||| ||||||||||||||| |||| |||||||| ||  ||||
+Sbjct  120  CGTGGGTGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAGGGTCC  179
+
+Query  184  CCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCATGC  243
+            |||| |||||||||||||||||||||||||||||||||||| |||||||||| |||||||
+Sbjct  180  CCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCATGC  239
+
+Query  244  TATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+             ||| ||||| || |||||||||||||||
+Sbjct  240  CATTGTTTGTTGTGGGTTGGCTCATTGAC  268
+
+
+
+
+>Rhododendron mollicomum voucher GLM-123334 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KC196018.1 Length: 647
+Range 1: 342 to 612
+
+Score:346 bits(187), Expect:1e-90, 
+Identities:246/274(90%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  458
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  459  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  518
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            ||||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  519  AGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  578
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  579  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  612
+
+
+
+
+>Kalmia angustifolia voucher OLD06732 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT779208.1 Length: 605
+Range 1: 337 to 605
+
+Score:346 bits(187), Expect:1e-90, 
+Identities:242/269(90%),  Gaps:1/269(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  337  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  396
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  397  CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTCGTGGGCATGTA  456
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| ||||||||||||||  |||||||| ||||| |||| |||||||| ||||
+Sbjct  457  AGTGCGTGGGCGGATATTGGCCCCCCCTTCACATTCGTGCTCGGTCGGCCTAAAAAAACA  516
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  517  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  576
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            |||| |||||||||||| || || |||||
+Sbjct  577  ATGCCATTTTTTGTCGTGGGCTGTCTCAT  605
+
+
+
+
+>Kalmia angustifolia var. carolina voucher INST Gillespie 07-004, WFU 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182015.1 Length: 605
+Range 1: 337 to 605
+
+Score:346 bits(187), Expect:1e-90, 
+Identities:242/269(90%),  Gaps:1/269(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  337  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  396
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  397  CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTCGTGGGCATGTA  456
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACA  179
+            |||||||||| ||||||||||||||  |||||||| ||||| |||| |||||||| ||||
+Sbjct  457  AGTGCGTGGGCGGATATTGGCCCCCCCTTCACATTCGTGCTCGGTCGGCCTAAAAAAACA  516
+
+Query  180  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  517  GTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  576
+
+Query  240  ATGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            |||| |||||||||||| || || |||||
+Sbjct  577  ATGCCATTTTTTGTCGTGGGCTGTCTCAT  605
+
+
+
+
+>Empetrum nigrum voucher BIOUG&lt;CAN&gt;:09PROBE-05562 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999181.1 Length: 351
+>Empetrum nigrum voucher BIOUG&lt;CAN&gt;:09PROBE-05024 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999182.1 Length: 351
+>Empetrum nigrum voucher BIOUG&lt;CAN&gt;:09PROBE-05056 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999184.1 Length: 351
+>Empetrum nigrum voucher ZA2012-2552 internal transcribed spacer 2, partial sequence
+Sequence ID: KT960221.1 Length: 351
+>Empetrum nigrum voucher ZA2012-4972 internal transcribed spacer 2, partial sequence
+Sequence ID: KT960238.1 Length: 351
+>Empetrum nigrum voucher ZA2012-2527 internal transcribed spacer 2, partial sequence
+Sequence ID: KT960319.1 Length: 351 
+Range 1: 10 to 276
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  248  CATGCCATTTTTTGTCGTGGGCTGGCTCA  276
+
+
+
+
+>Phyllodoce empetriformis voucher CCDB-18329-G9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219981.1 Length: 448
+Range 1: 10 to 251
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||| ||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACANGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Empetrum rubrum voucher Alvarez, A. SUP02 213 5 (O) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: HQ858881.1 Length: 789
+Range 1: 381 to 647
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  440
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  441  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  499
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  500  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  558
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  559  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  618
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  619  CATGCCATTTTTTGTCGTGGGCTGGCTCA  647
+
+
+
+
+>Empetrum sp. JGMV-2020 isolate FU_G_2_2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT376797.1 Length: 685
+Range 1: 329 to 595
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  329  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  388
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  389  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  447
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  448  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  506
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  507  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  566
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  567  CATGCCATTTTTTGTCGTGGGCTGGCTCA  595
+
+
+
+
+>Empetrum nigrum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU176626.1 Length: 614
+>Empetrum nigrum voucher OLD06731 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT779207.1 Length: 614 
+Range 1: 347 to 613
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  347  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  406
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  407  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  465
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  466  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  524
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  525  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  584
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  585  CATGCCATTTTTTGTCGTGGGCTGGCTCA  613
+
+
+
+
+>Empetrum nigrum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF519547.1 Length: 653
+>Empetrum rubrum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF519548.1 Length: 653
+>Empetrum rubrum isolate 2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF519549.1 Length: 653 
+Range 1: 347 to 613
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  347  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  406
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  407  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  465
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  466  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  524
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  525  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  584
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  585  CATGCCATTTTTTGTCGTGGGCTGGCTCA  613
+
+
+
+
+>Empetrum atropurpureum voucher CCDB-20332-D10 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217639.1 Length: 351
+Range 1: 10 to 276
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  248  CATGCCATTTTTTGTCGTGGGCTGGCTCA  276
+
+
+
+
+>Harrimanella stelleriana voucher INST Parker&amp;Studebaker 16655 HUH 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182082.1 Length: 589
+Range 1: 323 to 589
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:241/268(90%),  Gaps:1/268(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  323  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  382
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||| ||||||  ||  
+Sbjct  383  TCTGCCTGGGCGTCACGCATTGCGTCACCCACTCACCC-CGTGCCTCGGTGGGCATGTCG  441
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            |||||||||||||||||||||||| ||||||||||||||| |||| |||||||| ||  |
+Sbjct  442  GTGCGTGGGTGGATATTGGCCCCCCGTTCACATTTGTGCTCGGTCGGCCTAAAAAAAGGG  501
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            ||||||| |||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  502  TCCCCAACGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  561
+
+Query  241  TGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            ||| ||| ||||| || |||||||||||
+Sbjct  562  TGCCATTGTTTGTTGTGGGTTGGCTCAT  589
+
+
+
+
+>Empetrum nigrum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: GU361896.1 Length: 689
+Range 1: 369 to 635
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  369  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  428
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  429  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  487
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  488  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  546
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  547  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  606
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  607  CATGCCATTTTTTGTCGTGGGCTGGCTCA  635
+
+
+
+
+>Empetrum nigrum voucher BIOUG&lt;CAN&gt;:09PROBE-05588 internal transcribed spacer 2, partial sequence
+Sequence ID: JN999183.1 Length: 321
+Range 1: 10 to 276
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  248  CATGCCATTTTTTGTCGTGGGCTGGCTCA  276
+
+
+
+
+>Phyllodoce breweri voucher INST Gillespie 06-019, WFU 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182009.1 Length: 600
+Range 1: 340 to 581
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  399
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  400  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  459
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  519
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            ||||||||||||||||||||||| |||||||||||||||||||| |||||||||| ||||
+Sbjct  520  TCCCCAATGACGGACATCACGACNAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  579
+
+Query  241  TG  242
+            ||
+Sbjct  580  TG  581
+
+
+
+
+>Empetrum nigrum voucher NMW289 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165462.1 Length: 455
+>Empetrum nigrum voucher NMW3575 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX167528.1 Length: 455
+>Empetrum nigrum voucher CCDB-18329-F5 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218879.1 Length: 455 
+Range 1: 10 to 276
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  248  CATGCCATTTTTTGTCGTGGGCTGGCTCA  276
+
+
+
+
+>Empetrum nigrum isolate DM478 small subunit ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MT796526.1 Length: 5574
+Range 1: 2745 to 3011
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1     CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+             ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  2745  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  2804
+
+Query  61    TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+             |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  2805  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  2863
+
+Query  120   AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+             |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  2864  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  2922
+
+Query  179   AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+              |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  2923  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  2982
+
+Query  239   CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+             ||||| |||||||||||| || |||||||
+Sbjct  2983  CATGCCATTTTTTGTCGTGGGCTGGCTCA  3011
+
+
+
+
+>Empetrum sp. JGMV-2020 isolate FU_G_2_1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT376796.1 Length: 680
+Range 1: 328 to 594
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  328  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  387
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  388  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  446
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  447  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  505
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  506  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  565
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  566  CATGCCATTTTTTGTCGTGGGCTGGCTCA  594
+
+
+
+
+>Empetrum eamesii internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: AF519551.1 Length: 653
+Range 1: 347 to 613
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  347  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  406
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  407  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  465
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  466  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  524
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  525  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  584
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  585  CATGCCATTTTTTGTCGTGGGCTGGCTCA  613
+
+
+
+
+>Empetrum nigrum isolate N10 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OR235099.1 Length: 391
+Range 1: 30 to 296
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  30   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  89
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  90   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  148
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  149  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  207
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  208  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  267
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  268  CATGCCATTTTTTGTCGTGGGCTGGCTCA  296
+
+
+
+
+>Empetrum atropurpureum voucher CCDB-20332-F10 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218697.1 Length: 351
+Range 1: 10 to 276
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  128
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  129  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  187
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  188  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  247
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  248  CATGCCATTTTTTGTCGTGGGCTGGCTCA  276
+
+
+
+
+>Rhododendron atlanticum voucher 100012 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT779083.1 Length: 606
+Range 1: 340 to 606
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:243/270(90%),  Gaps:5/270(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  399
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  400  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  456
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  457  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  516
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            ||||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  517  AGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  576
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            ||||| |||  ||||||  || ||||||||
+Sbjct  577  CATGCCATTCCTTGTCGCGGGCTGGCTCAT  606
+
+
+
+
+>Empetrum nigrum var. japonicum M16-43 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+Sequence ID: LC554309.1 Length: 414
+Range 1: 64 to 330
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  64   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  123
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  124  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  182
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  183  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  241
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  242  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  301
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  302  CATGCCATTTTTTGTCGTGGGCTGGCTCA  330
+
+
+
+
+>Empetrum nigrum isolate TAB37 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: PX851171.1 Length: 660
+Range 1: 349 to 615
+
+Score:344 bits(186), Expect:4e-90, 
+Identities:242/269(90%),  Gaps:4/269(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| |||||||||||| |||| ||||| | |||||||| |
+Sbjct  349  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCATTAGGTTGAAGGCACG  408
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGT-GGGCGGGTA  119
+            |||||||||||||||||||||||||| || |||||||| ||||||||| | |||||||||
+Sbjct  409  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCC-CGTGCCTCAATAGGGCGGGTA  467
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTG-TGCTTGGTCAGCCTAAAAGAAC  178
+            |||| ||||| |||||||||||||| ||||||||||| |||| |||| |||||||| || 
+Sbjct  468  AGTGAGTGGGCGGATATTGGCCCCCCGTTCACATTTGCTGCTCGGTCGGCCTAAAATAA-  526
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||||| || ||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  527  GGTCCCCAACGATGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  586
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCA  267
+            ||||| |||||||||||| || |||||||
+Sbjct  587  CATGCCATTTTTTGTCGTGGGCTGGCTCA  615
+
+
+
+
+>Kalmia procumbens voucher OLD06733 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MT779209.1 Length: 608
+Range 1: 339 to 608
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:242/270(90%),  Gaps:2/270(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  339  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  398
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  ||||||||||| ||||||||  ||||||  |||
+Sbjct  399  CCTGCCTGGGCGTCACGCATTGCGTTGCCAACTCACCCCCGTGCCTCTTGTGGGCATGTA  458
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| |||| |||
+Sbjct  459  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAAAAC  518
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  519  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  578
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCAT  268
+            ||| | |||||||||||| || || |||||
+Sbjct  579  CATTCCATTTTTTGTCGTGGGCTGTCTCAT  608
+
+
+
+
+>Kalmia procumbens voucher RBGE46 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165500.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Kalmia procumbens voucher RBGE49 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165499.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Phyllodoce glanduliflora voucher INST 1968-0179, RBGE 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182011.1 Length: 600
+Range 1: 340 to 581
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  399
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  400  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  459
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||| | |||| |||||||   ||||
+Sbjct  460  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGTTCGGTCGGCCTAAATACACAG  519
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||||
+Sbjct  520  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  579
+
+Query  241  TG  242
+            ||
+Sbjct  580  TG  581
+
+
+
+
+>Kalmia procumbens voucher EDNA21-0061087 internal transcribed spacer region, partial sequence
+Sequence ID: PZ361367.1 Length: 458
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Rhodothamnus sessilifolius voucher INST Terzioglu s.n., WFU 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: HM182014.1 Length: 597
+Range 1: 338 to 576
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:221/239(92%),  Gaps:0/239(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| |||||||||| |
+Sbjct  338  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGCTGAAGGCACG  397
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||| 
+Sbjct  398  TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAC  457
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  458  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  517
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGC  239
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||
+Sbjct  518  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGC  576
+
+
+
+
+>Kalmia procumbens voucher RBGE47 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165501.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Phyllodoce glanduliflora voucher CCDB-18329-D9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218908.1 Length: 448
+Range 1: 10 to 251
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||| ||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAGGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Kalmia procumbens voucher NMW7518 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165525.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Phyllodoce glanduliflora voucher CCDB-18329-F9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217812.1 Length: 448
+Range 1: 10 to 251
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||| ||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAGGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Kalmia procumbens voucher NMW7517 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165528.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Kalmia procumbens voucher CCDB-18329-F8 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217571.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Phyllodoce glanduliflora voucher CCDB-18329-E9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG217998.1 Length: 448
+Range 1: 10 to 251
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:223/242(92%),  Gaps:0/242(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTCAGTGGGCGGGTAA  120
+            |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCGCCCACTCACCCCCGTGCCTCAGTGGGCGGGTAA  129
+
+Query  121  GTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAGAACAG  180
+            ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||   ||||
+Sbjct  130  GTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAATACACAG  189
+
+Query  181  TCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATGCA  240
+            |||||||||||||||||||||||| ||||||||||||||||||| |||||||||| ||||
+Sbjct  190  TCCCCAATGACGGACATCACGACAGGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTGCA  249
+
+Query  241  TG  242
+            ||
+Sbjct  250  TG  251
+
+
+
+
+>Kalmia procumbens voucher RBGE48 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KX165498.1 Length: 457
+Range 1: 10 to 282
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:245/274(89%),  Gaps:3/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTCTCCAACTCACCCTCGTGCCTC-AGTGGGCGGGTA  119
+             ||||||||||||||||||||||||  || |||||||| ||||||||  ||||||  |||
+Sbjct  70   CCTGCCTGGGCGTCACGCATTGCGTTGCCCACTCACCCCCGTGCCTCTTGTGGGCATGTA  129
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCT-AAAAGAAC  178
+            |||||||||| |||||||||||||| ||||||| | ||||| |||| |||| ||||||||
+Sbjct  130  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACAATCGTGCTCGGTCGGCCTAAAAAGAAC  189
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  190  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  249
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||| | |||||||||||| || || ||||| |||
+Sbjct  250  CATTCCATTTTTTGTCGTGGGCTGTCTCAT-GAC  282
+
+
+
+
+>Rhododendron molle Here genes for 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: LC365318.1 Length: 351
+Range 1: 10 to 280
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  126
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  127  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  186
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  187  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  246
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| |||  ||||||  || |||||||| |||
+Sbjct  247  CATGCCATTCCTTGTCGCGGGCTGGCTCATCGAC  280
+
+
+
+
+>Rhododendron spinuliferum voucher YLJ-131566 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605722.1 Length: 717
+>Rhododendron spinuliferum voucher YLJ-131574 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605723.1 Length: 717
+>Rhododendron scabrifolium voucher YLJ-131771 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605730.1 Length: 717
+>Rhododendron spinuliferum voucher YLJ-120629 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605738.1 Length: 717
+>Rhododendron scabrifolium voucher YLJ-120700 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605739.1 Length: 717
+>Rhododendron scabrifolium voucher YLJ-120726 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605740.1 Length: 717
+>Rhododendron spinuliferum voucher GLM-113147 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605743.1 Length: 717 
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG-AAC  178
+             ||||||||| |||||||||||||| ||||||||| ||||| |||| |||||||||  ||
+Sbjct  491  TGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAGTGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron hemitrichotum voucher YLJ-131588 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605725.1 Length: 717
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron spiciferum voucher YLJ-131492 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605721.1 Length: 717
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron canadense voucher 35913HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219181.1 Length: 350
+Range 1: 10 to 280
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  126
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG-AAC  178
+            |||| ||||| |||||||||||||| ||||||||| ||||| |||| |||||||||  ||
+Sbjct  127  AGTGTGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAGTGAC  186
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  187  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  246
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || ||||| || |||
+Sbjct  247  CATGCCATTCTTTGTCGCGGGCTGGCTAATCGAC  280
+
+
+
+
+>Rhododendron cinnabarinum voucher GLM-102835 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605763.1 Length: 717
+>Rhododendron cinnabarinum voucher GLM-102843 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605764.1 Length: 717
+>Rhododendron keysii voucher GLM-081874 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605791.1 Length: 717
+>Rhododendron oreotrephes voucher GLM-092554 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605810.1 Length: 717
+>Rhododendron keysii voucher GLM-102821 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605842.1 Length: 717
+>Rhododendron keysii voucher GLM-102828 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605843.1 Length: 717
+>Rhododendron xanthocodon voucher GLM-102765 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605948.1 Length: 717
+>Rhododendron xanthocodon voucher GLM-102778 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605949.1 Length: 717 
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron rubiginosum voucher YLDP058A small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH117697.1 Length: 714
+>Rhododendron rubiginosum voucher YLDP058C small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH117698.1 Length: 714
+>Rhododendron yunnanense voucher YLDP018A small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH117704.1 Length: 714 
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron yunnanense voucher SCW2025 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MW692183.1 Length: 697
+Range 1: 342 to 612
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  342  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  401
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  402  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  458
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  459  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  518
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  519  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  578
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  579  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  612
+
+
+
+
+>Rhododendron lutescens voucher SCW0044 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MW692184.1 Length: 694
+Range 1: 341 to 611
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  400
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  401  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  457
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  458  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  517
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  518  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  577
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  578  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  611
+
+
+
+
+>Rhododendron concinnum voucher Q314 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH711280.1 Length: 738
+Range 1: 402 to 672
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  402  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  461
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  462  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  518
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  519  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  578
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  579  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  638
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  639  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  672
+
+
+
+
+>Rhododendron lutescens voucher 2027 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH844620.1 Length: 734
+Range 1: 381 to 651
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  440
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  441  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  497
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  498  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  557
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  558  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  617
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| |||  ||||||  || |||||||| |||
+Sbjct  618  CATGCCATTCCTTGTCGCGGGCTGGCTCATCGAC  651
+
+
+
+
+>Rhododendron cinnabarinum internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH532950.1 Length: 709
+Range 1: 344 to 614
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  344  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  403
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  404  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  460
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  461  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  520
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  521  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  580
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  581  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  614
+
+
+
+
+>Rhododendron canadense voucher 82131HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219690.1 Length: 350
+Range 1: 10 to 280
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  126
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG-AAC  178
+            |||| ||||| |||||||||||||| ||||||||| ||||| |||| |||||||||  ||
+Sbjct  127  AGTGTGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAGTGAC  186
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  187  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  246
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || ||||| || |||
+Sbjct  247  CATGCCATTCTTTGTCGCGGGCTGGCTAATCGAC  280
+
+
+
+
+>Rhododendron hemitrichotum voucher YLJ-131582 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605724.1 Length: 717
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron japonicum isolate L93 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OR235057.1 Length: 391
+Range 1: 30 to 300
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  30   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  89
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  90   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  146
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  147  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  206
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  207  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  266
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| |||  ||||||  || |||||||| |||
+Sbjct  267  CATGCCATTCCTTGTCGCGGGCTGGCTCATCGAC  300
+
+
+
+
+>Rhododendron spiciferum voucher YLJ-131691 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605728.1 Length: 717
+>Rhododendron spiciferum voucher YLJ-131708 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605729.1 Length: 717
+>Rhododendron racemosum voucher YLJ-131810 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605733.1 Length: 717
+>Rhododendron racemosum voucher YLJ-131814 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605734.1 Length: 717
+>Rhododendron racemosum voucher YLJ-131818 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605735.1 Length: 717
+>Rhododendron racemosum voucher YLJ-131822 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605736.1 Length: 717
+>Rhododendron racemosum voucher YLJ-131823 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605737.1 Length: 717
+>Rhododendron yunnanense voucher GLM-102654 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605765.1 Length: 717
+>Rhododendron yunnanense voucher GLM-113172 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605766.1 Length: 717
+>Rhododendron cuneatum voucher GLM-113208 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605827.1 Length: 717
+>Rhododendron cuneatum voucher GLM-113222 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605828.1 Length: 717
+>Rhododendron cuneatum voucher GLM-113225 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605829.1 Length: 717
+>Rhododendron fuyuanense voucher GLM-113166 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605837.1 Length: 717
+>Rhododendron heliolepis voucher GLM-113182 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605838.1 Length: 717
+>Rhododendron racemosum voucher GLM-113179 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605868.1 Length: 717
+>Rhododendron rigidum voucher GLM-102660 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605869.1 Length: 717
+>Rhododendron rubiginosum voucher GLM-102649 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605873.1 Length: 717
+>Rhododendron rubiginosum voucher GLM-113178 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605874.1 Length: 717
+>Rhododendron hanceanum isolate LiXJ221 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OR161411.1 Length: 717 
+Range 1: 374 to 644
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  644
+
+
+
+
+>Rhododendron concinnum voucher Q143 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH711137.1 Length: 760
+Range 1: 408 to 678
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  408  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  467
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  468  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  524
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  525  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  584
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  585  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  644
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  645  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  678
+
+
+
+
+>Rhododendron augustinii 5.8S ribosomal RNA gene and internal transcribed spacer 2, partial sequence
+Sequence ID: KM209402.1 Length: 321
+Range 1: 16 to 286
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  16   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  75
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  76   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  132
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  133  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  192
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  193  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  252
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  253  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  286
+
+
+
+
+>Rhododendron canadense voucher 40117HIM 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG218861.1 Length: 350
+Range 1: 10 to 280
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  126
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG-AAC  178
+            |||| ||||| |||||||||||||| ||||||||| ||||| |||| |||||||||  ||
+Sbjct  127  AGTGTGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAGTGAC  186
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  187  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  246
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || ||||| || |||
+Sbjct  247  CATGCCATTCTTTGTCGCGGGCTGGCTAATCGAC  280
+
+
+
+
+>Rhododendron rufum voucher HZ385 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH710990.1 Length: 760
+Range 1: 408 to 678
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  408  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  467
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  468  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  524
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  525  AGTGCGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  584
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  585  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  644
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| |||  ||||||  || |||||||| |||
+Sbjct  645  CATGCCATTCCTTGTCGCGGGCTGGCTCATCGAC  678
+
+
+
+
+>Rhododendron canadense voucher CCDB-18329-B9 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG219186.1 Length: 454
+Range 1: 10 to 280
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  69
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||||||||| | ||||||||
+Sbjct  70   TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTGCCTCA-TCGGCGGGTA  126
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAAG-AAC  178
+            |||| ||||| |||||||||||||| ||||||||| ||||| |||| |||||||||  ||
+Sbjct  127  AGTGTGTGGGCGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAGTGAC  186
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  187  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  246
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || ||||| || |||
+Sbjct  247  CATGCCATTCTTTGTCGCGGGCTGGCTAATCGAC  280
+
+
+
+
+>Rhododendron heliolepis clone rh 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KX765330.1 Length: 691
+Range 1: 377 to 647
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  377  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  436
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  437  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  493
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  494  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  553
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  554  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  613
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  614  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  647
+
+
+
+
+>Rhododendron augustinii voucher ZL0904048 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH710933.1 Length: 758
+Range 1: 405 to 675
+
+Score:340 bits(184), Expect:5e-89, 
+Identities:245/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  405  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  464
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||||||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  465  TCTGCCTGGGCGTCACGCATTGCGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  521
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  522  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  581
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  582  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  641
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  642  CATGCCATTCTTTGTCGCGGGCTGGCTCATCGAC  675
+
+
+
+
+>Rhododendron fletcherianum voucher GLM-123498 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM605998.1 Length: 717
+Range 1: 374 to 644
+
+Score:337 bits(182), Expect:7e-88, 
+Identities:244/274(89%),  Gaps:5/274(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAATGCAAGTTGCGCCTGAAGACATTAAGCTGAAGGCATG  60
+            ||||||||||||||||||||||| ||||||||||||||||| ||||| | |||||||| |
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCTGAAGCCATTAGGTTGAAGGCACG  433
+
+Query  61   TCTGCCTGGGCGTCACGCATTGCGTC-TCCAACTCACCCTCGTGCCTCAGTGGGCGGGTA  119
+            |||||||||||||||||||||| ||| ||| |||||||| ||| ||||| | ||||||||
+Sbjct  434  TCTGCCTGGGCGTCACGCATTGYGTCATCC-ACTCACCC-CGTTCCTCA-TCGGCGGGTA  490
+
+Query  120  AGTGCGTGGGTGGATATTGGCCCCCAGTTCACATTTGTGCTTGGTCAGCCTAAAA-GAAC  178
+            |||||||||| |||||||||||||| ||||||||| ||||| |||| ||||||||   ||
+Sbjct  491  AGTGCGTGGGAGGATATTGGCCCCCCGTTCACATTCGTGCTCGGTCGGCCTAAAAATGAC  550
+
+Query  179  AGTCCCCAATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTTGCGTCATGTCATG  238
+             |||||| |||||||||||||||||||||||||||||||||||||| |||||||||| ||
+Sbjct  551  GGTCCCCGATGACGGACATCACGACAAGTGGTGGTTGCCAAACCGTCGCGTCATGTCGTG  610
+
+Query  239  CATGCTATTTTTTGTCGTCGGTTGGCTCATTGAC  272
+            ||||| ||| |||||||  || |||||||| |||
+Sbjct  611  CATGCCATTCTTTGTCGCGGGCTGGCTCATMGAC  644
+
+
+
+
+
+
+
+		
+
+

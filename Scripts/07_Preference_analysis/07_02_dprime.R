@@ -40,7 +40,17 @@
 # 1. Setup
 # ======================================================================
 # Load analysis settings -----------------------------------------------
+library(here)
 source(here("Scripts", "07_Preference_analysis", "07_00_Setup.R"))
+
+# Fix the analysis type and output path for this entry point.
+analysis <- "dprime"
+output <- here(
+  "Output", "07_Preference_analysis", analysis,
+  data_type, direction, paste0("th", threshold)
+)
+dir.create(output, showWarnings = FALSE, recursive = TRUE)
+
 
 # Load functions -------------------------------------------------------
 source(here("Function", "Blocksample.R"))
@@ -77,21 +87,9 @@ mat_rows <- rownames(seqdata)
 site_vec <- metadata[mat_rows, "site"]
 habitat_vec <- metadata[mat_rows, "habitat"]
 
-clusterExport(
-  cl,
-  c(
-    "seqdata",
-    "site_vec",
-    "habitat_vec",
-    "mat_rows",
-    "metadata",
-    "blockSample",
-    "Taxa.mat",
-    "dfun",
-    "obs_d",
-    "n_id"
-  )
-)
+clusterExport(cl, c("seqdata", "site_vec", "habitat_vec",
+                    "mat_rows", "metadata", "blockSample", 
+                    "Taxa.mat", "dfun", "obs_d", "n_id"))
 
 # Initialize result accumulators ---------------------------------------
 init <- list(
@@ -177,18 +175,8 @@ which(p_value_fdr2 < 0.05)
 # ======================================================================
 # 6. Save results
 # ======================================================================
-saveRDS(
-  z_d_prime,
-  file.path(
-    output,
-    paste0("dprime_Zvalue_", direction, ".rds")
-  )
-)
+saveRDS(z_d_prime, file.path(output, 
+                             paste0("dprime_Zvalue_", direction, ".rds")))
 
-saveRDS(
-  p_value_fdr2,
-  file.path(
-    output,
-    paste0("dprime_two_sided_FDR_", direction, ".rds")
-  )
-)
+saveRDS(p_value_fdr2, file.path(output, 
+                                paste0("dprime_two_sided_FDR_", direction, ".rds")))

@@ -56,10 +56,10 @@ dir.create(output, showWarnings = FALSE, recursive = TRUE)
 # ======================================================================
 # 2. Load and merge data
 # ======================================================================
-exchangeable_cations <- read.csv(here(input, "All_ex_cations_corrected_by_blank.csv"))
+exchangeable_cations <- read.csv(here(input, "All_ex_cations_corrected.csv"))
 
-# Remove rows with NA values (B31-Al) and the column Co (all zero values)
-excatf <- na.omit(exchangeable_cations) |> select(-Co)
+# Remove rows with NA values (B31-Al) 
+excatf <- na.omit(exchangeable_cations) 
 
 # Load pH metadata
 meta_patch <- read.csv(here("Data", "Soil_analysis", "metadata_patch_level.csv")) |>
@@ -112,7 +112,7 @@ loadings$strength <- sqrt(loadings$PC1^2 + loadings$PC2^2)
 # Select top 6 variables based on loading strength
 top_vars <- loadings |>
   arrange(desc(strength)) |>
-  slice(1:6) |>
+  dplyr::slice(1:6) |>
   pull(var)
 
 ion_labels <- c(
@@ -205,9 +205,11 @@ write.csv(permanova_results, file.path(output, "PERMANOVA_results.csv"), row.nam
 # 6. Dispersion test
 # ======================================================================
 set.seed(1234)
-bd <- betadisper(dist(env_scaled), merged_df$habitat)
+ctrl <- permute::how(nperm = perm)
+permute::setBlocks(ctrl) <- merged_df$site
 
-disp_res <- permutest(bd, permutations = perm, strata = merged_df$site)
+bd <- betadisper(dist(env_scaled), merged_df$habitat)
+disp_res <- permutest(bd, permutations = ctrl)
 
 disp_results <- disp_res$tab |>
   as.data.frame() |>

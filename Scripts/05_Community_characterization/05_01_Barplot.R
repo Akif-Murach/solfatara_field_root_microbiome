@@ -44,8 +44,8 @@ library(here)
 source(here("Function", "Taxa.mat.R"))
 
 # Analysis settings -----------------------------------------------------
-data_type <- "Fungi"      # "Prokaryote" or "Fungi"
-sample_type <- "Root"     # "Root", "Soil", or "Root&Soil"
+data_type <- "Prokaryote"      # "Prokaryote" or "Fungi"
+sample_type <- "Root"     # "Root" or "Root&Soil"
 class <- "Order"
 limit <- 18
 
@@ -61,7 +61,7 @@ dir.create(output, showWarnings = FALSE, recursive = TRUE)
 # ======================================================================
 # Read rarefied OTU table and metadata
 seqdata <- readRDS(here(inputs, paste0(data_type, "_", sample_type, "_coverage_rared_th1fil.rds")))
-metadata <- read.csv(here(inputm, paste0(data_type, "_", sample_type, "_metadata_th1fil.csv")), row.names = 1)
+metadata <- read.csv(here(inputm, paste0(data_type, "_", sample_type, "_metadata_th1fil.csv")))
 
 tax <- readRDS(here("Data", data_type, "Seqdata", "OTU_merge_taxonomylist.rds")) |>
   as.data.frame()

@@ -1,0 +1,1927 @@
+RID: 6H2DV3NB014	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_3386199 Length: 117
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Toxicodendron trichocarpum voucher Nie & Meng 388 (KUN) 18S...    Toxicodendro... NA              269720     200    200   100%  3e-47 97.44  678        FJ945927.1       
+Toxicodendron trichocarpum genes for 5.8S rRNA, ITS2, 26S rRNA... Toxicodendro... NA              269720     200    200   100%  3e-47 97.44  451        LC191586.1       
+Toxicodendron trichocarpum internal transcribed spacer 1, 5.8S... Toxicodendro... NA              269720     195    195   100%  1e-45 96.61  656        AY510152.1       
+Rhus chinensis isolate SCBGP180_1 internal transcribed spacer ... Rhus chinensis  NA              289753     183    183   100%  3e-42 94.87  647        KP093194.1       
+Rhus sp. voucher SZG00108938 internal transcribed spacer 1,...    Rhus sp.        NA              3643583    182    182   100%  1e-41 94.87  645        PZ126875.1       
+Rhus potaninii voucher Wen 7138 18S ribosomal RNA gene, partia... Rhus potaninii  NA              298664     182    182   100%  1e-41 94.87  712        AY641489.1       
+Rhus punjabensis var. sinica voucher BOP010074 internal...        Rhus punjabe... NA              1616487    182    182   100%  1e-41 94.87  694        MT227614.1       
+Rhus chinensis voucher Ge130921 small subunit ribosomal RNA...    Rhus chinensis  NA              289753     182    182   100%  1e-41 94.87  745        MH710755.1       
+Toxicodendron striatum voucher Wen 8712 (US) 18S ribosomal RNA... Toxicodendro... NA              690251     182    182   100%  1e-41 94.87  668        FJ945948.1       
+Rhus coriaria voucher 20130328046 5.8S ribosomal RNA gene,...     Rhus coriaria   Sicilian sumac  298661     182    182   100%  1e-41 94.87  481        KM210330.1       
+Rhus chinensis voucher MC99 5.8S ribosomal RNA gene, partial...   Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  467        PV369019.1       
+Rhus sandwicensis voucher Wen 7052 18S ribosomal RNA gene,...     Rhus sandwic... NA              289758     176    176   100%  5e-40 94.02  712        AY641491.1       
+Rhus virens voucher Miller 6/22/97 18S ribosomal RNA gene,...     Rhus virens     NA              289762     176    176   100%  5e-40 94.02  712        AY641506.1       
+Rhus chinensis voucher Wen 6389 18S ribosomal RNA gene, partia... Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  712        AY641480.1       
+Rhus potaninii voucher BOP010163 small subunit ribosomal RNA...   Rhus potaninii  NA              298664     176    176   100%  5e-40 94.02  710        MT227654.1       
+Rhus chondroloma plastid 18S rRNA gene (partial), ITS1, 5.8S...   Rhus chondro... NA              1201136    176    176   100%  5e-40 94.02  709        HE862267.1       
+Rhus choriophylla voucher Miller 27 18S ribosomal RNA gene,...    Rhus choriop... NA              298667     176    176   100%  5e-40 94.02  711        AY641498.1       
+Rhus potaninii voucher T. T. Tian 59 internal transcribed spac... Rhus potaninii  NA              298664     176    176   100%  5e-40 94.02  630        MN722094.1       
+Rhus potaninii voucher Q191 small subunit ribosomal RNA gene,...  Rhus potaninii  NA              298664     176    176   100%  5e-40 94.02  734        MH711179.1       
+Rhus typhina internal transcribed spacer 1, partial sequence;...  Rhus typhina    NA              255348     176    176   100%  5e-40 94.02  632        DQ499060.1       
+Rhus chinensis voucher Wen 7310 18S ribosomal RNA gene, partia... Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  712        AY641481.1       
+Rhus chinensis voucher MC172 5.8S ribosomal RNA gene, partial...  Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  466        PV369068.1       
+Phoebe glaucifolia voucher CXQ1266 5.8S ribosomal RNA gene,...    Phoebe glauc... NA              1780285    176    176   100%  5e-40 94.02  414        MW044462.1       
+Rhus chinensis voucher Q414 small subunit ribosomal RNA gene,...  Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  703        MH711357.1       
+Brucea javanica internal transcribed spacer 1, 5.8S ribosomal...  Brucea javanica NA              210348     176    176   100%  5e-40 94.02  653        AY510155.1       
+Rhus standleyi plastid 18S rRNA gene (partial), ITS1, 5.8S rRN... Rhus standleyi  NA              1201141    176    176   100%  5e-40 94.02  709        HE862268.1       
+Rhus glabra voucher Wen 7171 18S ribosomal RNA gene, partial...   Rhus glabra     smooth sumac    298662     176    176   100%  5e-40 94.02  712        AY641486.1       
+Rhus chinensis voucher BOP010160 small subunit ribosomal RNA...   Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  711        MT227651.1       
+Rhus aromatica voucher Steinmann 3697 18S ribosomal RNA gene,...  Rhus aromatica  NA              289751     176    176   100%  5e-40 94.02  693        AY641494.1       
+Rhus potaninii voucher XA043 small subunit ribosomal RNA gene,... Rhus potaninii  NA              298664     176    176   100%  5e-40 94.02  712        MH711790.1       
+Rhus chinensis 18S ribosomal RNA gene, partial sequence;...       Rhus chinensis  NA              289753     176    176   100%  5e-40 94.02  680        EF682845.1       
+Rhus muelleri plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA... Rhus muelleri   NA              1201138    172    172   100%  7e-39 93.16  710        HE862265.1       
+Rhus copallina voucher Wen 7134 18S ribosomal RNA gene, partia... Rhus copallinum winged sumac    32258      172    172   100%  7e-39 93.16  712        AY641483.1       
+Rhus copallina voucher Wen 7165 18S ribosomal RNA gene, partia... Rhus copallinum winged sumac    32258      172    172   100%  7e-39 93.16  711        AY641484.1       
+Rhus sandwicensis 18S ribosomal RNA gene, partial sequence;...    Rhus sandwic... NA              289758     172    172   100%  7e-39 93.16  680        EF682847.1       
+Rhus virens 18S ribosomal RNA gene, partial sequence; internal... Rhus virens     NA              289762     172    172   100%  7e-39 93.16  666        EF682849.1       
+Rhus copallina isolate 301 18S ribosomal RNA gene, partial...     Rhus copallinum winged sumac    32258      171    171   100%  3e-38 93.16  679        AY594383.1       
+Rhus typhina voucher CCDB-21242-D03 5.8S ribosomal RNA gene,...   Rhus typhina    NA              255348     171    171   100%  3e-38 93.16  344        MG234618.1       
+Rhus coriaria isolate tab-13 internal transcribed spacer 1,...    Rhus coriaria   Sicilian sumac  298661     171    171   100%  3e-38 93.16  482        PX854939.1       
+Rhus integrifolia voucher MO:Carlsen3482 5.8S ribosomal RNA...    Rhus integri... NA              298668     171    171   100%  3e-38 93.16  345        OL536635.1       
+Rhus typhina voucher Wen 7082 18S ribosomal RNA gene, partial...  Rhus typhina    NA              255348     171    171   100%  3e-38 93.16  711        AY641492.1       
+Toxicodendron diversilobum isolate CBP320 18S ribosomal RNA...    Toxicodendro... NA              300207     171    171   100%  3e-38 93.16  715        MF964008.1       
+Rhus andrieuxii plastid 18S rRNA gene (partial), ITS1, 5.8S rR... Rhus andrieuxii NA              1201134    171    171   100%  3e-38 93.16  708        HE862262.1       
+Rhus typhina voucher BOP010203 small subunit ribosomal RNA gen... Rhus typhina    NA              255348     171    171   100%  3e-38 93.16  710        MT227675.1       
+Cotinus coggygria voucher Q072 internal transcribed spacer 1,...  Cotinus cogg... NA              269719     171    171   97%   3e-38 93.86  660        MH711074.1       
+Rhus virens voucher Wen9747(US) internal transcribed spacer 1,... Rhus virens     NA              289762     171    171   100%  3e-38 93.16  687        KF664204.1       
+Rhus typhina 18S ribosomal RNA gene, partial sequence; interna... Rhus typhina    NA              255348     171    171   100%  3e-38 93.16  671        EF682848.1       
+Rhus glabra voucher RM Warrick 2726 5.8S ribosomal RNA gene,...   Rhus glabra     smooth sumac    298662     171    171   100%  3e-38 93.16  333        KY584358.1       
+Rhus coriaria voucher Wen 7150 18S ribosomal RNA gene, partial... Rhus coriaria   Sicilian sumac  298661     171    171   100%  3e-38 93.16  712        AY641485.1       
+Rhus michauxii voucher Hardin 13984 18S ribosomal RNA gene,...    Rhus michauxii  NA              298663     171    171   100%  3e-38 93.16  711        AY641488.1       
+Rhus lanceolata voucher Wen 7277 18S ribosomal RNA gene, parti... Rhus lanceolata NA              289755     171    171   100%  3e-38 93.16  710        AY641487.1       
+Rhus ovata isolate CBP220 18S ribosomal RNA gene, partial...      Rhus ovata      NA              298670     171    171   100%  3e-38 93.16  716        MF963949.1       
+Rhus schiedeana voucher Steimann 3696 18S ribosomal RNA gene,...  Rhus schiedeana NA              298672     171    171   100%  3e-38 93.16  687        AY641504.1       
+Rhus oaxacana plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA... Rhus oaxacana   NA              1201139    171    171   100%  3e-38 93.16  708        HE862266.1       
+Faguetia falcata isolate 244 18S ribosomal RNA gene, partial...   Faguetia fal... NA              289707     171    171   100%  3e-38 93.16  677        EF089141.1       
+Cotinus coggygria voucher BOP010064 internal transcribed space... Cotinus cogg... NA              269719     171    171   97%   3e-38 93.86  684        MT227608.1       
+Rhus integrifolia voucher Miller 28 18S ribosomal RNA gene,...    Rhus integri... NA              298668     171    171   100%  3e-38 93.16  711        AY641499.1       
+Galanthus krasnovii isolate TAB13 internal transcribed spacer ... Galanthus kr... NA              197692     171    171   100%  3e-38 93.16  551        PX851064.1       
+Rhus kearneyi voucher Icket-Bond 1298 18S ribosomal RNA gene,...  Rhus kearneyi   NA              298669     171    171   100%  3e-38 93.16  688        AY641500.1       
+Rhus ovata voucher Miller 6 18S ribosomal RNA gene, partial...    Rhus ovata      NA              298670     171    171   100%  3e-38 93.16  711        AY641501.1       
+Rhus virens voucher Wen 7282 18S ribosomal RNA gene, partial...   Rhus virens     NA              289762     171    171   100%  3e-38 93.16  711        AY641505.1       
+Rhus ovata voucher Miller 22 18S ribosomal RNA gene, partial...   Rhus ovata      NA              298670     171    171   100%  3e-38 93.16  711        AY641502.1       
+Rhus typhina voucher Wen 8557 (US) 18S ribosomal RNA gene,...     Rhus typhina    NA              255348     171    171   100%  3e-38 93.16  701        FJ945920.1       
+Rhus chinensis var. roxburghii genes for 18S rRNA, ITS1, 5.8S...  Rhus chinens... NA              298660     169    169   100%  9e-38 93.16  744        AB539919.1       
+Rhus virens voucher Steinmann 3719 18S ribosomal RNA gene,...     Rhus virens     NA              289762     169    169   100%  9e-38 92.37  691        AY641507.1       
+Faguetia falcata isolate 270 18S ribosomal RNA gene, partial...   Faguetia fal... NA              289707     169    169   100%  9e-38 93.16  677        EF089142.1       
+Toxicodendron vernicifluum voucher Wen 9001 (US) 18S ribosomal... Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  687        FJ945951.1       
+Toxicodendron vernicifluum voucher Q218 small subunit ribosoma... Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  719        MH711200.1       
+Toxicodendron vernicifluum voucher Nie & Meng 229 (KUN) 18S...    Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  709        FJ945939.1       
+Toxicodendron succedaneum voucher Tibet 1661 (KUN, US) 18S...     Toxicodendro... NA              269721     167    167   100%  3e-37 92.37  692        FJ945957.1       
+Toxicodendron vernicifluum voucher Nie & Meng 329 (KUN) 18S...    Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  655        FJ945934.1       
+Toxicodendron vernix voucher Wen 7146 18S ribosomal RNA gene,...  Toxicodendro... poison sumac    289774     167    167   100%  3e-37 92.37  712        AY641520.1       
+Schinus terebinthifolia isolate A140 18S ribosomal RNA gene,...   Schinus tere... Brazilian pe... 169191     167    167   100%  3e-37 92.37  717        KP398506.1       
+Toxicodendron vernicifluum voucher XA070 5.8S ribosomal RNA...    Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  368        MH703418.1       
+Toxicodendron vernicifluum voucher Wen8046(US) internal...        Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  691        KF664208.1       
+Rhus trilobata voucher Miller 21 18S ribosomal RNA gene, parti... Rhus trilobata  NA              246378     167    167   85%   3e-37 97.00  712        AY641497.1       
+Toxicodendron vernicifluum voucher Nie & Meng 376 (KUN) 18S...    Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  674        FJ945941.1       
+Schinus terebinthifolius voucher Bolson 332-1 internal...         Schinus tere... Brazilian pe... 169191     167    167   97%   3e-37 92.98  656        KF420940.1       
+Schinus terebinthifolius voucher Bolson 328-1 internal...         Schinus tere... Brazilian pe... 169191     167    167   97%   3e-37 92.98  598        KF420943.1       
+Schinus terebinthifolius voucher Bolson 331-2 internal...         Schinus tere... Brazilian pe... 169191     167    167   100%  3e-37 92.37  684        KF420941.1       
+Rhus microphylla voucher Wen9736(US) internal transcribed spac... Rhus microph... NA              298666     167    167   96%   3e-37 93.75  686        KF664203.1       
+Toxicodendron succedaneum 5.8S ribosomal RNA gene, partial...     Toxicodendro... NA              269721     167    167   100%  3e-37 92.37  349        MF785458.1       
+Toxicodendron vernicifluum voucher Q218 5.8S ribosomal RNA gen... Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  366        MH703242.1       
+Rhus aromatica 18S ribosomal RNA gene, partial sequence;...       Rhus aromatica  NA              289751     167    167   85%   3e-37 97.00  669        EF682844.1       
+Schinus terebinthifolius voucher Bolson 331-1 internal...         Schinus tere... Brazilian pe... 169191     167    167   100%  3e-37 92.37  687        KF420942.1       
+Toxicodendron vernicifluum voucher T. T. Tian 121 internal...     Toxicodendro... Chinese lacq... 4013       167    167   100%  3e-37 92.37  639        MN722093.1       
+Schinus terebinthifolius voucher Blum 11-013 internal...          Schinus tere... Brazilian pe... 169191     167    167   100%  3e-37 92.37  636        KF420944.1       
+Toxicodendron vernix voucher CCDB-20332-A08 5.8S ribosomal RNA... Toxicodendro... poison sumac    289774     167    167   100%  3e-37 92.37  350        MG235312.1       
+Schinus terebinthifolius voucher Bolson 332-2 internal...         Schinus tere... Brazilian pe... 169191     167    167   97%   3e-37 92.98  685        KF420939.1       
+Rhus aromatica voucher Wen 7086 18S ribosomal RNA gene, partia... Rhus aromatica  NA              289751     167    167   85%   3e-37 97.00  712        AY641493.1       
+Cotinus coggygria voucher Ge130917 small subunit ribosomal RNA... Cotinus cogg... NA              269719     165    165   97%   1e-36 92.98  742        MH710751.1       
+Cotinus coggygria var. pubescens voucher YZ08670(KUN) internal... Cotinus cogg... NA              1540406    165    165   97%   1e-36 92.98  633        KF682001.1       
+Cotinus coggygria voucher CCDB-23388-C03 5.8S ribosomal RNA...    Cotinus cogg... NA              269719     165    165   97%   1e-36 92.98  344        MG235773.1       
+Toxicodendron rydbergii voucher BAB-0354 5.8S ribosomal RNA...    Toxicodendro... NA              690250     165    165   100%  1e-36 92.31  344        MG234957.1       
+Rhus copallinum voucher CCDB-24917-A02 5.8S ribosomal RNA gene... Rhus copallinum winged sumac    32258      165    165   100%  1e-36 92.31  344        MG236611.1       
+Cotinus coggygria var. pubescens voucher YZ08185(KUN) internal... Cotinus cogg... NA              1540406    165    165   97%   1e-36 92.98  646        KF682000.1       
+Cotinus coggygria var. glaucophyllus voucher T. T. Tian 65...     Cotinus cogg... NA              1540405    165    165   97%   1e-36 92.98  630        MN722096.1       
+Cotinus szechuanensis voucher KM(KUN) internal transcribed...     Cotinus szec... NA              1540408    165    165   97%   1e-36 92.98  623        KF682003.1       
+Rhus copallinum isolate 1039833 small subunit ribosomal RNA...    Rhus copallinum winged sumac    32258      165    165   100%  1e-36 92.31  715        OR428720.1       
+Cotinus szechuanensis voucher MJ602(KUN) internal transcribed...  Cotinus szec... NA              1540408    165    165   97%   1e-36 92.98  617        KF682002.1       
+
+
+Alignments:
+
+>Toxicodendron trichocarpum voucher Nie &amp; Meng 388 (KUN) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945927.1 Length: 678
+Range 1: 375 to 491
+
+Score:200 bits(108), Expect:3e-47, 
+Identities:114/117(97%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  375  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  434
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  435  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCACAAATCGTGTGATCTTGCGGCGG  491
+
+
+
+
+>Toxicodendron trichocarpum genes for 5.8S rRNA, ITS2, 26S rRNA, partial and complete sequence
+Sequence ID: LC191586.1 Length: 451
+Range 1: 10 to 126
+
+Score:200 bits(108), Expect:3e-47, 
+Identities:114/117(97%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCACAAATCGTGTGATCTTGCGGCGG  126
+
+
+
+
+>Toxicodendron trichocarpum internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AY510152.1 Length: 656
+Range 1: 335 to 452
+
+Score:195 bits(105), Expect:1e-45, 
+Identities:114/118(97%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  394
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTG-ccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||| |||||||||||||||| |||||||||||||||
+Sbjct  395  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCCACAAATCGTGTGATCTTGCGGCGG  452
+
+
+
+
+>Rhus chinensis isolate SCBGP180_1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KP093194.1 Length: 647
+Range 1: 354 to 470
+
+Score:183 bits(99), Expect:3e-42, 
+Identities:111/117(95%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  354  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  413
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  414  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCCCAAATCCTATGATCTTGCGGCGG  470
+
+
+
+
+>Rhus sp. voucher SZG00108938 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PZ126875.1 Length: 645
+Range 1: 313 to 428
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  313  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  372
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  373  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  428
+
+
+
+
+>Rhus potaninii voucher Wen 7138 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641489.1 Length: 712
+>Rhus punjabensis voucher Wen 7137 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641490.1 Length: 712 
+Range 1: 384 to 499
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  499
+
+
+
+
+>Rhus punjabensis var. sinica voucher BOP010074 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MT227614.1 Length: 694
+Range 1: 350 to 465
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  350  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  409
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  410  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  465
+
+
+
+
+>Rhus chinensis voucher Ge130921 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH710755.1 Length: 745
+Range 1: 402 to 517
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  402  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  461
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  462  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  517
+
+
+
+
+>Toxicodendron striatum voucher Wen 8712 (US) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945948.1 Length: 668
+Range 1: 355 to 470
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  355  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  414
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| || |||  |||||||||||||||
+Sbjct  415  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAGATCCCGTGATCTTGCGGCGG  470
+
+
+
+
+>Rhus coriaria voucher 20130328046 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KM210330.1 Length: 481
+Range 1: 20 to 135
+
+Score:182 bits(98), Expect:1e-41, 
+Identities:111/117(95%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  20   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  79
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  80   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  135
+
+
+
+
+>Rhus chinensis voucher MC99 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV369019.1 Length: 467
+Range 1: 18 to 132
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  18   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  77
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  78   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  132
+
+
+
+
+>Rhus sandwicensis voucher Wen 7052 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641491.1 Length: 712
+Range 1: 384 to 498
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  498
+
+
+
+
+>Rhus virens voucher Miller 6/22/97 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641506.1 Length: 712
+Range 1: 384 to 499
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATATTGCGGCGG  499
+
+
+
+
+>Rhus chinensis voucher Wen 6389 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641480.1 Length: 712
+>Rhus chinensis var. roxburghii voucher Wen 6526 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641482.1 Length: 712 
+Range 1: 384 to 498
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  498
+
+
+
+
+>Rhus potaninii voucher BOP010163 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT227654.1 Length: 710
+Range 1: 367 to 481
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  367  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  426
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  427  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  481
+
+
+
+
+>Rhus chondroloma plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene (partial), specimen voucher MEXU:Hunn 0059
+Sequence ID: HE862267.1 Length: 709
+Range 1: 381 to 496
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATATTGCGGCGG  496
+
+
+
+
+>Rhus choriophylla voucher Miller 27 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641498.1 Length: 711
+Range 1: 384 to 499
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATATTGCGGCGG  499
+
+
+
+
+>Rhus potaninii voucher T. T. Tian 59 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MN722094.1 Length: 630
+Range 1: 335 to 449
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  394
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  395  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  449
+
+
+
+
+>Rhus potaninii voucher Q191 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH711179.1 Length: 734
+Range 1: 398 to 512
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  398  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  457
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  458  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  512
+
+
+
+
+>Rhus typhina internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: DQ499060.1 Length: 632
+Range 1: 335 to 450
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  394
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  395  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  450
+
+
+
+
+>Rhus chinensis voucher Wen 7310 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641481.1 Length: 712
+Range 1: 384 to 498
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  498
+
+
+
+
+>Rhus chinensis voucher MC172 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: PV369068.1 Length: 466
+Range 1: 16 to 130
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  16   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  75
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  76   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  130
+
+
+
+
+>Phoebe glaucifolia voucher CXQ1266 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MW044462.1 Length: 414
+Range 1: 12 to 126
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  12   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  71
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  72   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  126
+
+
+
+
+>Rhus chinensis voucher Q414 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH711357.1 Length: 703
+Range 1: 398 to 512
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  398  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  457
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  458  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  512
+
+
+
+
+>Brucea javanica internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: AY510155.1 Length: 653
+Range 1: 335 to 449
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  394
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  395  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  449
+
+
+
+
+>Rhus standleyi plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene (partial), specimen voucher MEXU:Salinas 8087
+Sequence ID: HE862268.1 Length: 709
+Range 1: 381 to 496
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATATTGCGGCGG  496
+
+
+
+
+>Rhus glabra voucher Wen 7171 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641486.1 Length: 712
+Range 1: 384 to 499
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGGCGG  499
+
+
+
+
+>Rhus chinensis voucher BOP010160 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT227651.1 Length: 711
+Range 1: 367 to 481
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  367  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  426
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  427  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  481
+
+
+
+
+>Rhus aromatica voucher Steinmann 3697 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641494.1 Length: 693
+Range 1: 370 to 485
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  370  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  429
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   |||| |||||||||
+Sbjct  430  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATATTGCGGCGG  485
+
+
+
+
+>Rhus potaninii voucher XA043 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH711790.1 Length: 712
+Range 1: 390 to 504
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  390  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  449
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  450  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  504
+
+
+
+
+>Rhus chinensis 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682845.1 Length: 680
+Range 1: 368 to 482
+
+Score:176 bits(95), Expect:5e-40, 
+Identities:110/117(94%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  482
+
+
+
+
+>Rhus muelleri plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene (partial), specimen voucher MEXU:Hinton 24937
+Sequence ID: HE862265.1 Length: 710
+Range 1: 381 to 497
+
+Score:172 bits(93), Expect:7e-39, 
+Identities:109/117(93%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||| | ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCTCCCAAATCCTATGATATTGCGGCGG  497
+
+
+
+
+>Rhus copallina voucher Wen 7134 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641483.1 Length: 712
+Range 1: 384 to 499
+
+Score:172 bits(93), Expect:7e-39, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||| |||||||||| ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGCTGCCCCCCCC-CAAATCCTRTGATCTTGCGGCGG  499
+
+
+
+
+>Rhus copallina voucher Wen 7165 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641484.1 Length: 711
+Range 1: 384 to 498
+
+Score:172 bits(93), Expect:7e-39, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTRTGATCTTGCGGCGG  498
+
+
+
+
+>Rhus sandwicensis 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682847.1 Length: 680
+Range 1: 368 to 482
+
+Score:172 bits(93), Expect:7e-39, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||| ||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGNGG  482
+
+
+
+
+>Rhus virens 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682849.1 Length: 666
+Range 1: 362 to 477
+
+Score:172 bits(93), Expect:7e-39, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  362  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  421
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   || | |||||||||
+Sbjct  422  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGNTATTGCGGCGG  477
+
+
+
+
+>Rhus copallina isolate 301 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY594383.1 Length: 679
+>Rhus lanceolata 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682846.1 Length: 679 
+Range 1: 368 to 482
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  482
+
+
+
+
+>Rhus typhina voucher CCDB-21242-D03 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG234618.1 Length: 344
+Range 1: 10 to 124
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  124
+
+
+
+
+>Rhus coriaria isolate tab-13 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: PX854939.1 Length: 482
+Range 1: 332 to 446
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  332  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  391
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  392  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  446
+
+
+
+
+>Rhus integrifolia voucher MO:Carlsen3482 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OL536635.1 Length: 345
+Range 1: 10 to 125
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||| ||||| ||||||   |||| |||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCTCCCCC-CAAATCCTATGATATTGCGGCGG  125
+
+
+
+
+>Rhus typhina voucher Wen 7082 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641492.1 Length: 711
+Range 1: 384 to 498
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  498
+
+
+
+
+>Toxicodendron diversilobum isolate CBP320 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MF964008.1 Length: 715
+Range 1: 380 to 495
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  380  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  439
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| |  |||  | |||||||||||||
+Sbjct  440  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CGGATCCTGCGATCTTGCGGCGG  495
+
+
+
+
+>Rhus andrieuxii plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene (partial), specimen voucher MEXU:Medrano 4285
+Sequence ID: HE862262.1 Length: 708
+Range 1: 381 to 495
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATATTGCGGCGG  495
+
+
+
+
+>Rhus typhina voucher BOP010203 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT227675.1 Length: 710
+Range 1: 367 to 481
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  367  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  426
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  427  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTTTGATCTTGCGGCGG  481
+
+
+
+
+>Cotinus coggygria voucher Q072 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH711074.1 Length: 660
+>Petasites japonicus voucher Q073 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: MH712675.1 Length: 660 
+Range 1: 357 to 469
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:107/114(94%),  Gaps:1/114(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  357  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  416
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||| ||||||   |||||||||||
+Sbjct  417  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGG  469
+
+
+
+
+>Rhus virens voucher Wen9747(US) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF664204.1 Length: 687
+Range 1: 364 to 479
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  364  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  423
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||| ||||||   || | |||||||||
+Sbjct  424  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGGTATTGCGGCGG  479
+
+
+
+
+>Rhus typhina 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682848.1 Length: 671
+Range 1: 368 to 482
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  482
+
+
+
+
+>Rhus glabra voucher RM Warrick 2726 5.8S ribosomal RNA gene, partial sequence; and internal transcribed spacer 2, complete sequence
+Sequence ID: KY584358.1 Length: 333
+Range 1: 29 to 143
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  29   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  88
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  89   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTTTGATCTTGCGGCGG  143
+
+
+
+
+>Rhus coriaria voucher Wen 7150 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641485.1 Length: 712
+Range 1: 385 to 499
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  385  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  444
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  445  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  499
+
+
+
+
+>Rhus michauxii voucher Hardin 13984 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641488.1 Length: 711
+Range 1: 384 to 498
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTTTGATCTTGCGGCGG  498
+
+
+
+
+>Rhus lanceolata voucher Wen 7277 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641487.1 Length: 710
+Range 1: 384 to 498
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  498
+
+
+
+
+>Rhus ovata isolate CBP220 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MF963949.1 Length: 716
+Range 1: 381 to 496
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||| ||||| ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCTCCCCC-CAAATCCTATGATGTTGCGGCGG  496
+
+
+
+
+>Rhus schiedeana voucher Steimann 3696 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641504.1 Length: 687
+Range 1: 365 to 479
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  365  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  424
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||| |||||||||
+Sbjct  425  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATATTGCGGCGG  479
+
+
+
+
+>Rhus oaxacana plastid 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene (partial), specimen voucher MEXU:Juarez 567
+Sequence ID: HE862266.1 Length: 708
+Range 1: 381 to 495
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  381  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  440
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||| |||||||||
+Sbjct  441  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATATTGCGGCGG  495
+
+
+
+
+>Faguetia falcata isolate 244 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF089141.1 Length: 677
+Range 1: 368 to 481
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:3/117(2%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||||||||||||   ||||||  ||||| |||||||||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCC---CAAATCANGTGATATTGCGGCGG  481
+
+
+
+
+>Cotinus coggygria voucher BOP010064 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence.
+Sequence ID: MT227608.1 Length: 684
+Range 1: 340 to 452
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:107/114(94%),  Gaps:1/114(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  399
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||| ||||||   |||||||||||
+Sbjct  400  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATCCTATGATCTTGCGG  452
+
+
+
+
+>Rhus integrifolia voucher Miller 28 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641499.1 Length: 711
+Range 1: 384 to 499
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||| ||||| ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCTCCCCC-CAAATCCTATGATATTGCGGCGG  499
+
+
+
+
+>Galanthus krasnovii isolate TAB13 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: PX851064.1 Length: 551
+Range 1: 341 to 455
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  341  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  400
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  401  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  455
+
+
+
+
+>Rhus kearneyi voucher Icket-Bond 1298 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641500.1 Length: 688
+Range 1: 366 to 480
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  366  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  425
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||| |||||||||
+Sbjct  426  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATATTGCGGCGG  480
+
+
+
+
+>Rhus ovata voucher Miller 6 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641501.1 Length: 711
+Range 1: 384 to 499
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||| ||||| ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCTCCCCC-CAAATCCTATGATGTTGCGGCGG  499
+
+
+
+
+>Rhus virens voucher Wen 7282 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641505.1 Length: 711
+Range 1: 384 to 498
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATATTGCGGCGG  498
+
+
+
+
+>Rhus ovata voucher Miller 22 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641502.1 Length: 711
+Range 1: 384 to 499
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:1/117(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||| ||||| ||||||   |||| |||||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCTCCCCC-CAAATCCTATGATGTTGCGGCGG  499
+
+
+
+
+>Rhus typhina voucher Wen 8557 (US) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945920.1 Length: 701
+Range 1: 375 to 489
+
+Score:171 bits(92), Expect:3e-38, 
+Identities:109/117(93%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  375  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  434
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   ||||||||||||||
+Sbjct  435  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  489
+
+
+
+
+>Rhus chinensis var. roxburghii genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence
+Sequence ID: AB539919.1 Length: 744
+Range 1: 389 to 502
+
+Score:169 bits(91), Expect:9e-38, 
+Identities:109/117(93%),  Gaps:3/117(2%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  389  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  448
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||| |||||
+Sbjct  449  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTG-GGCGG  502
+
+
+
+
+>Rhus virens voucher Steinmann 3719 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641507.1 Length: 691
+Range 1: 366 to 483
+
+Score:169 bits(91), Expect:9e-38, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  366  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  425
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccA-CAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||||||||||||||  ||||||   || | |||||||||
+Sbjct  426  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCCCCAAATCCTATGRTATTGCGGCGG  483
+
+
+
+
+>Faguetia falcata isolate 270 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF089142.1 Length: 677
+Range 1: 368 to 481
+
+Score:169 bits(91), Expect:9e-38, 
+Identities:109/117(93%),  Gaps:3/117(2%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  368  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  427
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||||||||||||   ||||||  ||||| |||||||||
+Sbjct  428  TCTGCCTGGGTGTCACGCATCGTTGCCCCCC---CAAATCACGTGATATTGCGGCGG  481
+
+
+
+
+>Toxicodendron vernicifluum voucher Wen 9001 (US) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945951.1 Length: 687
+Range 1: 356 to 473
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  356  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  415
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  416  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  473
+
+
+
+
+>Toxicodendron vernicifluum voucher Q218 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH711200.1 Length: 719
+Range 1: 374 to 491
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  374  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  433
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  434  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  491
+
+
+
+
+>Toxicodendron vernicifluum voucher Nie &amp; Meng 229 (KUN) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945939.1 Length: 709
+Range 1: 378 to 495
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  378  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  437
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  438  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  495
+
+
+
+
+>Toxicodendron succedaneum voucher Tibet 1661 (KUN, US) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945957.1 Length: 692
+Range 1: 362 to 479
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  362  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  421
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  422  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  479
+
+
+
+
+>Toxicodendron vernicifluum voucher Nie &amp; Meng 329 (KUN) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945934.1 Length: 655
+Range 1: 339 to 456
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  339  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  398
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  399  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  456
+
+
+
+
+>Toxicodendron vernix voucher Wen 7146 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641520.1 Length: 712
+Range 1: 388 to 505
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  388  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  447
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  448  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  505
+
+
+
+
+>Schinus terebinthifolia isolate A140 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: KP398506.1 Length: 717
+Range 1: 373 to 490
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  373  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  432
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG-CGG  117
+            |||||||||| ||||||||||||||||||| || || |||  | |||||||||| |||
+Sbjct  433  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGAGATCTTGCGGGCGG  490
+
+
+
+
+>Toxicodendron vernicifluum voucher XA070 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH703418.1 Length: 368
+Range 1: 21 to 138
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  21   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  80
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  81   TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  138
+
+
+
+
+>Toxicodendron vernicifluum voucher Wen8046(US) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF664208.1 Length: 691
+Range 1: 365 to 482
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  365  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  424
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  425  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  482
+
+
+
+
+>Rhus trilobata voucher Miller 21 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641497.1 Length: 712
+Range 1: 384 to 482
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:97/100(97%),  Gaps:1/100(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATC  100
+            |||||||||| |||||||||||||||||||||| ||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATC  482
+
+
+
+
+>Toxicodendron vernicifluum voucher Nie &amp; Meng 376 (KUN) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: FJ945941.1 Length: 674
+Range 1: 346 to 463
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  346  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  405
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  406  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  463
+
+
+
+
+>Schinus terebinthifolius voucher Bolson 332-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420940.1 Length: 656
+Range 1: 329 to 442
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:106/114(93%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  329  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  388
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| ||||||||||||||||||| || || |||  | ||||||||||
+Sbjct  389  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGCGATCTTGCGG  442
+
+
+
+
+>Schinus terebinthifolius voucher Bolson 328-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420943.1 Length: 598
+Range 1: 313 to 426
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:106/114(93%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  313  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  372
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| ||||||||||||||||||| || || |||  | ||||||||||
+Sbjct  373  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGCGATCTTGCGG  426
+
+
+
+
+>Schinus terebinthifolius voucher Bolson 331-2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420941.1 Length: 684
+Range 1: 357 to 474
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  357  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  416
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG-CGG  117
+            |||||||||| ||||||||||||||||||| || || |||  | |||||||||| |||
+Sbjct  417  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGCGATCTTGCGGGCGG  474
+
+
+
+
+>Rhus microphylla voucher Wen9736(US) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF664203.1 Length: 686
+Range 1: 364 to 473
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:105/112(94%),  Gaps:2/112(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  364  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  423
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGC  112
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||
+Sbjct  424  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGC  473
+
+
+
+
+>Toxicodendron succedaneum 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+Sequence ID: MF785458.1 Length: 349
+Range 1: 10 to 127
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  127
+
+
+
+
+>Toxicodendron vernicifluum voucher Q218 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH703242.1 Length: 366
+Range 1: 19 to 136
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  19   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  78
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  79   TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  136
+
+
+
+
+>Rhus aromatica 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: EF682844.1 Length: 669
+Range 1: 365 to 463
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:97/100(97%),  Gaps:1/100(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  365  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  424
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATC  100
+            |||||||||| |||||||||||||||||||||| ||||||
+Sbjct  425  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATC  463
+
+
+
+
+>Schinus terebinthifolius voucher Bolson 331-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420942.1 Length: 687
+Range 1: 359 to 476
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  359  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  418
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG-CGG  117
+            |||||||||| ||||||||||||||||||| || || |||  | |||||||||| |||
+Sbjct  419  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGAGATCTTGCGGGCGG  476
+
+
+
+
+>Toxicodendron vernicifluum voucher T. T. Tian 121 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MN722093.1 Length: 639
+Range 1: 339 to 456
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  339  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  398
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  399  TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  456
+
+
+
+
+>Schinus terebinthifolius voucher Blum 11-013 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420944.1 Length: 636
+Range 1: 332 to 449
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  332  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  391
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG-CGG  117
+            |||||||||| ||||||||||||||||||| || || |||  | |||||||||| |||
+Sbjct  392  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGAGATCTTGCGGGCGG  449
+
+
+
+
+>Toxicodendron vernix voucher CCDB-20332-A08 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG235312.1 Length: 350
+Range 1: 10 to 127
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:109/118(92%),  Gaps:1/118(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAA-ATCGGGTGATCTTGCGGCGG  117
+            |||||||||| |||||||||||||||||  ||| ||| |||  | |||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCAACCCCCAAGATCCTGCGATCTTGCGGCGG  127
+
+
+
+
+>Schinus terebinthifolius voucher Bolson 332-2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+Sequence ID: KF420939.1 Length: 685
+Range 1: 357 to 470
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:106/114(93%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  357  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  416
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| ||||||||||||||||||| || || |||  | ||||||||||
+Sbjct  417  TCTGCCTGGGTGTCACGCATCGTTGCCCCCTCCCCAGATCCTGCGATCTTGCGG  470
+
+
+
+
+>Rhus aromatica voucher Wen 7086 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+Sequence ID: AY641493.1 Length: 712
+Range 1: 384 to 482
+
+Score:167 bits(90), Expect:3e-37, 
+Identities:97/100(97%),  Gaps:1/100(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  384  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  443
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATC  100
+            |||||||||| |||||||||||||||||||||| ||||||
+Sbjct  444  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCC-CAAATC  482
+
+
+
+
+>Cotinus coggygria voucher Ge130917 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MH710751.1 Length: 742
+Range 1: 401 to 512
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  401  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  460
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  461  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  512
+
+
+
+
+>Cotinus coggygria var. pubescens voucher YZ08670(KUN) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF682001.1 Length: 633
+Range 1: 329 to 440
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  329  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  388
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  389  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  440
+
+
+
+
+>Cotinus coggygria voucher CCDB-23388-C03 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG235773.1 Length: 344
+Range 1: 10 to 121
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  121
+
+
+
+
+>Toxicodendron rydbergii voucher BAB-0354 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG234957.1 Length: 344
+Range 1: 10 to 124
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:108/117(92%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||||||||||||||    |||  | |||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGTTGCCCCCCCCGG--ATCCTGCGATCTTGCGGCGG  124
+
+
+
+
+>Rhus copallinum voucher CCDB-24917-A02 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: MG236611.1 Length: 344
+Range 1: 10 to 124
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:108/117(92%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  10   CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  69
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||| |||||||||  ||||||   ||||||||||||||
+Sbjct  70   TCTGCCTGGGTGTCACGCATCGCTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  124
+
+
+
+
+>Cotinus coggygria var. pubescens voucher YZ08185(KUN) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF682000.1 Length: 646
+Range 1: 340 to 451
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  340  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  399
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  400  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  451
+
+
+
+
+>Cotinus coggygria var. glaucophyllus voucher T. T. Tian 65 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: MN722096.1 Length: 630
+Range 1: 335 to 446
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  335  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  394
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  395  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  446
+
+
+
+
+>Cotinus szechuanensis voucher KM(KUN) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF682003.1 Length: 623
+Range 1: 317 to 428
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  317  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  376
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  377  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  428
+
+
+
+
+>Rhus copallinum isolate 1039833 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+Sequence ID: OR428720.1 Length: 715
+Range 1: 369 to 483
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:108/117(92%),  Gaps:2/117(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            |||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||
+Sbjct  369  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCACTAGGCCGAGGGCACG  428
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGGCGG  117
+            |||||||||| ||||||||||| |||||||||  ||||||   ||||||||||||||
+Sbjct  429  TCTGCCTGGGTGTCACGCATCGCTGCCCCCCC--CAAATCCTATGATCTTGCGGCGG  483
+
+
+
+
+>Cotinus szechuanensis voucher MJ602(KUN) internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+Sequence ID: KF682002.1 Length: 617
+Range 1: 317 to 428
+
+Score:165 bits(89), Expect:1e-36, 
+Identities:106/114(93%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  1    CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCTAAGCCATTAAGCCGAGGGCACG  60
+            ||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||
+Sbjct  317  CCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCCAAGCCATTAGGCCGAGGGCACG  376
+
+Query  61   TCTGCCTGGGGGTCACGCATCGTTGccccccccACAAATCGGGTGATCTTGCGG  114
+            |||||||||| |||||||||||||||||||||  ||||||   |||||||||||
+Sbjct  377  TCTGCCTGGGTGTCACGCATCGTTGCCCCCCC--CAAATCCTATGATCTTGCGG  428
+
+
+
+
+
+
+
+		
+
+

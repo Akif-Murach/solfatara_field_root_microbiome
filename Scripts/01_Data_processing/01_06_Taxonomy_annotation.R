@@ -22,7 +22,6 @@
 
 library(dada2)
 library(seqinr)
-library(here)
 
 # ======================================================================
 # 1. Settings
@@ -48,10 +47,7 @@ reference_db <- c(
   Fungi = {
     fungi_candidates <- file.path(
       reference_dir,
-      c(
-        "sh_general_release_dynamic_19.02.2025.fasta",
-        "sh_general_release_dynamic_s_19.02.2025.fasta"
-      )
+        "sh_general_release_dynamic_19.02.2025.fasta"
     )
     existing_fungi_reference <- fungi_candidates[file.exists(fungi_candidates)]
     if (length(existing_fungi_reference) > 0) {
@@ -94,9 +90,10 @@ remove_fungal_prefixes <- function(taxa) {
   taxa
 }
 
-make_asv_ids <- function(n_asv) {
+make_asv_ids <- function(n_asv, dataset) {
+  prefix <- switch(dataset, Prokaryote = "P_", Fungi = "F_", Plant = "X_")
   width <- nchar(n_asv)
-  sprintf(paste0("X_%0", width, "d"), seq_len(n_asv))
+  sprintf(paste0(prefix, "%0", width, "d"), seq_len(n_asv))
 }
 
 # ======================================================================
@@ -105,9 +102,9 @@ make_asv_ids <- function(n_asv) {
 for (dataset in datasets) {
   message("\nASV preparation and taxonomy: ", dataset)
 
-  output_dir <- here("Output", "01_Data_processing", dataset)
-  seqtab <- readRDS(file.path(output_dir, "seqtab_decontam.rds")) |>
-    as.matrix()
+  output_dir <- file.path("Output", "01_Data_processing", dataset)
+  
+  seqtab <- readRDS(file.path(output_dir, "seqtab_decontam.rds"))
 
   taxa <- NULL
   if (dataset %in% names(reference_db)) {
@@ -128,7 +125,7 @@ for (dataset in datasets) {
   }
 
   sequences <- colnames(seqtab)
-  asv_ids <- make_asv_ids(ncol(seqtab))
+  asv_ids <- make_asv_ids(ncol(seqtab), dataset)
   colnames(seqtab) <- asv_ids
   if (!is.null(taxa)) rownames(taxa) <- asv_ids
 

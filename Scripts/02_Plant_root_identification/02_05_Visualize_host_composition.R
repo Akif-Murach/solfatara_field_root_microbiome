@@ -6,7 +6,7 @@ library(here)
 input<-here("Output", "02_Plant_root_identification", 
             "Metadata", "Plant")
 output<-here("Output", "02_Plant_root_identification","Figures")
-dir.create(output2,showWarnings = FALSE,recursive = TRUE)
+dir.create(output,showWarnings = FALSE,recursive = TRUE)
 
 
 host_data <- read.csv(here(input, "processed_host_metadata.csv"))

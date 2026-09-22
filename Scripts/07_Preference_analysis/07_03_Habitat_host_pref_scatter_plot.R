@@ -21,7 +21,7 @@
 #
 # Analysis & Visualization:
 #   1. Load habitat- and host-preference results.
-#   2. Retain OTUs with complete preference information.
+#   2. Save shared OTUs including NA; use complete coordinates for plotting.
 #   3. Classify OTUs according to significant habitat and host preferences.
 #   4. Add taxonomic annotations (highest available rank + OTU_ID).
 #   5. Select representative OTUs for text labeling (top host, top habitat, both significant).
@@ -145,8 +145,14 @@ tax_label <- tax |>
   select(OTU_ID, label)
 
 plot_data <- preference_df |>
+  # Exclude missing coordinates only from the plot, not the saved data.
+  drop_na(habitat_preference, host_preference) |>
   left_join(tax_label, by = "OTU_ID")
 
+sigcount<-plot_data|>
+  group_by(Siglabel)|>
+  count()
+print(sigcount)
 # ======================================================================
 # 6. Select OTUs to be Labeled in Plot
 # ======================================================================
@@ -161,7 +167,7 @@ if (sum(plot_data$Siglabel == "Solfatara field", na.rm = TRUE) > 0) {
   top_habitat_positive <- plot_data |>
     filter(Significant == "Habitat") |>
     arrange(desc(habitat_preference)) |>
-    slice_head(n = 2)
+    slice_head(n = 3)
   
   top_habitat_negative <- plot_data |>
     filter(Significant == "Habitat") |>
@@ -173,7 +179,7 @@ if (sum(plot_data$Siglabel == "Solfatara field", na.rm = TRUE) > 0) {
   top_habitat <- plot_data |>
     filter(Significant == "Habitat") |>
     arrange(habitat_preference) |>
-    slice_head(n = 5)
+    slice_head(n = 6)
 }
 
 # Both significant OTUs ------------------------------------------------

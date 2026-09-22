@@ -1,8 +1,8 @@
 # 08_05_Phylogenetic_signal.R
 # Purpose: Test phylogenetic signal in habitat and host preference using Blomberg's K and Pagel's lambda.
 # Workflow: 1. Load tree & trait data -> 2. Prepare traits -> 3. Match OTUs -> 4. Calculate signal -> 5. Save results
-# Input: Output/05_Phylogenetic_analysis/Phylo_data/
-# Output: Output/05_Phylogenetic_analysis/Phylo_signal/
+# Input: Output/08_Phylogenetic_analysis/Phylo_data/
+# Output: Output/08_Phylogenetic_analysis/Phylo_signal/
 
 #===========================================================
 # Packages & Setup
@@ -11,21 +11,20 @@ library(here)
 library(tidyverse)
 library(ape)
 library(phytools)
-library(treeio)
 
 input_dir <- here("Output", "08_Phylogenetic_analysis", "Phylo_data")
-input_dir2 <- here("Output", "07_Preference_analysis", "Proc_data", "Fungi", "th3")
+input_dir2 <- here("Output", "07_Preference_analysis", "Proc_data",
+                   "Fungi", "th3")
 output_dir <- here("Output", "08_Phylogenetic_analysis", "Phylo_signal")
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
 #===========================================================
 # 1. Load data & Prepare traits
 #===========================================================
-tree <- read.newick(file.path(input_dir, "Newick_Pairwise_0.6.nwk"))
+tree <- ape::read.tree(file.path(input_dir, "Newick_Pairwise_0.6.nwk"))
 trait_data <- readRDS(file.path(input_dir2, "preference_data.rds")) |>
   as.data.frame() |>
-  rename(OTU = OTU_ID) |>
-  mutate(habitat_d = if_else(habitat_preference > 0, 1, 0))
+  dplyr::rename(OTU = OTU_ID)
 
 #===========================================================
 # 2. Match OTUs between tree and trait data
@@ -42,7 +41,7 @@ tree_trait <- drop.tip(tree, setdiff(tree$tip.label, trait_tree_data$tip.label))
 #===========================================================
 # 3. Calculate phylogenetic signal
 #===========================================================
-traits_to_test <- c("habitat_preference", "habitat_d", "host_preference")
+traits_to_test <- c("habitat_preference", "host_preference")
 set.seed(1234)
 
 phylogenetic_signal <- map_dfr(traits_to_test, \(trait_name) {
@@ -67,3 +66,4 @@ phylogenetic_signal <- map_dfr(traits_to_test, \(trait_name) {
 write.csv(phylogenetic_signal, 
           file = file.path(output_dir, "phylogenetic_signal_results.csv"), 
           row.names = FALSE)
+phylogenetic_signal
