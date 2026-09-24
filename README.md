@@ -153,7 +153,7 @@ R, package, external-software and reference-database versions are recorded in:
 - `Scripts/01_*`–`08_*`: numbered workflow stages shown above.
 - `Function/`: helper functions sourced by the analysis scripts.
 - `Data/`: supplied inputs; `Output/`: generated results (not tracked on GitHub).
-- `version_info/`: environment records.
+- `Version_info/`: environment records.
 
 Except for run-level 01_01–01_03, execute scripts from the repository root.
 There is no single master script: datasets and analysis combinations must be
