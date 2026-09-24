@@ -21,8 +21,8 @@ library(broom)
 library(here)
 
 # Settings -------------------------------------------------------------
-data_type <- "Fungi" # "Prokaryote" or "Fungi"
-analysis <- "2DP" # "2DP" or "dprime"
+data_type <- "Prokaryote" # "Prokaryote" or "Fungi"
+analysis <- "dprime" # "2DP" or "dprime"
 focus <- "host" # "habitat" or "host"
 direction <- "host" # "microbe" or "host"
 thresholds <- c(1, 3, 5)
@@ -57,7 +57,7 @@ dir.create(analysis_output, showWarnings = FALSE, recursive = TRUE)
 
 file_prefix <- paste0(analysis, "_", data_type, "_", condition)
 
-walk(threshold_pairs, \(pair) {
+purrr::walk(threshold_pairs, \(pair) {
   threshold1 <- pair[1]
   threshold2 <- pair[2]
   run_robustness_check(

@@ -6,7 +6,7 @@
 make_permanova_table <- function(results) {
   
   table_prep <- results |>
-    rename(
+    dplyr::rename(
       df = Df,
       SS = SumOfSqs,
       F_val = F,

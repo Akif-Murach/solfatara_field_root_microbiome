@@ -279,13 +279,13 @@ create_root_soil_table <- function(data_type, input, output) {
   )
   
   sample_type_sf <- read_permdisp_result(
-    get_result_file(input, data_type, sample_type, "sample_type_Solfatara_field"),
+    get_result_file(input, data_type, sample_type, "sample_type_solfatara_field"),
     test_label = "Sample type within solfatara field", factor_label = "Sample type", 
     permutation_label = "Within sampling point"
   )
   
   sample_type_fe <- read_permdisp_result(
-    get_result_file(input, data_type, sample_type, "sample_type_Forest_edge"),
+    get_result_file(input, data_type, sample_type, "sample_type_forest_edge"),
     test_label = "Sample type within forest edge", factor_label = "Sample type", 
     permutation_label = "Within sampling point"
   )

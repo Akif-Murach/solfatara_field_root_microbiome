@@ -57,7 +57,7 @@ names(hyaloscyphaceae_fasta) <- paste0(taxa_hyaloscyphaceae$label,
 # ============================================================
 # 5. Combine OTU and reference sequences
 # ============================================================
-reference_fasta <- readDNAStringSet(file.path(seq_dir, "Reference", 
+reference_fasta <- readDNAStringSet(file.path(seq_dir, 
                                               "Hyaloscyphaceae_refseq.fasta"))
 combined_fasta <- c(hyaloscyphaceae_fasta, reference_fasta)
 

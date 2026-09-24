@@ -29,7 +29,7 @@ make_permdisp_table <- function(
         "Residuals" = "Residuals"
       )
     ) |>
-    rename(
+    dplyr::rename(
       df = Df,
       SS = `Sum Sq`,
       MS = `Mean Sq`,

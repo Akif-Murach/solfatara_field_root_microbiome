@@ -142,8 +142,8 @@ if (sample_type == "Root&Soil") {
   save_list <- list(
     habitat_root = res_habitat_root,
     habitat_soil = res_habitat_soil,
-    Solfatara_field = res_comp_sf,
-    sample_type_Forest_edge = res_comp_fe
+    sample_type_solfatara_field = res_comp_sf,
+    sample_type_forest_edge = res_comp_fe
   )
   
   for (suffix in names(save_list)) {

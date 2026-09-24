@@ -196,7 +196,7 @@ if (sample_type == "Root&Soil") {
   write.csv(res_habitat_soil, here(output, paste0(data_type, "_", sample_type, 
                                                   "_PERMDISP_habitat_soil_th3.csv")))
   write.csv(res_comp_sf, here(output, paste0(data_type, "_", sample_type, 
-                                             "_PERMDISP_sample_type_Solfatara_field_th3.csv")))
+                                             "_PERMDISP_sample_type_solfatara_field_th3.csv")))
   write.csv(res_comp_fe, here(output, paste0(data_type, "_", sample_type, 
-                                             "_PERMDISP_sample_type_Forest_edge_th3.csv")))
+                                             "_PERMDISP_sample_type_forest_edge_th3.csv")))
 }
