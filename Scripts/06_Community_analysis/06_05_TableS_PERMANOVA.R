@@ -21,7 +21,7 @@ conditions <- tidyr::expand_grid(
 )
 
 input <- here("Output", "06_Community_analysis", "01_PERMANOVA")
-output <- here("Output", "06_Community_analysis", "05_Tables", "PERMANOVA")
+output <- here("Output", "06_Community_analysis", "PERMANOVA_Tables")
 
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
@@ -98,9 +98,18 @@ make_permanova_table <- function(results) {
       FDR = format_p_value(FDR)
     )
   
-  if (!include_fdr) table_data <- select(table_data, -FDR)
+  if (include_fdr) {
+    table_data <- select(table_data, -P_val)
+  } else {
+    table_data <- select(table_data, -FDR)
+  }
   
-  flextable(table_data) |>
+  ft <- flextable(table_data)
+  if (!include_fdr) {
+    ft <- compose(ft, part = "header", j = "P_val", value = as_paragraph(as_i("P")))
+  }
+  
+  ft |>
     set_header_labels(
       Test = "Test", Permutation = "Permutation restriction",
       Factor = "Factor", SS = "SS", FDR = "FDR"
@@ -108,7 +117,6 @@ make_permanova_table <- function(results) {
     compose(part = "header", j = "df", value = as_paragraph(as_i("df"))) |>
     compose(part = "header", j = "R2", value = as_paragraph(as_i("R"), as_sup("2"))) |>
     compose(part = "header", j = "F_val", value = as_paragraph(as_i("F"))) |>
-    compose(part = "header", j = "P_val", value = as_paragraph(as_i("P"))) |>
     colformat_int(j = "df", na_str = "") |>
     colformat_double(j = c("SS", "R2", "F_val"), digits = 3, na_str = "") |>
     theme_booktabs() |>
@@ -120,7 +128,13 @@ make_permanova_table <- function(results) {
     font(fontname = "Times New Roman", part = "all") |>
     fontsize(size = 10, part = "all") |>
     autofit() |>
-    set_table_properties(layout = "autofit", width = 1)
+    width(j = "Test", width = 1.25) |>
+    width(j = "Permutation", width = 1.15) |>
+    width(j = "Factor", width = 1.00) |>
+    width(j = "df", width = 0.40) |>
+    width(j = c("SS", "R2", "F_val"), width = 0.60) |>
+    width(j = if (include_fdr) "FDR" else "P_val", width = 0.70) |>
+    set_table_properties(layout = "fixed")
 }
 
 make_caption <- function(data_type, sample_type) {
@@ -173,14 +187,14 @@ write_permanova_table <- function(data_type, sample_type, input, output) {
         permutation_label = "Within site"
       ),
       read_permanova_result(
-        get_result_file(input, data_type, sample_type, "Solfatara_field"),
-        test_label = "Sample type within Solfatara field", factor_label = "Sample type",
-        permutation_label = "Within SID"
+        get_result_file(input, data_type, sample_type, "sample_type_Solfatara_field"),
+        test_label = "Sample type within solfatara field", factor_label = "Sample type",
+        permutation_label = "Within sampling point"
       ),
       read_permanova_result(
         get_result_file(input, data_type, sample_type, "sample_type_Forest_edge"),
         test_label = "Sample type within forest edge", factor_label = "Sample type",
-        permutation_label = "Within SID"
+        permutation_label = "Within sampling point"
       )
     )
   } else {

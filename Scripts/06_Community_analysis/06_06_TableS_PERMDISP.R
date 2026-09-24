@@ -47,7 +47,7 @@ conditions <- tidyr::expand_grid(
 )
 
 input <- here("Output", "06_Community_analysis", "03_PERMDISP")
-output <- here("Output", "06_Community_analysis", "06_Tables")
+output <- here("Output", "06_Community_analysis", "PERMDISP_Tables")
 
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
@@ -98,7 +98,7 @@ read_pairwise_host_result <- function(file) {
   
   result <- read.csv(file, check.names = FALSE, stringsAsFactors = FALSE)
   
-  required_columns <- c("comparison", "p_value", "p_perm", "FDR")
+  required_columns <- c("comparison", "FDR")
   missing_columns <- setdiff(required_columns, names(result))
   
   if (length(missing_columns) > 0) {
@@ -128,16 +128,24 @@ make_permdisp_table <- function(results) {
       FDR = format_p_value(FDR)
     )
   
-  if (!include_fdr) table_data <- select(table_data, -FDR)
+  if (include_fdr) {
+    table_data <- select(table_data, -P_value)
+  } else {
+    table_data <- select(table_data, -FDR)
+  }
   
-  flextable(table_data) |>
+  ft <- flextable(table_data)
+  if (!include_fdr) {
+    ft <- compose(ft, part = "header", j = "P_value", value = as_paragraph(as_i("P")))
+  }
+  
+  ft |>
     set_header_labels(
       Test = "Test", Permutation = "Permutation restriction",
       Factor = "Factor", SS = "SS", MS = "MS", FDR = "FDR"
     ) |>
     compose(part = "header", j = "df", value = as_paragraph(as_i("df"))) |>
     compose(part = "header", j = "F_value", value = as_paragraph(as_i("F"))) |>
-    compose(part = "header", j = "P_value", value = as_paragraph(as_i("P"))) |>
     colformat_int(j = "df", na_str = "") |>
     colformat_double(j = c("SS", "MS", "F_value"), digits = 3, na_str = "") |>
     theme_booktabs() |>
@@ -149,17 +157,22 @@ make_permdisp_table <- function(results) {
     font(fontname = "Times New Roman", part = "all") |>
     fontsize(size = 10, part = "all") |>
     autofit() |>
-    set_table_properties(layout = "autofit", width = 1)
+    width(j = "Test", width = 1.25) |>
+    width(j = "Permutation", width = 1.15) |>
+    width(j = "Factor", width = 1.00) |>
+    width(j = "df", width = 0.40) |>
+    width(j = c("SS", "MS", "F_value"), width = 0.60) |>
+    width(j = if (include_fdr) "FDR" else "P_value", width = 0.70) |>
+    set_table_properties(layout = "fixed")
 }
 
 # ======================================================================
 # 4. Flextable: Pairwise host tests
 # ======================================================================
-
 make_pairwise_table <- function(results) {
   table_data <- results |>
+    select(-any_of("P_value")) |>
     mutate(
-      P_value = format_p_value(P_value),
       FDR = format_p_value(FDR)
     )
   
@@ -169,7 +182,6 @@ make_pairwise_table <- function(results) {
       Permutation = "Permutation restriction",
       FDR = "FDR"
     ) |>
-    compose(part = "header", j = "P_value", value = as_paragraph(as_i("P"))) |>
     theme_booktabs() |>
     align(align = "center", part = "all") |>
     align(j = c("Comparison", "Permutation"), align = "left", part = "all") |>
@@ -177,9 +189,11 @@ make_pairwise_table <- function(results) {
     font(fontname = "Times New Roman", part = "all") |>
     fontsize(size = 10, part = "all") |>
     autofit() |>
-    set_table_properties(layout = "autofit", width = 1)
+    width(j = "Comparison", width = 4.45) |>
+    width(j = "Permutation", width = 1.15) |>
+    width(j = "FDR", width = 0.70) |>
+    set_table_properties(layout = "fixed")
 }
-
 # ======================================================================
 # 5. Captions
 # ======================================================================
@@ -266,12 +280,14 @@ create_root_soil_table <- function(data_type, input, output) {
   
   sample_type_sf <- read_permdisp_result(
     get_result_file(input, data_type, sample_type, "sample_type_Solfatara_field"),
-    test_label = "Sample type within Solfatara field", factor_label = "Sample type", permutation_label = "Within SID"
+    test_label = "Sample type within solfatara field", factor_label = "Sample type", 
+    permutation_label = "Within sampling point"
   )
   
   sample_type_fe <- read_permdisp_result(
     get_result_file(input, data_type, sample_type, "sample_type_Forest_edge"),
-    test_label = "Sample type within forest edge", factor_label = "Sample type", permutation_label = "Within SID"
+    test_label = "Sample type within forest edge", factor_label = "Sample type", 
+    permutation_label = "Within sampling point"
   )
   
   results <- bind_rows(habitat_root, habitat_soil, sample_type_sf, sample_type_fe)

@@ -52,7 +52,7 @@ library(rstatix)
 library(tidyr)
 
 # Analysis settings -----------------------------------------------------
-data_type <- "Fungi"   # "Prokaryote" or "Fungi"
+data_type <- "Prokaryote"   # "Prokaryote" or "Fungi"
 sample_type <- "Root&Soil"  # "Root", "Soil", or "Root&Soil"
 
 # Input and output directories ------------------------------------------

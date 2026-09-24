@@ -40,9 +40,7 @@ input <- here(
   "Output", "06_Community_analysis", "02_Variation_partitioning"
 )
 output <- here(
-  "Output", "06_Community_analysis", "07_Tables",
-  "Variation_partitioning"
-)
+  "Output", "06_Community_analysis", "Varpart_Tables")
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
 # ======================================================================
