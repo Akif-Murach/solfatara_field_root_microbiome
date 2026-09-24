@@ -6,7 +6,7 @@
 make_permanova_table <- function(results) {
   
   table_prep <- results |>
-    dplyr::rename(
+    rename(
       df = Df,
       SS = SumOfSqs,
       F_val = F,
@@ -49,16 +49,14 @@ make_permanova_table <- function(results) {
       part = "header",
       j = "F_val",
       value = as_paragraph(
-        as_i("F"),
-        " value"
+        as_i("F")
       )
     ) |>
     compose(
       part = "header",
       j = "P_val",
       value = as_paragraph(
-        as_i("P"),
-        "-value"
+        as_i("P")
       )
     ) |>
     

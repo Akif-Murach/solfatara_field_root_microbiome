@@ -29,7 +29,7 @@ make_permdisp_table <- function(
         "Residuals" = "Residuals"
       )
     ) |>
-    dplyr::rename(
+    rename(
       df = Df,
       SS = `Sum Sq`,
       MS = `Mean Sq`,
@@ -75,7 +75,7 @@ make_permdisp_table <- function(
     compose(
       part = "header",
       j = "F_value",
-      value = as_paragraph(as_i("F"), " value")
+      value = as_paragraph(as_i("F"))
     ) |>
     autofit() |>
     set_table_properties(
@@ -119,8 +119,7 @@ make_permdisp_table <- function(
         part = "header",
         j = "P_report",
         value = as_paragraph(
-          as_i("P"),
-          "-value"
+          as_i("P")
         )
       )
   }
